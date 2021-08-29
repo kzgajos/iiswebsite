@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Visualization of Electronic Health Record Data for Decision-Making in Diabetes and Congestive Heart Failure</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Visualization of Electronic Health Record Data for Decision-Making in Diabetes and Congestive Heart Failure">
+<meta property="og:description" content="Objective:<br/> The aim of this study is to study the impact of graphical representation of health record data on physician decision-making to inform the design of health information technology. <br/><br/>Materials and Methods:<br/> We conducted a within participants crossover design study using a simulated electronic health record (EHR) in which we presented cases with and without visualized data designed to highlight important clinical trends or relationships, followed by assessment of the impact on decision-making about next steps for patients with chronic diseases. We then asked whether trends were observed and about usability and satisfaction using validated usability questions and asked open-ended questions as well. Time to answer questions was also collected. <br/><br/>Results:<br/> Twenty-one primary care providers participated in the study, including five for testing only and sixteen for the full study. Questions about clinical assessment or next actions were answered correctly 55% of the time. Regarding objective trends in the data, participants described noticing the trends 85% of the time. Differences in noticing trends or difficulty level of questions were not statistically significant. Satisfaction with the tool was high and participants agreed strongly that it helped them make better decisions without adding to the time it took. <br/><br/>Discussion:<br/> The simulation allowed us to test the impact of a visualization on clinician practice in a realistic setting. Designers of EHRs should consider the ways information presentation can affect decision-making. <br/><br/>Conclusion:<br/> Testing visualization tools can be done in a clinically realistic context. Providers desire visualizations and believe that they help them make better and faster decisions.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Visualization of Electronic Health Record Data for Decision-Making in Diabetes and Congestive Heart Failure</h1>
+<h2 class="head">Shira&nbsp;H Fischer, Charles Safran, Krzysztof&nbsp;Z Gajos, and Adam Wright</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Objective:<br/> The aim of this study is to study the impact of graphical representation of health record data on physician decision-making to inform the design of health information technology. <br/><br/>Materials and Methods:<br/> We conducted a within participants crossover design study using a simulated electronic health record (EHR) in which we presented cases with and without visualized data designed to highlight important clinical trends or relationships, followed by assessment of the impact on decision-making about next steps for patients with chronic diseases. We then asked whether trends were observed and about usability and satisfaction using validated usability questions and asked open-ended questions as well. Time to answer questions was also collected. <br/><br/>Results:<br/> Twenty-one primary care providers participated in the study, including five for testing only and sixteen for the full study. Questions about clinical assessment or next actions were answered correctly 55% of the time. Regarding objective trends in the data, participants described noticing the trends 85% of the time. Differences in noticing trends or difficulty level of questions were not statistically significant. Satisfaction with the tool was high and participants agreed strongly that it helped them make better decisions without adding to the time it took. <br/><br/>Discussion:<br/> The simulation allowed us to test the impact of a visualization on clinician practice in a realistic setting. Designers of EHRs should consider the ways information presentation can affect decision-making. <br/><br/>Conclusion:<br/> Testing visualization tools can be done in a clinically realistic context. Providers desire visualizations and believe that they help them make better and faster decisions.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2020/fischer20visualization.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="https://doi.org/10.1055/s-0040-1702213">Publisher's version
+ (Georg Thieme Verlag KG)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Shira&nbsp;H Fischer, Charles Safran, Krzysztof&nbsp;Z Gajos, and Adam Wright. Visualization of electronic health record data for decision-making in diabetes and congestive heart failure. <EM>ACI Open</EM>, 4(01):e35&ndash;e43, 2020.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: fischer20:visualization','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: fischer20:visualization</TITLE></HEAD><BODY><PRE>@article{fischer20:visualization,\n  title = {Visualization of Electronic Health Record Data for Decision-Making in Diabetes and Congestive Heart Failure},\n  author = {Fischer, Shira H and Safran, Charles and Gajos, Krzysztof Z and Wright, Adam},\n  journal = {ACI Open},\n  volume = {4},\n  number = {01},\n  pages = {e35--e43},\n  year = {2020},\n  publisher = {Georg Thieme Verlag KG},\n    abstract = {Objective:<br/> The aim of this study is to study the impact of graphical representation of health record data on physician decision-making to inform the design of health information technology. <br/><br/>Materials and Methods:<br/> We conducted a within participants crossover design study using a simulated electronic health record (EHR) in which we presented cases with and without visualized data designed to highlight important clinical trends or relationships, followed by assessment of the impact on decision-making about next steps for patients with chronic diseases. We then asked whether trends were observed and about usability and satisfaction using validated usability questions and asked open-ended questions as well. Time to answer questions was also collected. <br/><br/>Results:<br/> Twenty-one primary care providers participated in the study, including five for testing only and sixteen for the full study. Questions about clinical assessment or next actions were answered correctly 55% of the time. Regarding objective trends in the data, participants described noticing the trends 85% of the time. Differences in noticing trends or difficulty level of questions were not statistically significant. Satisfaction with the tool was high and participants agreed strongly that it helped them make better decisions without adding to the time it took. <br/><br/>Discussion:<br/> The simulation allowed us to test the impact of a visualization on clinician practice in a realistic setting. Designers of EHRs should consider the ways information presentation can affect decision-making. <br/><br/>Conclusion:<br/> Testing visualization tools can be done in a clinically realistic context. Providers desire visualizations and believe that they help them make better and faster decisions.},\n      }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

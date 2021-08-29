@@ -1,0 +1,21 @@
+<a name="predictiveText"></a>
+<h4 class="ptitle">Impact of Predictive Text on the Content of What People Write</h4>
+
+<p>
+<img class="thumbleft" src="http://www.eecs.harvard.edu/~kgajos/papers/images/arnold20predictive.png" alt="" width="200"
+align="left"/>
+Predictive text technology (e.g., the word suggestions displayed on most keyboards on mobile devices) was designed to improve the ease and efficiency of text entry. Our work demonstrates that predictive text can influence the <i>content</i> of what people write. 
+</p>
+
+<div class="ppapers">
+<P class="paper" id='xarnold20:predictcivex'>Kenneth&nbsp;C. Arnold, Krysta Chauncey, and Krzysztof&nbsp;Z. Gajos. <a href="papers/2020/arnold20predictive.pdf">Predictive Text Encourages Predictable Writing</a>. In <EM>Proceedings of the 25th International Conference on Intelligent User Interfaces</EM>. ACM, 2020. To appear.
+<br/><span class="paperdetails">[<a href="papers/2020/arnold20predictcive.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+<P class="paper" id='xarnold18:sentimentx'>Kenneth Arnold, Krysta Chauncey, and Krzysztof Gajos. <a href="papers/2018/arnold18sentiment.pdf">Sentiment Bias in Predictive Text Recommendations Results in Biased Writing</a>. In <EM>Proceedings of Graphics Interface 2018</EM>, GI 2018, pages 33 &ndash; 40. Canadian Human-Computer Communications Society / Societe canadienne du dialogue humain-machine, 2018.
+<br/><span class="paperdetails">[<a href="papers/2018/arnold18sentiment.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+<P class="paper" id='xarnold16:suggestingx'>Kenneth&nbsp;C. Arnold, Krzysztof&nbsp;Z. Gajos, and Adam&nbsp;T. Kalai. <a href="papers/2016/arnold16suggesting.pdf">On Suggesting Phrases vs. Predicting Words for Mobile Text Composition</a>. In <EM>Proceedings of the 29th Annual Symposium on User Interface Software and Technology</EM>, UIST '16, pages 603&ndash;608, New York, NY, USA, 2016. ACM.
+<br/><span class="paperdetails">[<a href="papers/2016/arnold16suggesting.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+</div>
+
+<br clear="all" />

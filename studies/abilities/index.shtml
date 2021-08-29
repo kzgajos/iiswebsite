@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<style type="text/css">
+a#n-home { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Motor Ability Measure Study</title>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Motor Ability Measure Study</h1>
+
+<h2 class="head">Study Home</h2>
+
+<!--#include virtual="nav.html" --> 
+
+<div class="content">
+<h3>The Study</h3>
+<p>
+We are building tools to adapt user interfaces to people's individual
+abilities. In this study we are investigating whether we can
+understand a person's ability to control a pointing device (such as
+mouse, trackball, eye tracker, etc) by unobtrusively observing their
+everyday interactions with the computer.
+</p>
+
+<h3>Who Is Eligible to Participate in This Study</h3>
+<p>We are looking for participants who are 18 years of age or older and who use the Firefox browser on regular basis.  We particularly welcome participants who experience difficulty typing or controlling the mouse cursor, or who use assistive devices (such as an eye tracker, a head mouse, switches, mouth-controlled joystick, or others) to interact with their computers.
+</p>
+
+<h3>Your Participation</h3>
+<p>
+Participation in this study will involve:
+<ul>
+<li>Completing an eligibility survey with one of our researchers over the phone.</li>
+<li>Installing an extension to your Firefox browser for a period of one month.  The extension will record information about the speed with which you enter text and manipulate the mosue cursor.  It will not record what pages you visit or what information you enter on those pages.</li>
+<li>Completing a set of simple diagnostic tasks that will involve some typing and some clicking.  This may take between 15 minutes and 1 hour, depending on your individual circumstances.</li>
+</ul>
+
+<h3>Compensation</h3>
+Participatns will be compensated with a $25 Amazon.com gift certificate upcon completion of the study.
+
+<h3>If You Would Like to Participate...</h3>
+If you would like to participate in our study, please <a id="n-signup" class="nav1" href="studies/abilities/signup.shtml">sign up here</a>.
+
+<br/>
+</div>
+
+<div class="content">This page was last modified on <!--#config timefmt="%B %d, %Y" --> <!--#echo var="LAST_MODIFIED" -->.</div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

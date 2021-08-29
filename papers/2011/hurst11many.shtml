@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Dynamic Accessibility: Detecting and Accommodating Differences in Ability and Situation</title>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Dynamic Accessibility: Detecting and Accommodating Differences in Ability and Situation</h1>
+<h2 class="head">Amy Hurst, Krzysztof&nbsp;Z. Gajos, Leah Findlater, Jacob&nbsp;O. Wobbrock, Andrew Sears, and Shari Trewin</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Human abilities are idiosyncratic and may change frequently. Static one-size-fits-many accessibility solutions miss the opportunities that arise from careful consideration of an individual's abilities and fail to address the sometimes dynamic aspect of those abilities, such as when a user's activity or context causes a situational impairment. The goal of this workshop is to bring together researchers and practitioners in accessibility, mobile HCI, and interactive intelligent systems who are pursuing agile, data-driven approaches that enable interactive systems to adapt or become adapted to the needs and abilities of a particular individual in a particular context.
+<br clear="all"/>
+</div>
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2011/hurst-dynamic-chi11.pdf">Authors' version (pdf)</a></li>
+
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Amy Hurst, Krzysztof&nbsp;Z. Gajos, Leah Findlater, Jacob&nbsp;O. Wobbrock, Andrew Sears, and Shari Trewin. Dynamic accessibility: Detecting and accommodating differences in ability and situation. In <EM>CHI '11: CHI '11 extended abstracts on Human factors in computing systems</EM>, New York, NY, USA, 2011. ACM Press.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: hurst11:many','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: hurst11:many</TITLE></HEAD><BODY><PRE>@inproceedings{hurst11:many,\n  address = {New York, NY, USA},\n  author = {Amy Hurst and Krzysztof Z. Gajos and Leah Findlater and Jacob O. Wobbrock and Andrew Sears and Shari Trewin},\n  booktitle = {CHI \'11: CHI \'11 extended abstracts on Human factors in computing systems},\n  publisher = {ACM Press},\n  title = {Dynamic Accessibility: Detecting and Accommodating Differences in Ability and Situation},\n  year = {2011},\n  abstract = {Human abilities are idiosyncratic and may change frequently. Static one-size-fits-many accessibility solutions miss the opportunities that arise from careful consideration of an individual\'s abilities and fail to address the sometimes dynamic aspect of those abilities, such as when a user\'s activity or context causes a situational impairment. The goal of this workshop is to bring together researchers and practitioners in accessibility, mobile HCI, and interactive intelligent systems who are pursuing agile, data-driven approaches that enable interactive systems to adapt or become adapted to the needs and abilities of a particular individual in a particular context.},\n      }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

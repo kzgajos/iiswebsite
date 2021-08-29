@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Intelligent Information Sharing to Support Loosely-Coupled Teamwork</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Intelligent Information Sharing to Support Loosely-Coupled Teamwork">
+<meta property="og:description" content="<p>Complex tasks such as treating patients with complex medical conditions, conducting research, co-authoring documents and developing software products are typically accomplished by teams. Teamwork in such settings is often loosely-coupled as team members assume different responsibilities that match their individual expertise. This decomposition of activities enables team members to function autonomously and requires team members to be aware of others' actions only if these actions interact with their own activities. However, identifying interactions between collaborators' activities can be challenging. As a result, team members are often overwhelmed by too much irrelevant information about others' activities, or lack important relevant information, both of which can lead to coordination failures. This thesis argues that intelligent information sharing methods that identify the information that is most relevant to each team member can reduce coordination overhead and improve team performance.</p><p>Through a study of teams caring for children with complex medical conditions, this thesis characterizes the coordination challenges of loosely-coupled teams and formalizes the problem of information sharing in such teams. The thesis introduces Mutual Influence Potential Networks, a new representation for modeling collaborative activities. It further defines MIP-DOI, an algorithm which uses the Mutual Influence Potential Network representation to identify the most relevant information for each team member.</p><p>The thesis also presents the design, implementation and evaluation of a personalized change awareness mechanism, which uses MIP-DOI to reduce the amount of shared change information in the context of collaborative writing. The results of an experiment evaluating this mechanism show that compared to the currently most prevalent approach of presenting users with all changes made by their collaborators, the personalized change awareness mechanism resulted in significantly reduced perceived workload and significantly increased productivity of team members. Importantly, the personalized change awareness mechanism did not have any detrimental effect on the quality of the work.</p>">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Intelligent Information Sharing to Support Loosely-Coupled Teamwork</h1>
+<h2 class="head">Ofra Amir. <E</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+<p>Complex tasks such as treating patients with complex medical conditions, conducting research, co-authoring documents and developing software products are typically accomplished by teams. Teamwork in such settings is often loosely-coupled as team members assume different responsibilities that match their individual expertise. This decomposition of activities enables team members to function autonomously and requires team members to be aware of others' actions only if these actions interact with their own activities. However, identifying interactions between collaborators' activities can be challenging. As a result, team members are often overwhelmed by too much irrelevant information about others' activities, or lack important relevant information, both of which can lead to coordination failures. This thesis argues that intelligent information sharing methods that identify the information that is most relevant to each team member can reduce coordination overhead and improve team performance.</p><p>Through a study of teams caring for children with complex medical conditions, this thesis characterizes the coordination challenges of loosely-coupled teams and formalizes the problem of information sharing in such teams. The thesis introduces Mutual Influence Potential Networks, a new representation for modeling collaborative activities. It further defines MIP-DOI, an algorithm which uses the Mutual Influence Potential Network representation to identify the most relevant information for each team member.</p><p>The thesis also presents the design, implementation and evaluation of a personalized change awareness mechanism, which uses MIP-DOI to reduce the amount of shared change information in the context of collaborative writing. The results of an experiment evaluating this mechanism show that compared to the currently most prevalent approach of presenting users with all changes made by their collaborators, the personalized change awareness mechanism resulted in significantly reduced perceived workload and significantly increased productivity of team members. Importantly, the personalized change awareness mechanism did not have any detrimental effect on the quality of the work.</p>
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2016/amir16intelligent.pdf">Authors' version (pdf)</a></li>
+
+
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Ofra Amir. <EM>Intelligent Information Sharing to Support Loosely-Coupled Teamwork</EM>. PhD thesis, Harvard University, Cambridge, MA, USA, 2016.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: amir16:intelligent','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: amir16:intelligent</TITLE></HEAD><BODY><PRE>@phdthesis{amir16:intelligent,\n  author = {Ofra Amir},\n  title = {Intelligent Information Sharing to Support Loosely-Coupled Teamwork},\n  year = {2016},\n  school = {Harvard University},\n  address = {Cambridge, MA, USA},\n  abstract = {<p>Complex tasks such as treating patients with complex medical conditions, conducting research, co-authoring documents and developing software products are typically accomplished by teams. Teamwork in such settings is often loosely-coupled as team members assume different responsibilities that match their individual expertise. This decomposition of activities enables team members to function autonomously and requires team members to be aware of others\' actions only if these actions interact with their own activities. However, identifying interactions between collaborators\' activities can be challenging. As a result, team members are often overwhelmed by too much irrelevant information about others\' activities, or lack important relevant information, both of which can lead to coordination failures. This thesis argues that intelligent information sharing methods that identify the information that is most relevant to each team member can reduce coordination overhead and improve team performance.</p><p>Through a study of teams caring for children with complex medical conditions, this thesis characterizes the coordination challenges of loosely-coupled teams and formalizes the problem of information sharing in such teams. The thesis introduces Mutual Influence Potential Networks, a new representation for modeling collaborative activities. It further defines MIP-DOI, an algorithm which uses the Mutual Influence Potential Network representation to identify the most relevant information for each team member.</p><p>The thesis also presents the design, implementation and evaluation of a personalized change awareness mechanism, which uses MIP-DOI to reduce the amount of shared change information in the context of collaborative writing. The results of an experiment evaluating this mechanism show that compared to the currently most prevalent approach of presenting users with all changes made by their collaborators, the personalized change awareness mechanism resulted in significantly reduced perceived workload and significantly increased productivity of team members. Importantly, the personalized change awareness mechanism did not have any detrimental effect on the quality of the work.</p>},\n    }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

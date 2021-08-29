@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<style type="text/css">
+a#n-resources { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Intelligent Interactive Systems Group -- Code and Data Resources for the Movement Classifier</title>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Intelligent Interactive Systems Group at Harvard</h1>
+<h2 class="head">Code and Data for the Movement Classifier</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<div class="content">
+
+<H3>Overview</h3>
+<p>This classifier discriminates between deliberate, targeted pointing movements, and those movements that were affected by distraction, visual search, demanding cognitive task, or any other extraneous factor.  See the following paper for more details:</p>
+
+<P class="paper" id='xgajos12:accuratex'>Krzysztof Gajos, Katharina Reinecke, and Charles Herrmann. <a href="papers/2012/gajos12-accurateMeasurements.pdf">Accurate measurements of pointing performance from in situ observations</a>. In <EM>Proceedings of the 2012 ACM annual conference on Human Factors in Computing Systems</EM>, CHI '12, pages 3157-3166, New York, NY, USA, 2012. ACM.
+<br/><span class="paperdetails">[<a href="papers/2012/gajos12accurate.shtml">Abstract, BibTeX, Authorizer, Data and Source Code,  etc.</a>]</span></P>
+</div>
+
+<div class="content">
+
+<h3>Code</h3>
+<p>
+<ul>
+<li><a href="resources/MovementClassifier/MovementClassifier.zip">Source Code</a> is structured as two separate Eclipse projects: <i>IIS Java Utils</i> contains many of the utilities shared among several of our projects, and <i>ABUI-analysis</i> contains the code for parsing, analyzing, and classifying movement traces. The primary class of interest is <tt>edu.harvard.seas.iis.abilities.classify.MovementClassifier</tt>, which contains the front end methods for interfacing with the trained classifiers.  If you want to build the classifier using your own data (or ours), the entire toolchain (except for feature selection) is captured in <tt>edu.harvard.seas.iis.abilities.classify.BuildClassifier</tt>.  You will want to edit <tt>edu.harvard.seas.iis.abilities.classify.Settings</tt> to tell specify the default location of your data if you end up training your own classifier.</li>
+<li>The <a href="resources/MovementClassifier/movementClassifier.jar">executable jar file</a> will parse a movement log file and output basic statistics about the numbers of deliberate, targeted movements found.  The best way to view the output is to paste it into a spreadsheet (the output is tab-separated so it pastes cleanly into any spreadsheet for easy analysis).</li>
+</ul>
+</p>
+</div>
+
+<div class="content">
+
+<h3>Data</h3>
+
+<p>The <a href="resources/MovementClassifier/MovementClassifierRawData.zip">raw data</a> (115MB compressed) include movement traces from both in situ observations and the formal experiments.
+</p>
+
+<p>The <a href="resources/MovementClassifier/MovementClassifierCleanData.zip">clean parsed data</a> (20MB compressed) are represented as tables with one row per movement; the values of all the features are computed.  The data collected in a natural setting have the value "implicit" in the Class column; the data collected in the experimental setting have "explicit" in the Class column.
+</p>
+
+</div>
+
+<div class="content">
+
+<h3>Log Format</h3>
+
+            <h4>Mouse Events</h4>
+<p><b>movement:</b></p>
+<p>m, x-coordinate, y-coordinate, time stamp</p>
+<p>example: m,547,410,1303044426975</p>
+<p><b>button presses:</b></p>
+<p>(older logs will not have any information about the target location and more limited information about the type of the target)</p>
+<p>[s-d|s-u|s-c],target type,mouse button,target width, target height, x-coordinate of upper left corner of the target, y-coordinate, x-coordinate of the button press event, y-coordinate, time stamp]</p>
+<p>s-d -- mouse button down event</p>
+<p>s-u -- mouse button up event</p>
+<p>s-c -- mouse click event</p>
+<p>e-d, e-u, e-c -- as above, but for mouse button events from the explicit test</p>
+<p>mouse buttons: 1=left button, 2=right button</p>
+<p>example: s-c,link-A-&gt;B,2,87,15,329,237,377,243,1303076189570</p>
+<p><b>Exceptions:</b></p>
+<p>for targets from the explicit test, the target coordinates point to its center and not upper left corner</p>
+<p><b>keyboard events:</b></p>
+<p>[l|r|o|backspace],[u|d],time stamp</p>
+<p>l -- letter key that on a normal keyboard would be operated with the left hand</p>
+<p>r -- letter key that on a normal keyboard would be operated with the right hand</p>
+<p style="padding-left: 0px; ">o -- other character (not quite sure what goes into this category)</p>
+<p>backspace -- well, backspace; recorded explicitly to capture corrections in typing</p>
+<p> </p>
+<p>u -- key up event</p>
+<p>d -- key down event</p>
+<p> </p>
+<p> </p>
+<p>examples:</p>
+<p>l,u,1303076206233</p>
+<p>r,d,1303076457918</p>
+<p>o,u,1303076220541</p>
+<p>backspace,d,1303076207063</p>
+<p> </p>
+<p><b>break:</p></b>
+<p>whenever the mouse leaves the browser window or the user switches tabs, we record a break event with a time stamp, example:</p>
+</div>
+
+<div class="content">
+<h3>Contact</h3>
+<p>The primary contact person for this project is <a href="http://www.eecs.harvard.edu/~kgajos/">Krzysztof Gajos</a>.</p>
+
+
+</div>
+
+
+<div class="content">This page was last modified on <!--#config timefmt="%B %d, %Y" --> <!--#echo var="LAST_MODIFIED" -->.</div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

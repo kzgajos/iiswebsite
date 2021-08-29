@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Usable intelligent interactive systems: CHI 2009 special interest group meeting</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Usable intelligent interactive systems: CHI 2009 special interest group meeting">
+<meta property="og:description" content="``The AI and HCI communities have often been characterized as having opposing views of how humans and computers should interact'' observes Winograd in Shifting Viewpoints. It is time to narrow this gap. What was once considered the forefront of artificial intelligence (AI) research can now be found in commercial products. While some have failed, others, such as face detection in digital cameras or product recommendation systems, have become so mainstream they are no longer thought of as artificial intelligence. This special interest group provides a forum to examine the apparent gap between HCI and AI communities, to explore how intelligent technologies can enable novel interaction with computation, and to investigate the challenges associated with understanding human abilities, limitations, and preferences in order to drive the design of intelligent interactive systems.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Usable intelligent interactive systems: CHI 2009 special interest group meeting</h1>
+<h2 class="head">Aaron Spaulding, Krzysztof&nbsp;Z. Gajos, Anthony Jameson, Per&nbsp;Ola Kristensson, Andrea Bunt, and Will Haines</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+``The AI and HCI communities have often been characterized as having opposing views of how humans and computers should interact'' observes Winograd in Shifting Viewpoints. It is time to narrow this gap. What was once considered the forefront of artificial intelligence (AI) research can now be found in commercial products. While some have failed, others, such as face detection in digital cameras or product recommendation systems, have become so mainstream they are no longer thought of as artificial intelligence. This special interest group provides a forum to examine the apparent gap between HCI and AI communities, to explore how intelligent technologies can enable novel interaction with computation, and to investigate the challenges associated with understanding human abilities, limitations, and preferences in order to drive the design of intelligent interactive systems.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2009/chi09-SIG-usableiis.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="http://doi.acm.org/10.1145/1520340.1520396">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Aaron Spaulding, Krzysztof&nbsp;Z. Gajos, Anthony Jameson, Per&nbsp;Ola Kristensson, Andrea Bunt, and Will Haines. Usable intelligent interactive systems: Chi 2009 special interest group meeting. In <EM>CHI EA '09: Proceedings of the 27th international conference extended abstracts on Human factors in computing systems</EM>, pages 2743&ndash;2746, New York, NY, USA, 2009. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: spaulding09:usable','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: spaulding09:usable</TITLE></HEAD><BODY><PRE>@inproceedings{spaulding09:usable,\n  author = {Spaulding, Aaron and Gajos, Krzysztof Z. and Jameson, Anthony and Kristensson, Per Ola and Bunt, Andrea and Haines, Will},\n  title = {Usable intelligent interactive systems: CHI 2009 special interest group meeting},\n  booktitle = {CHI EA \'09: Proceedings of the 27th international conference extended abstracts on Human factors in computing systems},\n  year = {2009},\n  isbn = {978-1-60558-247-4},\n  pages = {2743--2746},\n  location = {Boston, MA, USA},\n  doi = {http://doi.acm.org/10.1145/1520340.1520396},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  abstract = {``The AI and HCI communities have often been characterized as having opposing views of how humans and computers should interact\'\' observes Winograd in Shifting Viewpoints. It is time to narrow this gap. What was once considered the forefront of artificial intelligence (AI) research can now be found in commercial products. While some have failed, others, such as face detection in digital cameras or product recommendation systems, have become so mainstream they are no longer thought of as artificial intelligence. This special interest group provides a forum to examine the apparent gap between HCI and AI communities, to explore how intelligent technologies can enable novel interaction with computation, and to investigate the challenges associated with understanding human abilities, limitations, and preferences in order to drive the design of intelligent interactive systems.},\n      }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

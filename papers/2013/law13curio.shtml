@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Curio: A Platform for Supporting Mixed-Expertise Crowdsourcing</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Curio: A Platform for Supporting Mixed-Expertise Crowdsourcing">
+<meta property="og:description" content="Curio is a platform that enables researchers in the sciences and humanities, who are domain experts but not necessarily technically savvy, to create, monitor and control complex crowdsourcing projects with minimal effort. With Curio, we aim to contribute to the practice of citizen science and to make fundamental contributions to the study of human computation by developing new interfaces and algorithms for supporting mixed-expertise crowdsourcing, task decomposition, incentive design and quality control.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Curio: A Platform for Supporting Mixed-Expertise Crowdsourcing</h1>
+<h2 class="head">Edith Law, Conner Dalton, Nick Merrill, Albert Young, and Krzysztof&nbsp;Z. Gajos</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Curio is a platform that enables researchers in the sciences and humanities, who are domain experts but not necessarily technically savvy, to create, monitor and control complex crowdsourcing projects with minimal effort. With Curio, we aim to contribute to the practice of citizen science and to make fundamental contributions to the study of human computation by developing new interfaces and algorithms for supporting mixed-expertise crowdsourcing, task decomposition, incentive design and quality control.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2013/law13curio.pdf">Authors' version (pdf)</a></li>
+
+
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Edith Law, Conner Dalton, Nick Merrill, Albert Young, and Krzysztof&nbsp;Z. Gajos. Curio: A platform for supporting mixed-expertise crowdsourcing. In <EM>Proceedings of HCOMP 2013</EM>. AAAI Press, 2013. To appear.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: law13:curio','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: law13:curio</TITLE></HEAD><BODY><PRE>@inproceedings{law13:curio,\n  title = {Curio: A Platform for Supporting Mixed-Expertise Crowdsourcing},\n  author = {Edith Law and Conner Dalton and Nick Merrill and Albert Young and Krzysztof Z. Gajos},\n  booktitle = {Proceedings of HCOMP 2013},\n  year = {2013},\n  publisher = {AAAI Press},\n  abstract = {Curio is a platform that enables researchers in the sciences and humanities, who are domain experts but not necessarily technically savvy, to create, monitor and control complex crowdsourcing projects with minimal effort. With Curio, we aim to contribute to the practice of citizen science and to make fundamental contributions to the study of human computation by developing new interfaces and algorithms for supporting mixed-expertise crowdsourcing, task decomposition, incentive design and quality control.},\n  note = {To appear.},\n  numpages = {2},\n    }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

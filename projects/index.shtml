@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../common-head.html" --> 
+<style type="text/css">
+a#n-proj { 
+<!--#include virtual="../common-active-style.html" --> 
+}
+</style>
+
+<title>Intelligent Interactive Systems Group -- Projects</title>
+</head>
+
+
+<body>
+
+<!--#include virtual="../common-top.html" --> 
+
+<h1 class="head">Intelligent Interactive Systems Group at Harvard</h1>
+<h2 class="head">Projects</h2>
+
+<!--#include virtual="../common-nav.html" --> 
+
+
+
+
+
+<h2>Current and Upcoming Projects</h2>
+<div class="content">
+
+<!--#include virtual="ai-in-the-loop.shtml"-->
+<!--#include virtual="hevelius.shtml"-->
+<!--#include virtual="gk.shtml"-->
+<!--#include virtual="litw.shtml"-->
+
+
+</div>
+
+<h2>Completed Projects</h2>
+<div class="content">
+<!--#include virtual="pcit.shtml"-->
+<!--#include virtual="predictiveText.shtml"-->
+<!--#include virtual="auis-individualDifferences.shtml"-->
+<!--#include virtual="collectiveCreativity.shtml"-->
+<!--#include virtual="silentspring.shtml"-->
+<!--#include virtual="experientialLearning.shtml"-->
+<!--#include virtual="technologyAdoption.shtml"-->
+<!--#include virtual="crowdsourcing4research.shtml"-->
+<!--#include virtual="curiosity.shtml"-->
+<!--#include virtual="learnersourcing.shtml"-->
+<!--#include virtual="ingenium.shtml"-->
+<!--#include virtual="firstImpressions.shtml"-->
+<!--#include virtual="acnx.shtml"-->
+<!--#include virtual="inprov.shtml"-->
+<!--#include virtual="organicPeerAssessment.shtml"-->
+<!--#include virtual="curio.shtml"-->
+<!--#include virtual="LABvsMT.shtml"-->
+<!--#include virtual="spr.shtml"-->
+<!--#include virtual="doodle.shtml"-->
+<!--#include virtual="auis.shtml"-->
+<!--#include virtual="accurateMeasurements.shtml"-->
+<!--#include virtual="mobi.shtml"-->
+<!--#include virtual="platemate.shtml"-->
+<!--#include virtual="mines.shtml"-->
+<!--#include virtual="hemovis.shtml"-->
+<!--#include virtual="automaticTaskDesign.shtml"-->
+</div>
+
+
+<div class="content">This page was last modified on <!--#config timefmt="%B %d, %Y" --> <!--#echo var="LAST_MODIFIED" -->.</div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../common-footer.html" --> 
+
+</body>
+</html>

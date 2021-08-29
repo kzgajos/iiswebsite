@@ -1,0 +1,24 @@
+<a name="ok"></a>
+<h4 class="ptitle">
+Opportunity Knocks: a System to Provide Cognitive Assistance with
+Transportation Services</h4>
+
+<p>
+<img class="thumbleft" src="http://www.eecs.harvard.edu/~kgajos/papers/images/ok-thumb.jpg" alt="Opportunity Knocks" width="200"
+height="130" align="left"/>
+
+Opportunity Knocks (OK) is an automated transportation routing system,
+ whose goal is to improve the efficiency, safety and independence of
+individuals with mild cognitive disabilities.  OK is
+implemented on a combination of a Bluetooth sensor beacon that
+broadcasts GPS data, a GPRS-enabled cell-phone, and remote activity
+inference software. The system uses a novel inference engine that does
+not require users to explicitly provide information about the start or
+ending points of their journeys; instead this information is learned
+from users' past behavior.
+</p>
+<div class="ppapers">
+<P class="paper" id='xpatterson04:okx'>Donald&nbsp;J. Patterson, Lin Liao, Krzysztof Gajos, Michael Collier, Nik Livic, Katherine Olson, Shiaokai Wang, Dieter Fox, and Henry Kautz. <a href="papers/2004/ok-ubicomp04.pdf">Opportunity Knocks: A System to Provide Cognitive Assistance with Transportation Services</a>. In <EM>UbiComp 2004: Ubiquitous Computing</EM>, volume 3205 of <EM> Lecture Notes in Computer Science</EM>, pages 433-450, Berlin / Heidelberg, 2004. Springer.
+<br/><span class="paperdetails">[<a href="papers/2004/patterson04ok.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+</div>
+<br clear="all" />

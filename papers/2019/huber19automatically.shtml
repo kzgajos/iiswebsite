@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Automatically Analyzing Brainstorming Language Behavior with Meeter</title>
+<meta name="twitter:card" content="summary" />
+<meta property="og:image" content="http://www.eecs.harvard.edu/~kgajos/papers/images/meeter.png">
+<meta property="og:title" content="Automatically Analyzing Brainstorming Language Behavior with Meeter">
+<meta property="og:description" content="Studying groups in such complex settings as group brainstorming would be much more informative if there were better tools to study them. Language both influences and indicates group behavior, and we need tools that let us study the content of what is communicated to understand how such dialogue acts as information sharing and shared understanding indicate group behavior. While one could annotate these spoken dialogue acts by hand, this is a tedious process that is not scalable. We present Meeter, a tool to more effectively study spoken group brainstorming interactions by automatically detecting information sharing, shared understanding, word counts, and group activation in spoken interactions. Our study shows that the measures computed by Meeter align with human-generated labels, and we present findings on the relationship between these measures and group outcomes, underlining the validity of the tool for studying groups. Our tool is valuable for researchers conducting group science, as well as designing groupware systems.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Automatically Analyzing Brainstorming Language Behavior with Meeter</h1>
+<h2 class="head">Bernd Huber, Stuart Shieber, and Krzysztof&nbsp;Z. Gajos</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+<img style="margin-left: 15px; margin-bottom: 10px; max-width: 300px" align="right" alt="" src="http://www.eecs.harvard.edu/~kgajos/papers/images/meeter.png"/>
+Studying groups in such complex settings as group brainstorming would be much more informative if there were better tools to study them. Language both influences and indicates group behavior, and we need tools that let us study the content of what is communicated to understand how such dialogue acts as information sharing and shared understanding indicate group behavior. While one could annotate these spoken dialogue acts by hand, this is a tedious process that is not scalable. We present Meeter, a tool to more effectively study spoken group brainstorming interactions by automatically detecting information sharing, shared understanding, word counts, and group activation in spoken interactions. Our study shows that the measures computed by Meeter align with human-generated labels, and we present findings on the relationship between these measures and group outcomes, underlining the validity of the tool for studying groups. Our tool is valuable for researchers conducting group science, as well as designing groupware systems.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2019/huber19automatically.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="http://doi.acm.org/10.1145/3359132">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+<h3>Additional Resources</h3>
+<div class="content">
+<a href="https://github.com/BerndHuber/meeter_code">Code</a>
+</div>
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Bernd Huber, Stuart Shieber, and Krzysztof&nbsp;Z. Gajos. Automatically analyzing brainstorming language behavior with meeter. <EM>Proc. ACM Hum.-Comput. Interact.</EM>, 3(CSCW):30:1&ndash;30:17, November 2019.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: huber19:automatically','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: huber19:automatically</TITLE></HEAD><BODY><PRE>@article{huber19:automatically,\n  author = {Huber, Bernd and Shieber, Stuart and Gajos, Krzysztof Z.},\n  title = {Automatically Analyzing Brainstorming Language Behavior with Meeter},\n  journal = {Proc. ACM Hum.-Comput. Interact.},\n  issue_date = {November 2019},\n  volume = {3},\n  number = {CSCW},\n  month = {November},\n  year = {2019},\n  issn = {2573-0142},\n  pages = {30:1--30:17},\n  articleno = {30},\n  numpages = {17},\n    doi = {10.1145/3359132},\n  acmid = {3359132},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  abstract = {Studying groups in such complex settings as group brainstorming would be much more informative if there were better tools to study them. Language both influences and indicates group behavior, and we need tools that let us study the content of what is communicated to understand how such dialogue acts as information sharing and shared understanding indicate group behavior. While one could annotate these spoken dialogue acts by hand, this is a tedious process that is not scalable. We present Meeter, a tool to more effectively study spoken group brainstorming interactions by automatically detecting information sharing, shared understanding, word counts, and group activation in spoken interactions. Our study shows that the measures computed by Meeter align with human-generated labels, and we present findings on the relationship between these measures and group outcomes, underlining the validity of the tool for studying groups. Our tool is valuable for researchers conducting group science, as well as designing groupware systems.},\n          award = {Honorable Mention},\n    }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

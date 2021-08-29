@@ -1,0 +1,16 @@
+<a name="aui-individualDiffs"></a>
+<h4 class="ptitle">
+Exploring Individual Differences in How People Use Adaptive User Interfaces</h4>
+
+<p>
+<img class="thumbleft" src="http://www.eecs.harvard.edu/~kgajos/papers/images/gajos17personality-600.png" alt="" width="200"
+align="left"/>
+Past work, including ours, has shown that well-designed adaptive user interfaces can substantially improve people's performance and that people prefer those interfaces to the standard one-size-fits-all designs.  But do all people benefit from adaptive user interfaces equally, or are some systematic differences causing some people to reap greater benefit than others.  Our first study, which utilized the results from the <a href="http://multitasking.labinthewild.org" class="external">Multitasking Test</a> on <a href="http://labinthewild.org/" class="external">Lab in the Wild</a> has shown that people with high <a href="https://en.wikipedia.org/wiki/Need_for_cognition" class="external">need for cognition</a> utilize the adaptive feature fo adaptive user interfaces much more than those with low need for cognition.  Also, introverts utilize the adaptive interface more than extroverts.
+</p>
+
+<div class="ppapers">
+<P class="paper" id='xgajos17:personalityx'>Krzysztof&nbsp;Z. Gajos and Krysta Chauncey. <a href="papers/2017/gajos17personality.pdf">The Influence of Personality Traits and Cognitive Load on the Use of Adaptive User Interfaces</a>. In <EM>Proceedings of the 22nd International Conference on Intelligent User Interfaces</EM>, IUI '17, pages 301&ndash;306, New York, NY, USA, 2017. ACM.
+<br/><span class="paperdetails">[<a href="papers/2017/gajos17personality.shtml">Abstract, BibTeX, Blog post, Data,  etc.</a>]</span></P>
+</div>
+
+<br clear="all" />

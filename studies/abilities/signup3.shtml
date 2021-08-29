@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<style type="text/css">
+a#n-signup { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<script type="text/javascript" src="studies/abilities/signup3.js"></script>
+
+<title>Ability Measure Study</title>
+</head>
+
+
+<body onLoad="checkFirefox();">
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">First Step</h1>
+
+<h2 class="head">Steps Towards Study Completion</h2>
+
+<!--#include virtual="nav.html" --> 
+
+<div class="content">
+<h3>Thank You</h3>
+
+<p>Thank you for signing up for the study! One of our researchers will contact you soon to confirm your eligibility and to explain the details of the study.  In the meantime, you are free to follow the instructions below to install the Firefox browser extension necessary for participating in this study.  Having it installed before talking with our researcher will speed up the process.</p>
+
+<!--#include virtual="instructions.shtml" --> 
+
+</div>
+
+<div class="content">This page was last modified on <!--#config timefmt="%B %d, %Y" --> <!--#echo var="LAST_MODIFIED" -->.</div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

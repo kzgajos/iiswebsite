@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Organic Peer Assessment</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Organic Peer Assessment">
+<meta property="og:description" content="We present a web-based tool for a type of peer assessment we dubbed organic. In organic peer assessment there are no upper or lower limits on the number of assignments each peer has to review, avoiding the common issue of prematurely coercing students into activities they might fear and dislike. Instead, peer assessment occurs as a side effect of activities students find intrinsically motivating. We outline the basic set of functionality required for the implementation of our vision for peer assessment in an online environment and present the results of a preliminary study we conducted in a flipped classroom. We found that the quality of the summative assessment produced by the peers matched that of experts, and we encountered strong evidence that our peer assessment implementation had positive effects on achievement. We conclude with a discussion arguing that organic peer assessment is a valuable technique-distinct from formal peer assessment-for deployment in MOOCs.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Organic Peer Assessment</h1>
+<h2 class="head">Steven Komarov and Krzysztof&nbsp;Z. Gajos</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+We present a web-based tool for a type of peer assessment we dubbed organic. In organic peer assessment there are no upper or lower limits on the number of assignments each peer has to review, avoiding the common issue of prematurely coercing students into activities they might fear and dislike. Instead, peer assessment occurs as a side effect of activities students find intrinsically motivating. We outline the basic set of functionality required for the implementation of our vision for peer assessment in an online environment and present the results of a preliminary study we conducted in a flipped classroom. We found that the quality of the summative assessment produced by the peers matched that of experts, and we encountered strong evidence that our peer assessment implementation had positive effects on achievement. We conclude with a discussion arguing that organic peer assessment is a valuable technique-distinct from formal peer assessment-for deployment in MOOCs.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2014/komarov14organic.pdf">Authors' version (pdf)</a></li>
+
+
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Steven Komarov and Krzysztof&nbsp;Z. Gajos. Organic peer assessment. In <EM>Proceedings of the CHI 2014 Learning Innovation at Scale workshop</EM>, 2014.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: komarov14:organic','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: komarov14:organic</TITLE></HEAD><BODY><PRE>@inproceedings{komarov14:organic,\n  title = {Organic Peer Assessment},\n  author = {Steven Komarov and Krzysztof Z. Gajos},\n  booktitle = {Proceedings of the CHI 2014 Learning Innovation at Scale workshop},\n  year = {2014},\n  abstract = {We present a web-based tool for a type of peer assessment we dubbed organic. In organic peer assessment there are no upper or lower limits on the number of assignments each peer has to review, avoiding the common issue of prematurely coercing students into activities they might fear and dislike. Instead, peer assessment occurs as a side effect of activities students find intrinsically motivating. We outline the basic set of functionality required for the implementation of our vision for peer assessment in an online environment and present the results of a preliminary study we conducted in a flipped classroom. We found that the quality of the summative assessment produced by the peers matched that of experts, and we encountered strong evidence that our peer assessment implementation had positive effects on achievement. We conclude with a discussion arguing that organic peer assessment is a valuable technique-distinct from formal peer assessment-for deployment in MOOCs.},\n    }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

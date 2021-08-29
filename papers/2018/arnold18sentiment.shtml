@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Sentiment Bias in Predictive Text Recommendations Results in Biased Writing</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Sentiment Bias in Predictive Text Recommendations Results in Biased Writing">
+<meta property="og:description" content="Prior research has demonstrated that intelligent systems make biased decisions because they are trained on biased data. As people increasingly leverage intelligent systems to enhance their productivity and creativity, could system biases affect what people create? We demonstrate that in at least one domain (writing restaurant reviews), biased system behavior leads to biased human behavior: People presented with phrasal text entry shortcuts that were skewed positive wrote more positive reviews than they did when presented with negative-skewed shortcuts. This result contributes to the pertinent debate about the role of intelligent systems in our society.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Sentiment Bias in Predictive Text Recommendations Results in Biased Writing</h1>
+<h2 class="head">Kenneth Arnold, Krysta Chauncey, and Krzysztof Gajos</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Prior research has demonstrated that intelligent systems make biased decisions because they are trained on biased data. As people increasingly leverage intelligent systems to enhance their productivity and creativity, could system biases affect what people create? We demonstrate that in at least one domain (writing restaurant reviews), biased system behavior leads to biased human behavior: People presented with phrasal text entry shortcuts that were skewed positive wrote more positive reviews than they did when presented with negative-skewed shortcuts. This result contributes to the pertinent debate about the role of intelligent systems in our society.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2018/arnold18sentiment.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="http://graphicsinterface.org/proceedings/gi2018/gi2018-5/">Publisher's version
+ (Canadian Human-Computer Communications Society / Soci{\'e}t{\'e} canadienne du dialogue humain-machine)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Kenneth Arnold, Krysta Chauncey, and Krzysztof Gajos. Sentiment bias in predictive text recommendations results in biased writing. In <EM>Proceedings of Graphics Interface 2018</EM>, GI 2018, pages 33 &ndash; 40. Canadian Human-Computer Communications Society / Société canadienne du dialogue humain-machine, 2018.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: arnold18:sentiment','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: arnold18:sentiment</TITLE></HEAD><BODY><PRE>@inproceedings{arnold18:sentiment,\n  author = {Arnold, Kenneth and Chauncey, Krysta and Gajos, Krzysztof},\n  title = {Sentiment Bias in Predictive Text Recommendations Results in Biased Writing},\n  booktitle = {Proceedings of Graphics Interface 2018},\n  series = {GI 2018},\n  year = {2018},\n  isbn = {978-0-9947868-2-1},\n  location = {Toronto, Ontario},\n  pages = {33 -- 40},\n  numpages = {8},\n  doi = {10.20380/GI2018.05},\n  publisher = {Canadian Human-Computer Communications Society / Soci{\\'e}t{\\'e} canadienne du dialogue humain-machine},\n  abstract = {Prior research has demonstrated that intelligent systems make biased decisions because they are trained on biased data. As people increasingly leverage intelligent systems to enhance their productivity and creativity, could system biases affect what people create? We demonstrate that in at least one domain (writing restaurant reviews), biased system behavior leads to biased human behavior: People presented with phrasal text entry shortcuts that were skewed positive wrote more positive reviews than they did when presented with negative-skewed shortcuts. This result contributes to the pertinent debate about the role of intelligent systems in our society.},\n      }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

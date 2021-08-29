@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<style type="text/css">
+a#n-signup { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+<head>
+<title>Motor Ability Measure Study---Contact Information</title>
+
+<script type="text/javascript">
+
+  function activateForm()
+  {
+    document.getElementById("form_submit").disabled = false;
+  }   
+
+
+  function checkInput()
+  {
+     var inputArray = document.getElementsByTagName("input");
+
+     for (var i = 0; i<inputArray.length-1; i++)
+     {
+          if(inputArray[i].value == "")
+	  {
+	     return false;
+          }
+     }
+     return true;
+  }
+
+
+
+</script>
+
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<H1 class="head">Motor Ability Measure Study Signup</h1>
+
+<h2 class="head">Contact Information</h2>
+
+<!--#include virtual="nav.html" --> 
+<div class="content">
+<h3>Your Contact Information</h3>
+<p>Please provide us with your contact information.
+This information will be treated confidentially.</p>
+
+<form name="signup" onsubmit="return checkInput();" action="https://iis-secure.seas.harvard.edu/explicit_test/register.php" method="post">
+  <table>
+   <tr>
+     <td align="right">Full name:</td><td><input type="text" size="50" name="name"></input></td>
+   </tr>
+   <tr>
+     <td align="right">Email:</td><td><input type="text" size="50" name="email"></input>(We will send you an Amazon voucher as compensation to this email address.)</td>
+   </tr>
+   <tr> 
+     <td align="right">Phone:</td><td><input type="text" size="15" name="number"></input></td>
+   </tr>
+
+<tr><td>
+Best day to call:</td><td><input type="text" name="day" size="50"></input>(We will only call you once to explain the study's details further.)</td></tr><tr><td>
+Best time(s) to call:</td><td><input type="text" name="time" size="50"></input></td></tr>
+</table>
+<br/>
+<br/>
+<table>
+<!--
+ <tr>
+    <td><input type="radio" id="agree" onclick="activateForm();"></input></td>
+<td>
+I have read the content of the <a href="/studies/abilities/signup.shtml">Consent Form</a> on the previous page and I voluntarily choose to participate in this study.</td>
+  </tr>
+-->
+    <tr>
+  <td></td><td align="left"><input type="submit" value="Submit" id="form_submit"/> <!--disabled="disabled"--></td></tr>
+  </tr>
+</table>
+<br/>
+</form>
+
+</div>
+
+
+<div class="content">This page was last modified on <!--#config timefmt="%B %d, %Y" --> <!--#echo var="LAST_MODIFIED" -->.</div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

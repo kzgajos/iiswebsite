@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Adaptive Click-and-cross: Adapting to Both Abilities and Task Improves Performance of Users with Impaired Dexterity</title>
+<meta name="twitter:card" content="summary" />
+<meta property="og:image" content="http://iis.seas.harvard.edu/projects/images/acnx.png">
+<meta property="og:title" content="Adaptive Click-and-cross: Adapting to Both Abilities and Task Improves Performance of Users with Impaired Dexterity">
+<meta property="og:description" content="Computer users with impaired dexterity often have difficulty accessing small, densely packed user interface elements. Past research in software-based solutions has mainly employed two approaches: modifying the interface and modifying the interaction with the cursor. Each approach, however, has limitations. Modifying the user interface by enlarging interactive elements makes access efficient for simple interfaces but increases the cost of navigation for complex ones by displacing items to screens that require tabs or scrolling to reach. Modifying the interaction with the cursor makes access possible to unmodified interfaces but may perform poorly on densely packed targets or require the user to perform multiple steps. We developed a new approach that combines the strengths of the existing approaches while minimizing their shortcomings, introducing only minimal distortion to the original interface while making access to frequently used parts of the user interface efficient and access to all other parts possible. We instantiated this concept as Adaptive Click-and-Cross, a novel interaction technique. Our user study demonstrates that, for sufficiently complex interfaces, Adaptive Click-andCross slightly improves the performance of users with impaired dexterity compared to only modifying the interface or only modifying the cursor.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Adaptive Click-and-cross: Adapting to Both Abilities and Task Improves Performance of Users with Impaired Dexterity</h1>
+<h2 class="head">Louis Li and Krzysztof&nbsp;Z. Gajos</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+<img style="margin-left: 15px; margin-bottom: 10px; max-width: 300px" align="right" alt="" src="http://iis.seas.harvard.edu/projects/images/acnx.png"/>
+Computer users with impaired dexterity often have difficulty accessing small, densely packed user interface elements. Past research in software-based solutions has mainly employed two approaches: modifying the interface and modifying the interaction with the cursor. Each approach, however, has limitations. Modifying the user interface by enlarging interactive elements makes access efficient for simple interfaces but increases the cost of navigation for complex ones by displacing items to screens that require tabs or scrolling to reach. Modifying the interaction with the cursor makes access possible to unmodified interfaces but may perform poorly on densely packed targets or require the user to perform multiple steps. We developed a new approach that combines the strengths of the existing approaches while minimizing their shortcomings, introducing only minimal distortion to the original interface while making access to frequently used parts of the user interface efficient and access to all other parts possible. We instantiated this concept as Adaptive Click-and-Cross, a novel interaction technique. Our user study demonstrates that, for sufficiently complex interfaces, Adaptive Click-andCross slightly improves the performance of users with impaired dexterity compared to only modifying the interface or only modifying the cursor.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2014/li14acnx.pdf">Authors' version (pdf)</a></li>
+
+
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Louis Li and Krzysztof&nbsp;Z. Gajos. Adaptive click-and-cross: Adapting to both abilities and task improves performance of users with impaired dexterity. In <EM>Proceedings of the 19th International Conference on Intelligent User Interfaces</EM>, IUI '14, pages 299&ndash;304, New York, NY, USA, 2014. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: li14:adaptive','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: li14:adaptive</TITLE></HEAD><BODY><PRE>@inproceedings{li14:adaptive,\n  author = {Li, Louis and Gajos, Krzysztof Z.},\n  title = {Adaptive Click-and-cross: Adapting to Both Abilities and Task Improves Performance of Users with Impaired Dexterity},\n  booktitle = {Proceedings of the 19th International Conference on Intelligent User Interfaces},\n  series = {IUI \'14},\n  year = {2014},\n  isbn = {978-1-4503-2184-6},\n  location = {Haifa, Israel},\n  pages = {299--304},\n  numpages = {6},\n    doi = {10.1145/2557500.2557511},\n  acmid = {2557511},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  abstract = {Computer users with impaired dexterity often have difficulty accessing small, densely packed user interface elements. Past research in software-based solutions has mainly employed two approaches: modifying the interface and modifying the interaction with the cursor. Each approach, however, has limitations. Modifying the user interface by enlarging interactive elements makes access efficient for simple interfaces but increases the cost of navigation for complex ones by displacing items to screens that require tabs or scrolling to reach. Modifying the interaction with the cursor makes access possible to unmodified interfaces but may perform poorly on densely packed targets or require the user to perform multiple steps. We developed a new approach that combines the strengths of the existing approaches while minimizing their shortcomings, introducing only minimal distortion to the original interface while making access to frequently used parts of the user interface efficient and access to all other parts possible. We instantiated this concept as Adaptive Click-and-Cross, a novel interaction technique. Our user study demonstrates that, for sufficiently complex interfaces, Adaptive Click-andCross slightly improves the performance of users with impaired dexterity compared to only modifying the interface or only modifying the cursor.},\n        }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

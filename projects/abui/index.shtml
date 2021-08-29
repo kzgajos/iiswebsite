@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<style type="text/css">
+a#n-proj { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Ability-based User Interfaces</title>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Ability-based User Interfaces</h1>
+<h2 class="head"></h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<p><a href="">Home</a> - <a href="projects">Projects</a> - Ability-based User Interfaces</p>
+
+<div class="content">
+
+<h3>Overview</h3>
+<div class="video" style="float: right; max-width: 425px; margin-left: 15px; margin-bottom: 10px;">
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/B63whNtp4qc&hl=en&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/B63whNtp4qc&hl=en&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+<br/>
+<span class="caption">This video illustrates how our <a href="projects/supple/">SUPPLE system</a> can be used for automatically generating user interfaces adapted to users' individual motor and vision abilities.  Higher quality QuickTime versions of this video are also available: <a href="papers/media/supple-abilities-480-streaming.mov">480 x 270 (6 MB)</a>, <a href="papers/media/supple-abilities-640-streaming.mov">640 x 360 (7 MB)</a> or <a href="papers/media/supple-abilities-hd-streaming-best.mov">High Definition (12 MB)</a>.</span>  
+</div>
+
+<p>Today's human-computer interfaces are typically designed based on several assumptions: 1) that they are going to be used by
+an able-bodied individual, 2) who is using a typical set of input and
+output devices, and 3) who is sitting in a stable, warm environment.  Any deviation
+from these assumptions, be it a hand tremor due to aging, use of an eye tracker, or the jostling caused by riding on a
+bus, may drastically hamper the person's effectiveness---not
+due to any <i>inherent</i> barrier to interaction, but because of a
+mismatch between the user's effective abilities and the assumptions
+underlying the interface design.
+</p>
+
+<p>
+In contrast to the current design practice, we advance our vision of <i>ability-based user interfaces:</i> we believe that <b>user interfaces should be designed with each person's unique abilities, devices, and environment in mind.</b>  
+Because of the myriad of distinct
+individuals, each with his or her own abilities, devices, and environments, many such personalized interfaces are needed.
+</p>
+
+<p>
+To address the scalability challenge, we have developed <a href="projects/supple/">SUPPLE</a>, a system for automatically generating user interfaces adapted to a person's abilities and preferences.  The results of our study with 11 participants with motor impairments demonstrate that such <b>automatically generated ability-based interfaces significantly improve both performance and satisfaction compared to the default user interfaces shipped with today's software.</b>
+</p>
+
+<!--<p>
+Computer use is a continually increasing part of our lives at work, in
+education, in communities, and when accessing entertainment and information. Thus the
+ability to use computers efficiently is essential for equitable
+participation in an information society.  But users with 
+impairments often find it difficult or impossible to use today's
+common software applications. While some may contend that the needs of
+these users are adequately addressed by specialized assistive
+technologies, these technologies, while often helpful, have two major
+shortcomings. First, they are often abandoned, because of their cost,
+complexity, limited availability and need for ongoing maintenance.
+Second, assistive technologies are designed on the assumption that the
+user interface, which was designed for the "average user," is
+immutable, and thus users with motor impairments must
+adapt <i>themselves</i> to these interfaces by using specialized
+devices.</p>
+
+<p>
+We want to reverse this situation: we believe that user interfaces
+should be dapted to the actual abilities of individual users.  There
+are two major challenges to realizing this vision:  
+
+<ul>
+<li>First, because of the great variety of individual capabilities
+among users, manually designing interfaces for each one of them is
+impractical and not scalable.  A different approach is thus needed.
+With our <a href="projects/supple/">SUPPLE system</a>, we have
+demonstrated that automatic user interface generation is a feasible
+and scalable approach to this challenge.  Not only that, <a href="http://www.eecs.harvard.edu/~kgajos/papers/2008/gajos08improving.shtml">the results of our laboratory experiments</a> show that these automatically generated, ability-based user interfaces significantly improve speed, accuracy and satisfaction of users with motor impairments compared to manufacturers' defaults.
+</li>
+<li>Second, existing interaction techniques centered around 2D
+pointing with mice or similar devices, are not necessarily the most
+effective for users with unusual abilities and devices.  For example, <a href="http://www.eecs.harvard.edu/~kgajos/papers/2007/Wobbrock2007Comparison.shtml">our studies</a> (lead by <a href="http://faculty.washington.edu/wobbrock/" class="external">Jacob Wobbrock</a> at Univeristy of Washington) have shown that goal crossing (where users pass a target line with the mouse cursor rather than stop and click on a small area) may be a more efficient approach to target selection for people with motor impairments than area pointing.
+</li>
+</ul>
+</p>
+-->
+
+<a name="projects"></a>
+<h3>Projects</h3>
+Several specific projects are part of our effort to develop personalized ability-based user interfaces.
+<ul>
+<li><b><a href="projects/supple/">SUPPLE</a></b> is a system for automatically generating user interfaces adapted to people's abilities, tasks, preferences, and devices.  In this project we use SUPPLE to overcome the scale challenge when needing to deliver personalized interfaces to a large number of individuals with unique abilities and devices.</li> 
+<li>In order to generate personalized ability-based interfaces, SUPPLE needs a model of that person's actual abilities.  Until now, we built such models by engaging the user in an explicit diagnostic task.  While it needs to be done only once (unless the user's abilities change), it can take a substantial amount of time and effort to complete.  We are currently working on <b>unobtrusively modeling users' motor abilities</b> by observing their natural interactions with the computer.  We believe that such unobtrusive modeling will make personalized ability-based interfaces more pracital and will also enable re-adaptation as the person's abilities change over time.</li>
+<li><b><a href="projects/#bci">Controlling Complex Applications with a Brain-Computer Interface</a></b> In search for interaction methods for severely paralyzed users, we are currently starting a project to explore the properties and limitations of one particularly promising brain-computer interaction paradigm as an input modality and to develop methods and tools for designing user interfaces for complex brain-controlled applications.  Most of the prior effort in brain-computer interface research has been directed at developing better sensors and better ways of extracting useful information from the brain signal, while little work has been directed at systematically understanding the unique strengths and limitations of this input modality and their implications for interaction design.  We believe that these properties need to be well understood for the brain-computer interface technology to significantly impact the quality of life of users with severely limitted mobility.</li>
+<li><b><a href="projects/#crossing">Crossing-based User Interfaces</a></b> We have contributed to a study of area pointing and goal crossing for people with and without motor impairments.  In goal crossing, users do not acquire a confined area, but instead pass over a target line. Although goal crossing has been studied for able-bodied users, its suitability for people with motor impairments is unknown. In our study, participants with motor impairments were faster with and preferred goal-crossing to area pointing. This work provides the empirical foundation from which to pursue the design of crossing-based interfaces as accessible alternatives to pointing-based interfaces. </li>
+</ul>
+
+</div>
+
+
+<h3>Selected Media Mentions</h3>
+<div class="content">
+<p class="paper"><a href="http://www.ivanhoe.com/science/story/2009/03/548a.html" class="external">Pimp My Program</a> a TV spot by Ivanhoe Discoveries and Breakthroughs Inside Science.  March, 2009</p>
+
+<p class="paper"><a href="http://thefutureofthings.com/news/5829/special-gui-for-your-eyes-only.html" class="external">Special GUI for Your Eyes Only</a> by Anuradha Menon, The Future of Things. November 24, 2008. </p>
+ 
+<P class="paper"><a href="http://www.guardian.co.uk/technology/2008/aug/28/research.artificialintelligenceai" class="external">An interface for your eyes only</a> by Lee Bruno, The Guardian.  August 28, 2008.</p>
+
+<p class="paper"><a href="http://chronicle.com/wiredcampus/index.php?id=3168" class="external">
+Tweaking user interfaces to match abilities, disabilities</a> by Yun Xie, ArsTechnica. July 17, 2008</P>
+
+<p class="paper"><a href="http://chronicle.com/wiredcampus/index.php?id=3168" class="external">Every User Deserves a Personalized Interface</a> by Maria Jos&#233; Vi&#241;as, The Chronicle of Higher Education. July 16, 2008</P>
+
+<p class="paper"><a href="" class="external">For your eyes only: Custom interfaces make computer clicking faster, easier</a> Press Release  by Hannah Hickey, UW News Office.  July 15, 2008.</p>
+
+</div>
+
+
+<h3>Publications</h3>
+<div class="content">
+<!--#include virtual="papers.php" -->
+
+</div>
+
+
+<div class="content">This page was last modified on <!--#config timefmt="%B %d, %Y" --> <!--#echo var="LAST_MODIFIED" -->.</div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

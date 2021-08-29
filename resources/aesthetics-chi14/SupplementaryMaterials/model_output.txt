@@ -1,0 +1,482 @@
+> fullmodel <- lmer(mean_response ~ (country0.x + age.x + education.x + gender.x) * (I(colorfulnessmodelnew^2) + I(complexitymodel^2) + colorfulnessmodelnew + complexitymodel) + (1|website) + (1|participant_id), data=ae6)
+> print(summary(fullmodel), correlation = FALSE)
+Linear mixed model fit by REML 
+Formula: mean_response ~ (country0.x + age.x + education.x + gender.x) * (I(colorfulnessmodelnew^2) + I(complexitymodel^2) +      colorfulnessmodelnew + complexitymodel) + (1 | website) +      (1 | participant_id) 
+   Data: ae6 
+     AIC     BIC  logLik deviance REMLdev
+ 1632235 1635347 -815834  1629935 1631669
+Random effects:
+ Groups         Name        Variance Std.Dev.
+ participant_id (Intercept) 0.73225  0.85572 
+ website        (Intercept) 0.86051  0.92764 
+ Residual                   2.13062  1.45966 
+Number of obs: 441478, groups: participant_id, 18448; website, 418
+
+Fixed effects:
+                                                                                 Estimate Std. Error t value
+(Intercept)                                                                     5.919e+00  1.050e+01   0.563
+country0.xAustralia                                                            -4.476e-03  7.039e-01  -0.006
+country0.xAustria                                                               1.412e+00  7.612e-01   1.855
+country0.xBelgium                                                               9.262e-01  7.581e-01   1.222
+country0.xBrazil                                                                9.943e-01  8.687e-01   1.145
+country0.xBulgaria                                                              1.281e-02  8.865e-01   0.014
+country0.xCanada                                                               -8.754e-02  6.462e-01  -0.135
+country0.xChile                                                                -1.486e+00  6.897e-01  -2.155
+country0.xDenmark                                                               9.720e-01  8.770e-01   1.108
+country0.xFinland                                                               1.460e+00  6.568e-01   2.223
+country0.xFrance                                                                9.839e-01  7.434e-01   1.323
+country0.xGermany                                                               1.576e+00  6.609e-01   2.385
+country0.xGreece                                                                5.423e-01  8.456e-01   0.641
+country0.xHungary                                                              -7.192e-01  6.412e-01  -1.122
+country0.xIndia                                                                 1.715e-01  6.934e-01   0.247
+country0.xIreland                                                              -1.734e-01  8.062e-01  -0.215
+country0.xIsrael                                                                6.401e-01  8.042e-01   0.796
+country0.xItaly                                                                 1.635e+00  7.995e-01   2.045
+country0.xLithuania                                                            -5.068e-01  6.521e-01  -0.777
+country0.xMacedonia, The Former Yugoslav Republic Of                            5.197e-01  8.761e-01   0.593
+country0.xMexico                                                               -1.709e+00  7.930e-01  -2.155
+country0.xNetherlands                                                          -3.882e-03  6.697e-01  -0.006
+country0.xNew Zealand                                                          -2.200e-01  8.396e-01  -0.262
+country0.xNorway                                                                7.787e-01  6.538e-01   1.191
+country0.xPoland                                                                1.528e+00  7.231e-01   2.114
+country0.xPortugal                                                             -7.215e-02  9.127e-01  -0.079
+country0.xRomania                                                              -8.262e-01  6.461e-01  -1.279
+country0.xSerbia                                                               -1.819e+00  7.567e-01  -2.404
+country0.xSingapore                                                            -1.358e+00  7.865e-01  -1.726
+country0.xSpain                                                                 3.777e-01  9.271e-01   0.407
+country0.xSweden                                                                1.709e+00  7.312e-01   2.337
+country0.xUnited Kingdom                                                       -6.327e-01  6.323e-01  -1.001
+country0.xUnited States                                                        -5.509e-02  6.292e-01  -0.088
+age.x                                                                          -2.348e-02  2.732e-03  -8.596
+education.xcollege                                                             -3.680e+00  1.046e+01  -0.352
+education.xgraduate school                                                     -3.653e+00  1.046e+01  -0.349
+education.xhigh school                                                         -4.260e+00  1.046e+01  -0.407
+education.xPhD                                                                 -3.539e+00  1.046e+01  -0.338
+education.xpostdoctoral                                                        -3.044e+00  1.047e+01  -0.291
+education.xpre-high school                                                     -4.635e+00  1.047e+01  -0.443
+education.xprofessional school                                                 -3.725e+00  1.046e+01  -0.356
+gender.x                                                                       -4.253e-01  6.508e-02  -6.535
+I(colorfulnessmodelnew^2)                                                       5.977e-02  2.358e-01   0.254
+I(complexitymodel^2)                                                           -1.131e-01  3.853e-01  -0.293
+colorfulnessmodelnew                                                           -9.016e-01  2.419e+00  -0.373
+complexitymodel                                                                 6.126e-01  3.746e+00   0.164
+country0.xAustralia:I(colorfulnessmodelnew^2)                                  -2.525e-02  3.115e-02  -0.811
+country0.xAustria:I(colorfulnessmodelnew^2)                                     8.213e-03  3.366e-02   0.244
+country0.xBelgium:I(colorfulnessmodelnew^2)                                     6.479e-03  3.319e-02   0.195
+country0.xBrazil:I(colorfulnessmodelnew^2)                                     -9.071e-03  3.865e-02  -0.235
+country0.xBulgaria:I(colorfulnessmodelnew^2)                                    1.589e-02  3.862e-02   0.412
+country0.xCanada:I(colorfulnessmodelnew^2)                                     -4.886e-03  2.886e-02  -0.169
+country0.xChile:I(colorfulnessmodelnew^2)                                      -8.729e-03  3.068e-02  -0.285
+country0.xDenmark:I(colorfulnessmodelnew^2)                                    -3.044e-02  3.851e-02  -0.790
+country0.xFinland:I(colorfulnessmodelnew^2)                                     3.722e-03  2.925e-02   0.127
+country0.xFrance:I(colorfulnessmodelnew^2)                                      4.630e-03  3.259e-02   0.142
+country0.xGermany:I(colorfulnessmodelnew^2)                                     9.940e-03  2.943e-02   0.338
+country0.xGreece:I(colorfulnessmodelnew^2)                                      2.678e-02  3.666e-02   0.731
+country0.xHungary:I(colorfulnessmodelnew^2)                                    -1.562e-02  2.868e-02  -0.544
+country0.xIndia:I(colorfulnessmodelnew^2)                                       1.048e-03  3.066e-02   0.034
+country0.xIreland:I(colorfulnessmodelnew^2)                                     1.521e-02  3.514e-02   0.433
+country0.xIsrael:I(colorfulnessmodelnew^2)                                      8.354e-03  3.547e-02   0.236
+country0.xItaly:I(colorfulnessmodelnew^2)                                       3.539e-02  3.512e-02   1.008
+country0.xLithuania:I(colorfulnessmodelnew^2)                                  -1.800e-03  2.908e-02  -0.062
+country0.xMacedonia, The Former Yugoslav Republic Of:I(colorfulnessmodelnew^2)  2.079e-02  3.817e-02   0.545
+country0.xMexico:I(colorfulnessmodelnew^2)                                     -6.279e-02  3.520e-02  -1.784
+country0.xNetherlands:I(colorfulnessmodelnew^2)                                -8.378e-03  2.982e-02  -0.281
+country0.xNew Zealand:I(colorfulnessmodelnew^2)                                -5.912e-02  3.612e-02  -1.637
+country0.xNorway:I(colorfulnessmodelnew^2)                                     -5.753e-03  2.914e-02  -0.197
+country0.xPoland:I(colorfulnessmodelnew^2)                                      2.850e-02  3.188e-02   0.894
+country0.xPortugal:I(colorfulnessmodelnew^2)                                   -6.713e-02  3.877e-02  -1.732
+country0.xRomania:I(colorfulnessmodelnew^2)                                    -1.068e-02  2.886e-02  -0.370
+country0.xSerbia:I(colorfulnessmodelnew^2)                                     -2.837e-02  3.336e-02  -0.850
+country0.xSingapore:I(colorfulnessmodelnew^2)                                  -1.003e-03  3.457e-02  -0.029
+country0.xSpain:I(colorfulnessmodelnew^2)                                       1.087e-02  3.972e-02   0.274
+country0.xSweden:I(colorfulnessmodelnew^2)                                      3.000e-02  3.244e-02   0.925
+country0.xUnited Kingdom:I(colorfulnessmodelnew^2)                             -6.973e-03  2.832e-02  -0.246
+country0.xUnited States:I(colorfulnessmodelnew^2)                              -1.282e-02  2.820e-02  -0.455
+country0.xAustralia:I(complexitymodel^2)                                       -2.438e-02  2.332e-02  -1.045
+country0.xAustria:I(complexitymodel^2)                                         -8.404e-03  2.473e-02  -0.340
+country0.xBelgium:I(complexitymodel^2)                                         -5.008e-03  2.502e-02  -0.200
+country0.xBrazil:I(complexitymodel^2)                                          -4.579e-03  2.838e-02  -0.161
+country0.xBulgaria:I(complexitymodel^2)                                        -3.977e-02  2.787e-02  -1.427
+country0.xCanada:I(complexitymodel^2)                                          -3.090e-02  2.143e-02  -1.442
+country0.xChile:I(complexitymodel^2)                                           -1.695e-02  2.257e-02  -0.751
+country0.xDenmark:I(complexitymodel^2)                                          5.886e-03  2.902e-02   0.203
+country0.xFinland:I(complexitymodel^2)                                          6.380e-03  2.178e-02   0.293
+country0.xFrance:I(complexitymodel^2)                                           3.147e-03  2.486e-02   0.127
+country0.xGermany:I(complexitymodel^2)                                         -6.682e-03  2.190e-02  -0.305
+country0.xGreece:I(complexitymodel^2)                                          -1.339e-02  2.773e-02  -0.483
+country0.xHungary:I(complexitymodel^2)                                         -1.544e-02  2.128e-02  -0.726
+country0.xIndia:I(complexitymodel^2)                                           -1.417e-02  2.303e-02  -0.615
+country0.xIreland:I(complexitymodel^2)                                         -1.481e-02  2.773e-02  -0.534
+country0.xIsrael:I(complexitymodel^2)                                          -2.602e-02  2.645e-02  -0.984
+country0.xItaly:I(complexitymodel^2)                                            1.491e-02  2.612e-02   0.571
+country0.xLithuania:I(complexitymodel^2)                                       -2.714e-02  2.159e-02  -1.257
+country0.xMacedonia, The Former Yugoslav Republic Of:I(complexitymodel^2)       3.222e-02  2.796e-02   1.152
+country0.xMexico:I(complexitymodel^2)                                           3.490e-03  2.626e-02   0.133
+country0.xNetherlands:I(complexitymodel^2)                                     -2.531e-02  2.215e-02  -1.143
+country0.xNew Zealand:I(complexitymodel^2)                                      3.802e-02  2.903e-02   1.309
+country0.xNorway:I(complexitymodel^2)                                           6.798e-05  2.170e-02   0.003
+country0.xPoland:I(complexitymodel^2)                                          -2.548e-03  2.429e-02  -0.105
+country0.xPortugal:I(complexitymodel^2)                                        -5.633e-04  2.867e-02  -0.020
+country0.xRomania:I(complexitymodel^2)                                         -1.835e-02  2.142e-02  -0.857
+country0.xSerbia:I(complexitymodel^2)                                          -3.882e-02  2.478e-02  -1.567
+country0.xSingapore:I(complexitymodel^2)                                       -2.560e-02  2.666e-02  -0.960
+country0.xSpain:I(complexitymodel^2)                                           -2.885e-02  3.072e-02  -0.939
+country0.xSweden:I(complexitymodel^2)                                          -3.044e-03  2.424e-02  -0.126
+country0.xUnited Kingdom:I(complexitymodel^2)                                  -1.104e-02  2.099e-02  -0.526
+country0.xUnited States:I(complexitymodel^2)                                   -2.177e-02  2.089e-02  -1.042
+country0.xAustralia:colorfulnessmodelnew                                        1.833e-01  3.089e-01   0.593
+country0.xAustria:colorfulnessmodelnew                                         -1.774e-01  3.338e-01  -0.532
+country0.xBelgium:colorfulnessmodelnew                                         -9.538e-02  3.296e-01  -0.289
+country0.xBrazil:colorfulnessmodelnew                                           1.510e-02  3.847e-01   0.039
+country0.xBulgaria:colorfulnessmodelnew                                        -2.292e-01  3.844e-01  -0.596
+country0.xCanada:colorfulnessmodelnew                                           5.273e-02  2.855e-01   0.185
+country0.xChile:colorfulnessmodelnew                                            3.362e-01  3.039e-01   1.106
+country0.xDenmark:colorfulnessmodelnew                                          1.258e-01  3.827e-01   0.329
+country0.xFinland:colorfulnessmodelnew                                         -1.509e-01  2.896e-01  -0.521
+country0.xFrance:colorfulnessmodelnew                                          -1.900e-01  3.245e-01  -0.586
+country0.xGermany:colorfulnessmodelnew                                         -1.971e-01  2.912e-01  -0.677
+country0.xGreece:colorfulnessmodelnew                                          -2.680e-01  3.641e-01  -0.736
+country0.xHungary:colorfulnessmodelnew                                          1.749e-01  2.837e-01   0.617
+country0.xIndia:colorfulnessmodelnew                                            3.391e-03  3.035e-01   0.011
+country0.xIreland:colorfulnessmodelnew                                          2.417e-02  3.499e-01   0.069
+country0.xIsrael:colorfulnessmodelnew                                          -1.010e-01  3.522e-01  -0.287
+country0.xItaly:colorfulnessmodelnew                                           -3.320e-01  3.487e-01  -0.952
+country0.xLithuania:colorfulnessmodelnew                                        1.239e-02  2.878e-01   0.043
+country0.xMacedonia, The Former Yugoslav Republic Of:colorfulnessmodelnew       2.692e-02  3.798e-01   0.071
+country0.xMexico:colorfulnessmodelnew                                           8.550e-01  3.475e-01   2.460
+country0.xNetherlands:colorfulnessmodelnew                                      3.204e-02  2.953e-01   0.109
+country0.xNew Zealand:colorfulnessmodelnew                                      5.911e-01  3.600e-01   1.642
+country0.xNorway:colorfulnessmodelnew                                          -2.330e-02  2.883e-01  -0.081
+country0.xPoland:colorfulnessmodelnew                                          -3.955e-01  3.160e-01  -1.251
+country0.xPortugal:colorfulnessmodelnew                                         5.580e-01  3.863e-01   1.445
+country0.xRomania:colorfulnessmodelnew                                          1.806e-01  2.855e-01   0.633
+country0.xSerbia:colorfulnessmodelnew                                           4.360e-01  3.315e-01   1.315
+country0.xSingapore:colorfulnessmodelnew                                        1.352e-01  3.412e-01   0.396
+country0.xSpain:colorfulnessmodelnew                                           -2.426e-01  3.924e-01  -0.618
+country0.xSweden:colorfulnessmodelnew                                          -3.847e-01  3.218e-01  -1.196
+country0.xUnited Kingdom:colorfulnessmodelnew                                   1.965e-01  2.801e-01   0.702
+country0.xUnited States:colorfulnessmodelnew                                    1.357e-01  2.789e-01   0.487
+country0.xAustralia:complexitymodel                                             1.413e-01  2.402e-01   0.588
+country0.xAustria:complexitymodel                                              -8.902e-02  2.547e-01  -0.350
+country0.xBelgium:complexitymodel                                              -9.117e-02  2.574e-01  -0.354
+country0.xBrazil:complexitymodel                                               -1.289e-01  2.915e-01  -0.442
+country0.xBulgaria:complexitymodel                                              4.205e-01  2.889e-01   1.456
+country0.xCanada:complexitymodel                                                2.166e-01  2.205e-01   0.982
+country0.xChile:complexitymodel                                                 1.316e-01  2.326e-01   0.566
+country0.xDenmark:complexitymodel                                              -1.670e-01  2.995e-01  -0.558
+country0.xFinland:complexitymodel                                              -1.798e-01  2.240e-01  -0.803
+country0.xFrance:complexitymodel                                               -4.471e-02  2.558e-01  -0.175
+country0.xGermany:complexitymodel                                              -9.615e-02  2.252e-01  -0.427
+country0.xGreece:complexitymodel                                                1.520e-01  2.837e-01   0.536
+country0.xHungary:complexitymodel                                               2.024e-01  2.189e-01   0.925
+country0.xIndia:complexitymodel                                                 1.394e-01  2.367e-01   0.589
+country0.xIreland:complexitymodel                                               8.551e-02  2.838e-01   0.301
+country0.xIsrael:complexitymodel                                                1.546e-01  2.719e-01   0.569
+country0.xItaly:complexitymodel                                                -2.142e-01  2.694e-01  -0.795
+country0.xLithuania:complexitymodel                                             2.955e-01  2.221e-01   1.330
+country0.xMacedonia, The Former Yugoslav Republic Of:complexitymodel           -2.690e-01  2.904e-01  -0.926
+country0.xMexico:complexitymodel                                               -1.230e-01  2.701e-01  -0.455
+country0.xNetherlands:complexitymodel                                           1.839e-01  2.278e-01   0.807
+country0.xNew Zealand:complexitymodel                                          -3.946e-01  2.965e-01  -1.331
+country0.xNorway:complexitymodel                                               -8.749e-02  2.233e-01  -0.392
+country0.xPoland:complexitymodel                                               -2.903e-02  2.487e-01  -0.117
+country0.xPortugal:complexitymodel                                             -1.340e-01  2.970e-01  -0.451
+country0.xRomania:complexitymodel                                               2.333e-01  2.205e-01   1.058
+country0.xSerbia:complexitymodel                                                4.042e-01  2.546e-01   1.588
+country0.xSingapore:complexitymodel                                             3.102e-01  2.718e-01   1.141
+country0.xSpain:complexitymodel                                                 2.583e-01  3.136e-01   0.824
+country0.xSweden:complexitymodel                                               -1.020e-01  2.494e-01  -0.409
+country0.xUnited Kingdom:complexitymodel                                        7.028e-02  2.159e-01   0.325
+country0.xUnited States:complexitymodel                                         1.243e-01  2.149e-01   0.579
+age.x:I(colorfulnessmodelnew^2)                                                -2.019e-04  1.139e-04  -1.772
+age.x:I(complexitymodel^2)                                                      5.642e-04  8.908e-05   6.333
+age.x:colorfulnessmodelnew                                                      2.148e-03  1.141e-03   1.883
+age.x:complexitymodel                                                           1.605e-03  9.166e-04   1.751
+education.xcollege:I(colorfulnessmodelnew^2)                                   -1.457e-01  2.321e-01  -0.628
+education.xgraduate school:I(colorfulnessmodelnew^2)                           -1.517e-01  2.321e-01  -0.653
+education.xhigh school:I(colorfulnessmodelnew^2)                               -1.532e-01  2.321e-01  -0.660
+education.xPhD:I(colorfulnessmodelnew^2)                                       -1.500e-01  2.322e-01  -0.646
+education.xpostdoctoral:I(colorfulnessmodelnew^2)                              -1.494e-01  2.324e-01  -0.643
+education.xpre-high school:I(colorfulnessmodelnew^2)                           -1.418e-01  2.324e-01  -0.610
+education.xprofessional school:I(colorfulnessmodelnew^2)                       -1.533e-01  2.321e-01  -0.660
+education.xcollege:I(complexitymodel^2)                                         4.217e-02  3.840e-01   0.110
+education.xgraduate school:I(complexitymodel^2)                                 3.292e-02  3.840e-01   0.086
+education.xhigh school:I(complexitymodel^2)                                     4.986e-02  3.840e-01   0.130
+education.xPhD:I(complexitymodel^2)                                             3.313e-02  3.840e-01   0.086
+education.xpostdoctoral:I(complexitymodel^2)                                    4.376e-02  3.841e-01   0.114
+education.xpre-high school:I(complexitymodel^2)                                 5.099e-02  3.841e-01   0.133
+education.xprofessional school:I(complexitymodel^2)                             3.995e-02  3.840e-01   0.104
+education.xcollege:colorfulnessmodelnew                                         1.893e+00  2.384e+00   0.794
+education.xgraduate school:colorfulnessmodelnew                                 1.907e+00  2.384e+00   0.800
+education.xhigh school:colorfulnessmodelnew                                     2.042e+00  2.384e+00   0.857
+education.xPhD:colorfulnessmodelnew                                             1.874e+00  2.385e+00   0.786
+education.xpostdoctoral:colorfulnessmodelnew                                    1.805e+00  2.387e+00   0.756
+education.xpre-high school:colorfulnessmodelnew                                 2.020e+00  2.387e+00   0.846
+education.xprofessional school:colorfulnessmodelnew                             1.968e+00  2.385e+00   0.825
+education.xcollege:complexitymodel                                             -4.204e-01  3.732e+00  -0.113
+education.xgraduate school:complexitymodel                                     -3.584e-01  3.732e+00  -0.096
+education.xhigh school:complexitymodel                                         -4.522e-01  3.732e+00  -0.121
+education.xPhD:complexitymodel                                                 -3.447e-01  3.732e+00  -0.092
+education.xpostdoctoral:complexitymodel                                        -4.328e-01  3.733e+00  -0.116
+education.xpre-high school:complexitymodel                                     -4.240e-01  3.733e+00  -0.114
+education.xprofessional school:complexitymodel                                 -4.339e-01  3.732e+00  -0.116
+gender.x:I(colorfulnessmodelnew^2)                                              5.948e-03  2.720e-03   2.187
+gender.x:I(complexitymodel^2)                                                   1.253e-03  2.117e-03   0.592
+gender.x:colorfulnessmodelnew                                                   3.195e-02  2.722e-02   1.174
+gender.x:complexitymodel                                                        3.531e-03  2.176e-02   0.162
+
+> anova(fullmodel)
+Analysis of Variance Table
+                                      Df Sum Sq Mean Sq   F value
+country0.x                            32  450.5    14.1    6.6076
+age.x                                  1  101.0   101.0   47.4075
+education.x                            7   42.1     6.0    2.8200
+gender.x                               1   96.9    96.9   45.4740
+I(colorfulnessmodelnew^2)              1   13.2    13.2    6.1780
+I(complexitymodel^2)                   1   51.0    51.0   23.9576
+colorfulnessmodelnew                   1   29.3    29.3   13.7538
+complexitymodel                        1    5.9     5.9    2.7758
+country0.x:I(colorfulnessmodelnew^2)  32 5174.0   161.7   75.8881
+country0.x:I(complexitymodel^2)       32 1397.5    43.7   20.4977
+country0.x:colorfulnessmodelnew       32  377.3    11.8    5.5334
+country0.x:complexitymodel            32  222.8     7.0    3.2680
+age.x:I(colorfulnessmodelnew^2)        1  422.5   422.5  198.2775
+age.x:I(complexitymodel^2)             1 3667.1  3667.1 1721.1391
+age.x:colorfulnessmodelnew             1   14.3    14.3    6.6913
+age.x:complexitymodel                  1   11.0    11.0    5.1487
+education.x:I(colorfulnessmodelnew^2)  7 1685.9   240.8  113.0376
+education.x:I(complexitymodel^2)       7  429.5    61.4   28.8010
+education.x:colorfulnessmodelnew       7   34.5     4.9    2.3112
+education.x:complexitymodel            7   21.8     3.1    1.4589
+gender.x:I(colorfulnessmodelnew^2)     1 1403.8  1403.8  658.8579
+gender.x:I(complexitymodel^2)          1   37.9    37.9   17.7824
+gender.x:colorfulnessmodelnew          1    3.7     3.7    1.7425
+gender.x:complexitymodel               1    0.1     0.1    0.0641
+
+
+> ## calculate variance of fixed effects
+> Fixed <- fixef(fullmodel)[2] * fullmodel@X[, 2] + fixef(fullmodel)[3] * fullmodel@X[, 3]
+> VarF <- var(Fixed)
+> 
+> 
+> ## calculate variance-covariance matrix, betas and p-values for model
+> (VarF + VarCorr(fullmodel)$website[1] + VarCorr(fullmodel)$participant_id[1])/(VarF + VarCorr(fullmodel)$website[1] + VarCorr(fullmodel)$participant_id[1] + (attr(VarCorr(fullmodel), "sc")^2))
+[1] 0.4293976
+> Vcov <- vcov(fullmodel, useScale = False)
+> betas <- fixef(fullmodel)
+> se <- sqrt(diag(Vcov))
+> zval <- betas / se
+> pval <- 2*pnorm(abs(zval), lower.tail = FALSE)
+> ## print everything
+> cbind(betas, se, zval, pval)
+                                                                                       betas           se         zval         pval
+(Intercept)                                                                     5.918777e+00 1.050407e+01  0.563474341 5.731119e-01
+country0.xAustralia                                                            -4.476190e-03 7.038926e-01 -0.006359195 9.949261e-01
+country0.xAustria                                                               1.411639e+00 7.611671e-01  1.854571380 6.365746e-02
+country0.xBelgium                                                               9.261847e-01 7.580819e-01  1.221747608 2.218031e-01
+country0.xBrazil                                                                9.943194e-01 8.686629e-01  1.144655033 2.523521e-01
+country0.xBulgaria                                                              1.281072e-02 8.865370e-01  0.014450294 9.884707e-01
+country0.xCanada                                                               -8.753854e-02 6.461539e-01 -0.135476296 8.922353e-01
+country0.xChile                                                                -1.486436e+00 6.897072e-01 -2.155169670 3.114856e-02
+country0.xDenmark                                                               9.719647e-01 8.770209e-01  1.108257130 2.677508e-01
+country0.xFinland                                                               1.459683e+00 6.567745e-01  2.222502091 2.624939e-02
+country0.xFrance                                                                9.838814e-01 7.434442e-01  1.323409822 1.856991e-01
+country0.xGermany                                                               1.576469e+00 6.609246e-01  2.385248544 1.706759e-02
+country0.xGreece                                                                5.422905e-01 8.455988e-01  0.641309452 5.213216e-01
+country0.xHungary                                                              -7.191721e-01 6.412297e-01 -1.121551391 2.620532e-01
+country0.xIndia                                                                 1.714759e-01 6.933705e-01  0.247307706 8.046701e-01
+country0.xIreland                                                              -1.734229e-01 8.061751e-01 -0.215118197 8.296752e-01
+country0.xIsrael                                                                6.400942e-01 8.041947e-01  0.795944369 4.260644e-01
+country0.xItaly                                                                 1.635078e+00 7.995290e-01  2.045051511 4.084978e-02
+country0.xLithuania                                                            -5.067733e-01 6.520691e-01 -0.777177220 4.370542e-01
+country0.xMacedonia, The Former Yugoslav Republic Of                            5.197088e-01 8.760971e-01  0.593209121 5.530412e-01
+country0.xMexico                                                               -1.709171e+00 7.930305e-01 -2.155240320 3.114303e-02
+country0.xNetherlands                                                          -3.882274e-03 6.696669e-01 -0.005797321 9.953744e-01
+country0.xNew Zealand                                                          -2.199526e-01 8.396184e-01 -0.261967323 7.933466e-01
+country0.xNorway                                                                7.787309e-01 6.537851e-01  1.191111525 2.336098e-01
+country0.xPoland                                                                1.528379e+00 7.230779e-01  2.113712741 3.453981e-02
+country0.xPortugal                                                             -7.215322e-02 9.126600e-01 -0.079058161 9.369864e-01
+country0.xRomania                                                              -8.262007e-01 6.461119e-01 -1.278726986 2.009932e-01
+country0.xSerbia                                                               -1.819029e+00 7.566831e-01 -2.403950969 1.621895e-02
+country0.xSingapore                                                            -1.357574e+00 7.864699e-01 -1.726161956 8.431828e-02
+country0.xSpain                                                                 3.777335e-01 9.270987e-01  0.407436146 6.836877e-01
+country0.xSweden                                                                1.708952e+00 7.311892e-01  2.337222836 1.942760e-02
+country0.xUnited Kingdom                                                       -6.326564e-01 6.323273e-01 -1.000520480 3.170587e-01
+country0.xUnited States                                                        -5.509195e-02 6.291699e-01 -0.087562921 9.302241e-01
+age.x                                                                          -2.348427e-02 2.731982e-03 -8.596055417 8.250297e-18
+education.xcollege                                                             -3.679532e+00 1.046126e+01 -0.351729176 7.250414e-01
+education.xgraduate school                                                     -3.653365e+00 1.046132e+01 -0.349225827 7.269198e-01
+education.xhigh school                                                         -4.259897e+00 1.046145e+01 -0.407199410 6.838615e-01
+education.xPhD                                                                 -3.539490e+00 1.046202e+01 -0.338318205 7.351234e-01
+education.xpostdoctoral                                                        -3.043967e+00 1.046502e+01 -0.290870494 7.711504e-01
+education.xpre-high school                                                     -4.635289e+00 1.046505e+01 -0.442930504 6.578160e-01
+education.xprofessional school                                                 -3.725101e+00 1.046163e+01 -0.356072633 7.217862e-01
+gender.x                                                                       -4.252895e-01 6.508363e-02 -6.534508206 6.381890e-11
+I(colorfulnessmodelnew^2)                                                       5.977126e-02 2.357581e-01  0.253527908 7.998603e-01
+I(complexitymodel^2)                                                           -1.130819e-01 3.853095e-01 -0.293483258 7.691528e-01
+colorfulnessmodelnew                                                           -9.015851e-01 2.419436e+00 -0.372642631 7.094144e-01
+complexitymodel                                                                 6.126093e-01 3.745580e+00  0.163555259 8.700813e-01
+country0.xAustralia:I(colorfulnessmodelnew^2)                                  -2.524515e-02 3.114602e-02 -0.810541725 4.176289e-01
+country0.xAustria:I(colorfulnessmodelnew^2)                                     8.213485e-03 3.366276e-02  0.243993186 8.072361e-01
+country0.xBelgium:I(colorfulnessmodelnew^2)                                     6.478985e-03 3.318790e-02  0.195221316 8.452197e-01
+country0.xBrazil:I(colorfulnessmodelnew^2)                                     -9.071007e-03 3.864519e-02 -0.234725346 8.144219e-01
+country0.xBulgaria:I(colorfulnessmodelnew^2)                                    1.589499e-02 3.861626e-02  0.411614011 6.806224e-01
+country0.xCanada:I(colorfulnessmodelnew^2)                                     -4.885920e-03 2.885743e-02 -0.169312376 8.655509e-01
+country0.xChile:I(colorfulnessmodelnew^2)                                      -8.728512e-03 3.067649e-02 -0.284534283 7.760010e-01
+country0.xDenmark:I(colorfulnessmodelnew^2)                                    -3.043896e-02 3.851179e-02 -0.790380293 4.293057e-01
+country0.xFinland:I(colorfulnessmodelnew^2)                                     3.722257e-03 2.925464e-02  0.127236489 8.987532e-01
+country0.xFrance:I(colorfulnessmodelnew^2)                                      4.629781e-03 3.258618e-02  0.142078061 8.870183e-01
+country0.xGermany:I(colorfulnessmodelnew^2)                                     9.939865e-03 2.942529e-02  0.337800023 7.355139e-01
+country0.xGreece:I(colorfulnessmodelnew^2)                                      2.678388e-02 3.665563e-02  0.730689432 4.649689e-01
+country0.xHungary:I(colorfulnessmodelnew^2)                                    -1.561528e-02 2.868196e-02 -0.544428668 5.861465e-01
+country0.xIndia:I(colorfulnessmodelnew^2)                                       1.048449e-03 3.065785e-02  0.034198376 9.727190e-01
+country0.xIreland:I(colorfulnessmodelnew^2)                                     1.520978e-02 3.513538e-02  0.432890811 6.650941e-01
+country0.xIsrael:I(colorfulnessmodelnew^2)                                      8.353625e-03 3.546763e-02  0.235528159 8.137988e-01
+country0.xItaly:I(colorfulnessmodelnew^2)                                       3.539222e-02 3.512272e-02  1.007673041 3.136115e-01
+country0.xLithuania:I(colorfulnessmodelnew^2)                                  -1.799959e-03 2.908418e-02 -0.061887890 9.506521e-01
+country0.xMacedonia, The Former Yugoslav Republic Of:I(colorfulnessmodelnew^2)  2.079146e-02 3.817356e-02  0.544655934 5.859902e-01
+country0.xMexico:I(colorfulnessmodelnew^2)                                     -6.279276e-02 3.519859e-02 -1.783957052 7.443064e-02
+country0.xNetherlands:I(colorfulnessmodelnew^2)                                -8.377791e-03 2.982361e-02 -0.280911387 7.787784e-01
+country0.xNew Zealand:I(colorfulnessmodelnew^2)                                -5.912134e-02 3.612407e-02 -1.636619318 1.017100e-01
+country0.xNorway:I(colorfulnessmodelnew^2)                                     -5.753300e-03 2.913681e-02 -0.197458146 8.434690e-01
+country0.xPoland:I(colorfulnessmodelnew^2)                                      2.849550e-02 3.188138e-02  0.893797412 3.714303e-01
+country0.xPortugal:I(colorfulnessmodelnew^2)                                   -6.713243e-02 3.877029e-02 -1.731543240 8.335492e-02
+country0.xRomania:I(colorfulnessmodelnew^2)                                    -1.067779e-02 2.885628e-02 -0.370033481 7.113575e-01
+country0.xSerbia:I(colorfulnessmodelnew^2)                                     -2.837009e-02 3.336110e-02 -0.850394272 3.951059e-01
+country0.xSingapore:I(colorfulnessmodelnew^2)                                  -1.002726e-03 3.456940e-02 -0.029006164 9.768597e-01
+country0.xSpain:I(colorfulnessmodelnew^2)                                       1.087260e-02 3.971912e-02  0.273737061 7.842867e-01
+country0.xSweden:I(colorfulnessmodelnew^2)                                      2.999801e-02 3.243568e-02  0.924846093 3.550460e-01
+country0.xUnited Kingdom:I(colorfulnessmodelnew^2)                             -6.973056e-03 2.832147e-02 -0.246210950 8.055189e-01
+country0.xUnited States:I(colorfulnessmodelnew^2)                              -1.281838e-02 2.820229e-02 -0.454515493 6.494578e-01
+country0.xAustralia:I(complexitymodel^2)                                       -2.437626e-02 2.331703e-02 -1.045427182 2.958256e-01
+country0.xAustria:I(complexitymodel^2)                                         -8.404425e-03 2.473451e-02 -0.339785439 7.340181e-01
+country0.xBelgium:I(complexitymodel^2)                                         -5.007739e-03 2.502441e-02 -0.200114185 8.413913e-01
+country0.xBrazil:I(complexitymodel^2)                                          -4.578980e-03 2.837854e-02 -0.161353592 8.718149e-01
+country0.xBulgaria:I(complexitymodel^2)                                        -3.976512e-02 2.787382e-02 -1.426611872 1.536918e-01
+country0.xCanada:I(complexitymodel^2)                                          -3.089594e-02 2.143319e-02 -1.441500155 1.494434e-01
+country0.xChile:I(complexitymodel^2)                                           -1.695037e-02 2.257473e-02 -0.750856068 4.527393e-01
+country0.xDenmark:I(complexitymodel^2)                                          5.885965e-03 2.901870e-02  0.202833479 8.392652e-01
+country0.xFinland:I(complexitymodel^2)                                          6.380381e-03 2.178084e-02  0.292935520 7.695714e-01
+country0.xFrance:I(complexitymodel^2)                                           3.147361e-03 2.486439e-02  0.126581056 8.992720e-01
+country0.xGermany:I(complexitymodel^2)                                         -6.681692e-03 2.189917e-02 -0.305111624 7.602811e-01
+country0.xGreece:I(complexitymodel^2)                                          -1.338705e-02 2.772653e-02 -0.482824704 6.292202e-01
+country0.xHungary:I(complexitymodel^2)                                         -1.543917e-02 2.127570e-02 -0.725671544 4.680402e-01
+country0.xIndia:I(complexitymodel^2)                                           -1.417474e-02 2.302972e-02 -0.615497929 5.382259e-01
+country0.xIreland:I(complexitymodel^2)                                         -1.481299e-02 2.772677e-02 -0.534248843 5.931694e-01
+country0.xIsrael:I(complexitymodel^2)                                          -2.602066e-02 2.645272e-02 -0.983666448 3.252795e-01
+country0.xItaly:I(complexitymodel^2)                                            1.491128e-02 2.611892e-02  0.570899586 5.680677e-01
+country0.xLithuania:I(complexitymodel^2)                                       -2.714126e-02 2.159057e-02 -1.257088229 2.087217e-01
+country0.xMacedonia, The Former Yugoslav Republic Of:I(complexitymodel^2)       3.222378e-02 2.796055e-02  1.152472940 2.491268e-01
+country0.xMexico:I(complexitymodel^2)                                           3.490049e-03 2.625863e-02  0.132910583 8.942641e-01
+country0.xNetherlands:I(complexitymodel^2)                                     -2.531103e-02 2.215249e-02 -1.142581348 2.532125e-01
+country0.xNew Zealand:I(complexitymodel^2)                                      3.801647e-02 2.903390e-02  1.309382242 1.904049e-01
+country0.xNorway:I(complexitymodel^2)                                           6.797610e-05 2.170448e-02  0.003131893 9.975011e-01
+country0.xPoland:I(complexitymodel^2)                                          -2.548101e-03 2.429081e-02 -0.104899775 9.164553e-01
+country0.xPortugal:I(complexitymodel^2)                                        -5.633353e-04 2.866936e-02 -0.019649389 9.843231e-01
+country0.xRomania:I(complexitymodel^2)                                         -1.835257e-02 2.142415e-02 -0.856629820 3.916495e-01
+country0.xSerbia:I(complexitymodel^2)                                          -3.881709e-02 2.477874e-02 -1.566548129 1.172204e-01
+country0.xSingapore:I(complexitymodel^2)                                       -2.559716e-02 2.666195e-02 -0.960063276 3.370234e-01
+country0.xSpain:I(complexitymodel^2)                                           -2.884786e-02 3.072225e-02 -0.938989200 3.477363e-01
+country0.xSweden:I(complexitymodel^2)                                          -3.043504e-03 2.424241e-02 -0.125544620 9.000924e-01
+country0.xUnited Kingdom:I(complexitymodel^2)                                  -1.104493e-02 2.099070e-02 -0.526181964 5.987618e-01
+country0.xUnited States:I(complexitymodel^2)                                   -2.177359e-02 2.089360e-02 -1.042117731 2.973571e-01
+country0.xAustralia:colorfulnessmodelnew                                        1.833004e-01 3.089251e-01  0.593348972 5.529476e-01
+country0.xAustria:colorfulnessmodelnew                                         -1.774373e-01 3.337813e-01 -0.531597383 5.950049e-01
+country0.xBelgium:colorfulnessmodelnew                                         -9.538288e-02 3.295838e-01 -0.289403998 7.722722e-01
+country0.xBrazil:colorfulnessmodelnew                                           1.510274e-02 3.847061e-01  0.039257864 9.686848e-01
+country0.xBulgaria:colorfulnessmodelnew                                        -2.292473e-01 3.843763e-01 -0.596413644 5.508989e-01
+country0.xCanada:colorfulnessmodelnew                                           5.273146e-02 2.855390e-01  0.184673375 8.534852e-01
+country0.xChile:colorfulnessmodelnew                                            3.362199e-01 3.038667e-01  1.106471939 2.685223e-01
+country0.xDenmark:colorfulnessmodelnew                                          1.257717e-01 3.826953e-01  0.328647215 7.424224e-01
+country0.xFinland:colorfulnessmodelnew                                         -1.508865e-01 2.896253e-01 -0.520971423 6.023867e-01
+country0.xFrance:colorfulnessmodelnew                                          -1.900022e-01 3.244762e-01 -0.585565899 5.581673e-01
+country0.xGermany:colorfulnessmodelnew                                         -1.971454e-01 2.912068e-01 -0.676994491 4.984094e-01
+country0.xGreece:colorfulnessmodelnew                                          -2.679857e-01 3.641146e-01 -0.735992821 4.617351e-01
+country0.xHungary:colorfulnessmodelnew                                          1.749347e-01 2.837115e-01  0.616593647 5.375028e-01
+country0.xIndia:colorfulnessmodelnew                                            3.391444e-03 3.035252e-01  0.011173517 9.910850e-01
+country0.xIreland:colorfulnessmodelnew                                          2.417159e-02 3.498551e-01  0.069090280 9.449178e-01
+country0.xIsrael:colorfulnessmodelnew                                          -1.010132e-01 3.522277e-01 -0.286783774 7.742779e-01
+country0.xItaly:colorfulnessmodelnew                                           -3.320195e-01 3.486957e-01 -0.952175457 3.410080e-01
+country0.xLithuania:colorfulnessmodelnew                                        1.239037e-02 2.878451e-01  0.043045288 9.656654e-01
+country0.xMacedonia, The Former Yugoslav Republic Of:colorfulnessmodelnew       2.691604e-02 3.797877e-01  0.070871283 9.435002e-01
+country0.xMexico:colorfulnessmodelnew                                           8.549692e-01 3.475190e-01  2.460208508 1.388563e-02
+country0.xNetherlands:colorfulnessmodelnew                                      3.203903e-02 2.952558e-01  0.108512819 9.135889e-01
+country0.xNew Zealand:colorfulnessmodelnew                                      5.910992e-01 3.600361e-01  1.641777488 1.006361e-01
+country0.xNorway:colorfulnessmodelnew                                          -2.329878e-02 2.883444e-01 -0.080801894 9.355995e-01
+country0.xPoland:colorfulnessmodelnew                                          -3.955059e-01 3.160318e-01 -1.251475043 2.107612e-01
+country0.xPortugal:colorfulnessmodelnew                                         5.580473e-01 3.862975e-01  1.444604883 1.485689e-01
+country0.xRomania:colorfulnessmodelnew                                          1.806424e-01 2.854850e-01  0.632756123 5.268929e-01
+country0.xSerbia:colorfulnessmodelnew                                           4.360001e-01 3.314726e-01  1.315342658 1.883948e-01
+country0.xSingapore:colorfulnessmodelnew                                        1.352377e-01 3.412424e-01  0.396309841 6.918765e-01
+country0.xSpain:colorfulnessmodelnew                                           -2.426328e-01 3.924237e-01 -0.618292921 5.363823e-01
+country0.xSweden:colorfulnessmodelnew                                          -3.847320e-01 3.217644e-01 -1.195694634 2.318157e-01
+country0.xUnited Kingdom:colorfulnessmodelnew                                   1.965398e-01 2.800941e-01  0.701691992 4.828713e-01
+country0.xUnited States:colorfulnessmodelnew                                    1.356867e-01 2.788894e-01  0.486524965 6.265950e-01
+country0.xAustralia:complexitymodel                                             1.412964e-01 2.401781e-01  0.588298521 5.563319e-01
+country0.xAustria:complexitymodel                                              -8.901649e-02 2.546717e-01 -0.349534254 7.266883e-01
+country0.xBelgium:complexitymodel                                              -9.116532e-02 2.573934e-01 -0.354186716 7.231990e-01
+country0.xBrazil:complexitymodel                                               -1.288840e-01 2.914615e-01 -0.442199045 6.583452e-01
+country0.xBulgaria:complexitymodel                                              4.205358e-01 2.889218e-01  1.455534969 1.455212e-01
+country0.xCanada:complexitymodel                                                2.166138e-01 2.205065e-01  0.982346300 3.259293e-01
+country0.xChile:complexitymodel                                                 1.315960e-01 2.326103e-01  0.565736043 5.715732e-01
+country0.xDenmark:complexitymodel                                              -1.670373e-01 2.995483e-01 -0.557630598 5.770967e-01
+country0.xFinland:complexitymodel                                              -1.798109e-01 2.239759e-01 -0.802813740 4.220824e-01
+country0.xFrance:complexitymodel                                               -4.470655e-02 2.558021e-01 -0.174770051 8.612603e-01
+country0.xGermany:complexitymodel                                              -9.614568e-02 2.252376e-01 -0.426863262 6.694789e-01
+country0.xGreece:complexitymodel                                                1.520459e-01 2.836603e-01  0.536013870 5.919490e-01
+country0.xHungary:complexitymodel                                               2.024138e-01 2.188596e-01  0.924856658 3.550405e-01
+country0.xIndia:complexitymodel                                                 1.394382e-01 2.367178e-01  0.589048204 5.558289e-01
+country0.xIreland:complexitymodel                                               8.550960e-02 2.838128e-01  0.301288772 7.631943e-01
+country0.xIsrael:complexitymodel                                                1.546066e-01 2.719489e-01  0.568513339 5.696865e-01
+country0.xItaly:complexitymodel                                                -2.142104e-01 2.694468e-01 -0.795000655 4.266131e-01
+country0.xLithuania:complexitymodel                                             2.954863e-01 2.221417e-01  1.330170497 1.834621e-01
+country0.xMacedonia, The Former Yugoslav Republic Of:complexitymodel           -2.690401e-01 2.904232e-01 -0.926372669 3.542523e-01
+country0.xMexico:complexitymodel                                               -1.229651e-01 2.700841e-01 -0.455284449 6.489046e-01
+country0.xNetherlands:complexitymodel                                           1.838717e-01 2.277953e-01  0.807179576 4.195630e-01
+country0.xNew Zealand:complexitymodel                                          -3.945601e-01 2.965306e-01 -1.330588035 1.833246e-01
+country0.xNorway:complexitymodel                                               -8.749034e-02 2.232566e-01 -0.391882394 6.951451e-01
+country0.xPoland:complexitymodel                                               -2.903214e-02 2.487283e-01 -0.116722324 9.070801e-01
+country0.xPortugal:complexitymodel                                             -1.339960e-01 2.970484e-01 -0.451091494 6.519236e-01
+country0.xRomania:complexitymodel                                               2.333249e-01 2.204560e-01  1.058373785 2.898851e-01
+country0.xSerbia:complexitymodel                                                4.042358e-01 2.546030e-01  1.587709853 1.123520e-01
+country0.xSingapore:complexitymodel                                             3.101573e-01 2.718389e-01  1.140959900 2.538866e-01
+country0.xSpain:complexitymodel                                                 2.582918e-01 3.136465e-01  0.823512449 4.102166e-01
+country0.xSweden:complexitymodel                                               -1.019937e-01 2.493559e-01 -0.409028633 6.825186e-01
+country0.xUnited Kingdom:complexitymodel                                        7.028219e-02 2.159235e-01  0.325495771 7.448059e-01
+country0.xUnited States:complexitymodel                                         1.243448e-01 2.149288e-01  0.578539333 5.629001e-01
+age.x:I(colorfulnessmodelnew^2)                                                -2.018959e-04 1.139216e-04 -1.772235615 7.635545e-02
+age.x:I(complexitymodel^2)                                                      5.641594e-04 8.907639e-05  6.333433978 2.397639e-10
+age.x:colorfulnessmodelnew                                                      2.148106e-03 1.140843e-03  1.882910875 5.971245e-02
+age.x:complexitymodel                                                           1.604636e-03 9.166388e-04  1.750565543 8.002077e-02
+education.xcollege:I(colorfulnessmodelnew^2)                                   -1.457048e-01 2.321082e-01 -0.627745198 5.301709e-01
+education.xgraduate school:I(colorfulnessmodelnew^2)                           -1.516851e-01 2.321126e-01 -0.653497861 5.134354e-01
+education.xhigh school:I(colorfulnessmodelnew^2)                               -1.531542e-01 2.321229e-01 -0.659797736 5.093836e-01
+education.xPhD:I(colorfulnessmodelnew^2)                                       -1.499921e-01 2.321672e-01 -0.646051894 5.182457e-01
+education.xpostdoctoral:I(colorfulnessmodelnew^2)                              -1.494345e-01 2.324037e-01 -0.642995114 5.202273e-01
+education.xpre-high school:I(colorfulnessmodelnew^2)                           -1.418439e-01 2.324004e-01 -0.610342953 5.416346e-01
+education.xprofessional school:I(colorfulnessmodelnew^2)                       -1.533198e-01 2.321366e-01 -0.660472085 5.089509e-01
+education.xcollege:I(complexitymodel^2)                                         4.217068e-02 3.840229e-01  0.109812940 9.125577e-01
+education.xgraduate school:I(complexitymodel^2)                                 3.291765e-02 3.840248e-01  0.085717496 9.316910e-01
+education.xhigh school:I(complexitymodel^2)                                     4.986446e-02 3.840285e-01  0.129845733 8.966885e-01
+education.xPhD:I(complexitymodel^2)                                             3.312690e-02 3.840459e-01  0.086257668 9.312616e-01
+education.xpostdoctoral:I(complexitymodel^2)                                    4.375635e-02 3.841405e-01  0.113907152 9.093114e-01
+education.xpre-high school:I(complexitymodel^2)                                 5.098579e-02 3.841423e-01  0.132726324 8.944098e-01
+education.xprofessional school:I(complexitymodel^2)                             3.995371e-02 3.840342e-01  0.104036853 9.171401e-01
+education.xcollege:colorfulnessmodelnew                                         1.892586e+00 2.384220e+00  0.793796851 4.273137e-01
+education.xgraduate school:colorfulnessmodelnew                                 1.907335e+00 2.384263e+00  0.799968174 4.237292e-01
+education.xhigh school:colorfulnessmodelnew                                     2.042465e+00 2.384363e+00  0.856608271 3.916614e-01
+education.xPhD:colorfulnessmodelnew                                             1.874143e+00 2.384798e+00  0.785870532 4.319433e-01
+education.xpostdoctoral:colorfulnessmodelnew                                    1.805286e+00 2.387124e+00  0.756259690 4.494935e-01
+education.xpre-high school:colorfulnessmodelnew                                 2.019898e+00 2.387094e+00  0.846174753 3.974553e-01
+education.xprofessional school:colorfulnessmodelnew                             1.967625e+00 2.384501e+00  0.825172722 4.092735e-01
+education.xcollege:complexitymodel                                             -4.203606e-01 3.731543e+00 -0.112650607 9.103076e-01
+education.xgraduate school:complexitymodel                                     -3.583578e-01 3.731565e+00 -0.096034184 9.234934e-01
+education.xhigh school:complexitymodel                                         -4.521600e-01 3.731603e+00 -0.121170442 9.035560e-01
+education.xPhD:complexitymodel                                                 -3.447296e-01 3.731792e+00 -0.092376414 9.263990e-01
+education.xpostdoctoral:complexitymodel                                        -4.327959e-01 3.732813e+00 -0.115943643 9.076972e-01
+education.xpre-high school:complexitymodel                                     -4.239914e-01 3.732807e+00 -0.113585137 9.095667e-01
+education.xprofessional school:complexitymodel                                 -4.338521e-01 3.731667e+00 -0.116262282 9.074447e-01
+gender.x:I(colorfulnessmodelnew^2)                                              5.947867e-03 2.720031e-03  2.186691260 2.876507e-02
+gender.x:I(complexitymodel^2)                                                   1.252811e-03 2.116596e-03  0.591898689 5.539184e-01
+gender.x:colorfulnessmodelnew                                                   3.194913e-02 2.721825e-02  1.173812559 2.404701e-01
+gender.x:complexitymodel                                                        3.531119e-03 2.175601e-02  0.162305468 8.710653e-01

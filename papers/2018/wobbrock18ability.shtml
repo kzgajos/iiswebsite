@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Ability-based Design</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Ability-based Design">
+<meta property="og:description" content="By focusing on users' abilities rather than disabilities, designers can create interactive systems better matched to those abilities.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Ability-based Design</h1>
+<h2 class="head">Jacob&nbsp;O. Wobbrock, Krzysztof&nbsp;Z. Gajos, Shaun&nbsp;K. Kane, and Gregg&nbsp;C. Vanderheiden</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+By focusing on users' abilities rather than disabilities, designers can create interactive systems better matched to those abilities.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+
+<li><a class="external" href="http://www.eecs.harvard.edu/~kgajos/papers/authorizer.html?url=https://dl.acm.org/authorize?N658399">Free access via ACM Authorizer</a></li>
+<li><a class="external" href="http://doi.acm.org/10.1145/3148051">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Jacob&nbsp;O. Wobbrock, Krzysztof&nbsp;Z. Gajos, Shaun&nbsp;K. Kane, and Gregg&nbsp;C. Vanderheiden. Ability-based design. <EM>Commun. ACM</EM>, 61(6):62&ndash;71, may 2018.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: wobbrock18:ability','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: wobbrock18:ability</TITLE></HEAD><BODY><PRE>@article{wobbrock18:ability,\n  author = {Wobbrock, Jacob O. and Gajos, Krzysztof Z. and Kane, Shaun K. and Vanderheiden, Gregg C.},\n  title = {Ability-based Design},\n  journal = {Commun. ACM},\n  issue_date = {June 2018},\n  volume = {61},\n  number = {6},\n  month = {may},\n  year = {2018},\n  issn = {0001-0782},\n  pages = {62--71},\n  numpages = {10},\n    doi = {10.1145/3148051},\n  acmid = {3148051},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  abstract = {By focusing on users\' abilities rather than disabilities, designers can create interactive systems better matched to those abilities.},\n      }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

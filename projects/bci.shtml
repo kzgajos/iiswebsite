@@ -1,0 +1,13 @@
+<a name="bci"></a>
+<h4 class="ptitle">Controlling Complex Applications with a Brain-Computer Interface</h4>
+
+<p>
+<img class="thumbleft" src="http://www.eecs.harvard.edu/~kgajos/papers/images/BCI-thumb.jpg" alt="" width="200" height="150" align="left"/>
+Brain-Computer Interfaces (BCIs) have the potential to enable paralyzed people to continue to communicate and control their environment even if they lack voluntary control over any muscle in their bodies.  Last few decades saw a lot of progress in how quickly and how robustly people can transmit information through such interfaces.  
+Little effort has been directed at systematically understanding the unique strengths and limitations of this input modality and their implications for interaction design. Past proof of concept brain-controlled applications either involved very simple interaction or they augmented existing complex applications with external widgets to enable limited control.  As part of our larger efford to develop novel <a href="projects/abui/">ability-based user interfaces</a>, we are starting a project to explore the properties and limitations of one particularly promising BCI paradigm as an input modality and to develop methods and tools for designing user interfaces for complex brain-controlled applications.  The following <a href="http://www.eecs.harvard.edu/~kgajos/papers/2010/gajos-BrainBodyBytes-2010.pdf">short paper</a> briefly outlines our plans.
+
+<!--<br/>
+<span class="pdetails">[<a href="papers/byproject.shtml#bci">Related papers</a>]</span>-->
+</p>
+
+<br clear="all" />

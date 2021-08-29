@@ -1,0 +1,189 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>PETALS - home</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+#imagemap {
+	background-image: url(../imgs/top_template_img.gif);
+	height: 222px;
+	width: 1000px;
+	background-repeat: no-repeat;
+}
+#imagemap ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	height: 222px;
+	width: 1000px;
+	border-top-color: #FFF;
+	border-right-color: #FFF;
+	border-bottom-color: #FFF;
+	border-left-color: #FFF;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	position: relative;
+}
+li#home {
+	position: absolute;
+	left: 28px;
+	top: 68px;
+	width: 78px;
+	height: 28px;
+}
+li#home a {
+	display: block;
+width: 78px;
+	height: 28px;
+}
+li#about {
+	position: absolute;
+	left: 122px;
+	top: 68px;
+	width: 80px;
+	height: 27px;
+}
+
+li#about a{
+	display: block;
+	width: 80px;
+	height: 27px;
+}
+
+li#press {
+	position: absolute;
+	left: 217px;
+	top: 69px;
+	width: 58px;
+	height: 23px;
+}
+
+li#press a{
+	display: block;
+   width: 58px;
+	height: 23px;
+}
+
+li#papers {
+	position: absolute;
+	left: 296px;
+	top: 72px;
+	width: 85px;
+	height: 21px;
+}
+
+li#papers a{
+	display: block;
+ 	width: 85px;
+	height: 21px;
+}
+
+li#links {
+	position: absolute;
+	left: 62px;
+	top: 113px;
+	width: 67px;
+	height: 24px;
+}
+
+li#links a{
+	display: block;
+	width: 67px;
+	height: 24px; 
+}
+
+li#people {
+	position: absolute;
+	left: 146px;
+	top: 112px;
+	width: 77px;
+	height: 27px;
+}
+
+li#people a{
+	display: block;
+ 	width: 77px;
+	height: 27px;
+}
+
+li#projects {
+	position: absolute;
+	left: 244px;
+	top: 115px;
+	width: 82px;
+	height: 25px;
+}
+
+li#projects a{
+	display: block;
+ 	width: 82px;
+	height: 25px;
+}
+
+li#mines {
+	position: absolute;
+	left: 340px;
+	top: 116px;
+	width: 78px;
+	height: 23px;
+}
+
+li#mines a{
+	display: block;
+ width: 78px;
+	height: 23px;
+}
+
+#imagemap li {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-top-color: #0F0;
+	border-right-color: #0F0;
+	border-bottom-color: #0F0;
+	border-left-color: #0F0;
+}
+</style>
+</head>
+
+<body>
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+    <div id="imagemap" >
+      <ul>
+        <li id="home"><a href="../index.html"></a></li>
+        <li id="about"><a href="../about.html"></a></li>
+        <li id="press"><a href="../press.html"></a></li>
+        <li id="papers"><a href="../papers.html"></a></li>
+        <li id="links"><a href="../links.html"></a></li>
+        <li id="people"><a href="../people.html"></a></li>
+        <li id="projects"><a href="../projects.html"></a></li>
+        <li id="mines"><a href="../mines.html"></a></li>
+      </ul>
+    </div></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><!-- TemplateBeginEditable name="dynamicContent" -->dynamicContent<!-- TemplateEndEditable --></td>
+  </tr>
+</table>
+
+<map name="Map" id="Map"><area shape="rect" coords="295,67,374,99" href="../papers.html" alt="papers " />
+  <area shape="rect" coords="120,67,200,97" href="../about.html" alt="about" />
+  <area shape="rect" coords="213,65,277,96" href="../press.html" alt="press" />
+  <area shape="rect" coords="240,109,330,139" href="../projects.html" alt="projects" />
+<area shape="rect" coords="143,107,228,140" href="../people.html" alt="people " />
+  <area shape="rect" coords="26,64,107,97" href="../index.html" alt="home" />
+  <area shape="rect" coords="60,108,131,139" href="../links.html" alt="links " />
+<area shape="rect" coords="338,105,425,141" href="../mines.html" alt="mines " />
+<area shape="rect" coords="14,14,281,62" href="../index.html" />
+</map>
+</body>
+</html>

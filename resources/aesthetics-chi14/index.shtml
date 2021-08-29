@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<style type="text/css">
+a#n-resources { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Intelligent Interactive Systems Group -- Data and Supplementary Materials for "Quantifying Visual Preferences Around the World"</title>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Intelligent Interactive Systems Group at Harvard</h1>
+<h2 class="head">Data and Supplementary Materials for "Quantifying Visual Preferences Around the World"</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<div class="content">
+
+<H3>Overview</h3>
+<p>We provide two resources for this paper:
+<ul>
+<li><a href="resources/aesthetics-chi14/SupplementaryMaterials.zip">The data sets, R script, and results</a></li>
+<li><a href="resources/aesthetics-chi14/website_stimuli.zip">Web site stimuli</a></li>
+</ul>
+These resources refer to the following paper:
+</p>
+
+<P class="paper" id='xreinecke14:visualx'>Katharina Reinecke and Krzysztof&nbsp;Z. Gajos. <a href="papers/2014/reinecke14visual.pdf">Quantifying Visual Preferences Around the World</a>. In <EM>Proceedings of CHI 2014</EM>, 2014.
+
+<br/><span class="paperdetails">[<a href="papers/2014/reinecke14visual.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+</div>
+  
+
+<div class="content">
+<h3>Contact</h3>
+<p>The primary contact person for this project is <a
+  href="http://people.seas.harvard.edu/~reinecke/">Katharina Reinecke</a>.</p>
+
+
+</div>
+
+
+<div class="content">This page was last modified on <!--#config timefmt="%B %d, %Y" --> <!--#echo var="LAST_MODIFIED" -->.</div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

@@ -1,0 +1,26 @@
+<a name="goalKeeper"></a>
+<h4 class="ptitle">Improving Care Coordination in Complex Healthcare</h4>
+<p>
+<img class="thumbleft" src="http://iis.seas.harvard.edu/projects/images/goalKeeper-400.png" alt="" width="200" align="left"/>
+Children with complex health conditions require care from a large, diverse team of caregivers that includes multiple types of medical professionals, parents and community support organizations. Coordination of their outpatient care, essential for good outcomes, presents major challenges.  Our formative studies revealed that the nature of teamwork in complex care poses challenges to team coordination that extend beyond those identified in prior work and that can be handled by existing coordination systems.  We are building on a computational theory of teamwork to create entirely new tools to support complex, loosely-coupled teamwork.
+</p>
+
+<div class="ppapers">
+<P class="paper" id='xjacobs19:thinkx'>Maia Jacobs, Galina Gheihman, Krzysztof&nbsp;Z. Gajos, and Anoopum&nbsp;S. Gupta. <a href="papers/2019/jacobs19think.pdf">"I Think We Know More Than Our Doctors": How Primary Caregivers Manage Care Teams with Limited Disease-related Expertise</a>. <EM>Proc. ACM Hum.-Comput. Interact.</EM>, 3(CSCW):159:1&ndash;159:22, November 2019.
+<br/><span class="paperdetails">[<a href="papers/2019/jacobs19think.shtml">Abstract, BibTeX, Blog post,  etc.</a>]</span></P>
+
+<P class="paper" id='xamir19:personalizedx'>Ofra Amir, Barbara&nbsp;J. Grosz, Krzysztof&nbsp;Z. Gajos, and Limor Gultchin. <a href="papers/2019/amir19personalized.pdf">Personalized change awareness: Reducing information overload in loosely-coupled teamwork</a>. <EM>Artificial Intelligence</EM>, 275:204 &ndash; 233, 2019.
+<br/><span class="paperdetails">[<a href="papers/2019/amir19personalized.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+<P class="paper" id='xamir16:mutualx'>Ofra Amir, Barbara Grosz, and Krzysztof&nbsp;Z. Gajos. <a href="papers/2016/amir16mutual.pdf">Mutual Influence Potential Networks: Enabling Information Sharing in Loosely-Coupled Extended-Duration Teamwork</a>. In <EM>Proceedings of IJCAI'16</EM>, 2016.
+<br/><span class="paperdetails">[<a href="papers/2016/amir16mutual.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+	
+<P class="paper" id='xamir15:carex'>Ofra Amir, Barbara&nbsp;J. Grosz, Krzysztof&nbsp;Z. Gajos, Sonja&nbsp;M. Swenson, and Lee&nbsp;M. Sanders. <a href="papers/2015/amir15care.pdf">From Care Plans to Care Coordination: Opportunities for Computer Support of Teamwork in Complex Healthcare</a>. In <EM>Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems</EM>, CHI '15, pages 1419-1428, New York, NY, USA, 2015. ACM. <span class="award">&nbsp; Honorable Mention &nbsp;</span>
+<br/><span class="paperdetails">[<a href="papers/2015/amir15care.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+<P class="paper" id='xamir14:aix'>Ofra Amir, Barbara&nbsp;J. Grosz, Krzysztof&nbsp;Z. Gajos, Sonja&nbsp;M. Swenson, and Lee&nbsp;M. Sanders. <a href="papers/2014/amir14AIsupport.pdf">AI Support of Teamwork for Coordinated Care of Children with Complex Conditions</a>. In <EM>AAAI Fall Symposium: Expanding the Boundaries of Health Informatics Using AI: Making Personalized and Participatory Medicine A Reality</EM>, 2014. 
+<br/><span class="paperdetails">[<a href="papers/2014/amir14ai.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+</div>
+
+<br clear="all" />
+

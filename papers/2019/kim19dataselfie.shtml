@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>DataSelfie: Empowering People to Design Personalized Visuals to Represent Their Data</title>
+<meta name="twitter:card" content="summary" />
+<meta property="og:image" content="http://www.eecs.harvard.edu/~kgajos/papers/images/kim19dataselfie.png">
+<meta property="og:title" content="DataSelfie: Empowering People to Design Personalized Visuals to Represent Their Data">
+<meta property="og:description" content="Many personal informatics systems allow people to collect and manage personal data and reflect more deeply about themselves. However, these tools rarely offer ways to customize how the data is visualized. In this work, we investigate the question of how to enable people to determine the representation of their data. We analyzed the Dear Data project to gain insights into the design elements of personal visualizations. We developed DataSelfie, a novel system that allows individuals to gather personal data and design custom visuals to represent the collected data. We conducted a user study to evaluate the usability of the system as well as its potential for individual and collaborative sensemaking of the data.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">DataSelfie: Empowering People to Design Personalized Visuals to Represent Their Data</h1>
+<h2 class="head">Nam&nbsp;Wook Kim, Hyejin Im, Nathalie Henry&nbsp;Riche, Alicia Wang, Krzysztof Gajos, and Hanspeter Pfister</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+<img style="margin-left: 15px; margin-bottom: 10px; max-width: 300px" align="right" alt="" src="http://www.eecs.harvard.edu/~kgajos/papers/images/kim19dataselfie.png"/>
+Many personal informatics systems allow people to collect and manage personal data and reflect more deeply about themselves. However, these tools rarely offer ways to customize how the data is visualized. In this work, we investigate the question of how to enable people to determine the representation of their data. We analyzed the Dear Data project to gain insights into the design elements of personal visualizations. We developed DataSelfie, a novel system that allows individuals to gather personal data and design custom visuals to represent the collected data. We conducted a user study to evaluate the usability of the system as well as its potential for individual and collaborative sensemaking of the data.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2019/kim19dataselfie.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="http://doi.acm.org/10.1145/3290605.3300309">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Nam&nbsp;Wook Kim, Hyejin Im, Nathalie Henry&nbsp;Riche, Alicia Wang, Krzysztof Gajos, and Hanspeter Pfister. Dataselfie: Empowering people to design personalized visuals to represent their data. In <EM>Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems</EM>, CHI '19, pages 79:1&ndash;79:12, New York, NY, USA, 2019. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: kim19:dataselfie','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: kim19:dataselfie</TITLE></HEAD><BODY><PRE>@inproceedings{kim19:dataselfie,\n  author = {Kim, Nam Wook and Im, Hyejin and Henry Riche, Nathalie and Wang, Alicia and Gajos, Krzysztof and Pfister, Hanspeter},\n  title = {DataSelfie: Empowering People to Design Personalized Visuals to Represent Their Data},\n  booktitle = {Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems},\n  series = {CHI \'19},\n  year = {2019},\n  isbn = {978-1-4503-5970-2},\n  location = {Glasgow, Scotland Uk},\n  pages = {79:1--79:12},\n  articleno = {79},\n  numpages = {12},\n    doi = {10.1145/3290605.3300309},\n  acmid = {3300309},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  keywords = {data portraits, data selfies, personal visualization, personal informatics, self-tracking, visual vocabulary, visualization},\n  abstract = {Many personal informatics systems allow people to collect and manage personal data and reflect more deeply about themselves. However, these tools rarely offer ways to customize how the data is visualized. In this work, we investigate the question of how to enable people to determine the representation of their data. We analyzed the Dear Data project to gain insights into the design elements of personal visualizations. We developed DataSelfie, a novel system that allows individuals to gather personal data and design custom visuals to represent the collected data. We conducted a user study to evaluate the usability of the system as well as its potential for individual and collaborative sensemaking of the data.},\n        }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

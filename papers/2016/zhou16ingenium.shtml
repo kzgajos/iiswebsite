@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Ingenium: Engaging Novice Students with Latin Grammar</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Ingenium: Engaging Novice Students with Latin Grammar">
+<meta property="og:description" content="Reading Latin poses many difficulties for English speakers, because they are accustomed to relying on word order to determine the roles of words in a sentence. In Latin, the grammatical form of a word, and not its position, is responsible for determining the word's function in a sentence. It has proven challenging to develop pedagogical techniques that successfully draw students' attention to the grammar of Latin and that students find engaging enough to use. Building on some of the most promising prior work in Latin instruction--the Michigan Latin approach--and on the insights underlying block-based programming languages used to teach children the basics of computer science, we developed Ingenium. Ingenium uses abstract puzzle blocks to communicate grammatical concepts. Engaging students in grammatical reflection, Ingenium succeeds when students are able to effectively decipher the meaning of Latin sentences. We adapted Ingenium to be used for two standard classroom activities: sentence translations and fill-in-the-blank exercises. We evaluated Ingenium with 67 novice Latin students in universities across the United States. When using Ingenium, participants opted to perform more optional exercises, completed translation exercises with significantly fewer errors related to word order and errors overall, as well as reported higher levels of engagement and attention to grammar than when using a traditional text-based interface.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Ingenium: Engaging Novice Students with Latin Grammar</h1>
+<h2 class="head">Sharon Zhou, Ivy&nbsp;J. Livingston, Mark Schiefsky, Stuart&nbsp;M. Shieber, and Krzysztof&nbsp;Z. Gajos</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Reading Latin poses many difficulties for English speakers, because they are accustomed to relying on word order to determine the roles of words in a sentence. In Latin, the grammatical form of a word, and not its position, is responsible for determining the word's function in a sentence. It has proven challenging to develop pedagogical techniques that successfully draw students' attention to the grammar of Latin and that students find engaging enough to use. Building on some of the most promising prior work in Latin instruction--the Michigan Latin approach--and on the insights underlying block-based programming languages used to teach children the basics of computer science, we developed Ingenium. Ingenium uses abstract puzzle blocks to communicate grammatical concepts. Engaging students in grammatical reflection, Ingenium succeeds when students are able to effectively decipher the meaning of Latin sentences. We adapted Ingenium to be used for two standard classroom activities: sentence translations and fill-in-the-blank exercises. We evaluated Ingenium with 67 novice Latin students in universities across the United States. When using Ingenium, participants opted to perform more optional exercises, completed translation exercises with significantly fewer errors related to word order and errors overall, as well as reported higher levels of engagement and attention to grammar than when using a traditional text-based interface.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2016/zhou16ingenium.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="http://dx.doi.org/10.1145/2858036.2858239">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+<h3>Video</h3>
+<div class="content">
+<div class="video" style="float: right; margin-left: 15px; margin-bottom: 10px;">
+<iframe width="854" height="480" src="https://www.youtube.com/embed/th3fobLzKUE" frameborder="0" allowfullscreen></iframe>
+</div>
+<br clear="all"/>
+</div>
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Sharon Zhou, Ivy&nbsp;J. Livingston, Mark Schiefsky, Stuart&nbsp;M. Shieber, and Krzysztof&nbsp;Z. Gajos. Ingenium: Engaging novice students with latin grammar. In <EM>Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems</EM>, CHI '16, pages 944&ndash;956, New York, NY, USA, 2016. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: zhou16:ingenium','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: zhou16:ingenium</TITLE></HEAD><BODY><PRE>@inproceedings{zhou16:ingenium,\n  author = {Zhou, Sharon and Livingston, Ivy J. and Schiefsky, Mark and Shieber, Stuart M. and Gajos, Krzysztof Z.},\n  title = {Ingenium: Engaging Novice Students with Latin Grammar},\n  booktitle = {Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems},\n  series = {CHI \'16},\n  year = {2016},\n  isbn = {978-1-4503-3362-7},\n  location = {Santa Clara, California, USA},\n  pages = {944--956},\n  numpages = {13},\n    doi = {10.1145/2858036.2858239},\n  acmid = {2858239},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  keywords = {Latin education, engagement, grammar},\n  abstract = {Reading Latin poses many difficulties for English speakers, because they are accustomed to relying on word order to determine the roles of words in a sentence. In Latin, the grammatical form of a word, and not its position, is responsible for determining the word\'s function in a sentence. It has proven challenging to develop pedagogical techniques that successfully draw students\' attention to the grammar of Latin and that students find engaging enough to use. Building on some of the most promising prior work in Latin instruction--the Michigan Latin approach--and on the insights underlying block-based programming languages used to teach children the basics of computer science, we developed Ingenium. Ingenium uses abstract puzzle blocks to communicate grammatical concepts. Engaging students in grammatical reflection, Ingenium succeeds when students are able to effectively decipher the meaning of Latin sentences. We adapted Ingenium to be used for two standard classroom activities: sentence translations and fill-in-the-blank exercises. We evaluated Ingenium with 67 novice Latin students in universities across the United States. When using Ingenium, participants opted to perform more optional exercises, completed translation exercises with significantly fewer errors related to word order and errors overall, as well as reported higher levels of engagement and attention to grammar than when using a traditional text-based interface.},\n        }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

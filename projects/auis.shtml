@@ -1,0 +1,23 @@
+<a name="aui"></a>
+<h4 class="ptitle">
+Exploring The Design Space Of Adaptive User Interfaces</h4>
+
+<p>
+<img class="thumbleft" src="http://www.eecs.harvard.edu/~kgajos/papers/images/exploringAUIs.png" alt="" width="200"
+height="141" align="left"/>
+
+For decades, researchers have presented different adaptive user
+interfaces and discussed the pros and cons of adaptation on task
+performance and satisfaction. Little research, however, has been
+directed at isolating and understanding those aspects of adaptive
+interfaces which make some of them successful and others not.  We have
+conducted several laboratory studies to systematically isolate some of
+the design and contextual factors that affect the impact of adaptation
+on users' performance and satisfaction.  The results of these studies combined with the recent work of others, provide an initial characterization of the design space of adaptive graphical user interfaces.
+</p>
+
+<div class="ppapers">
+<!--#include virtual="auis-papers.php"-->
+</div>
+
+<br clear="all" />

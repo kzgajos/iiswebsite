@@ -1,0 +1,14 @@
+<a name="platemate"></a>
+<h4 class="ptitle">Accurate Measurements of Pointing Performance from In Situ Observations</h4>
+
+<p>
+ We present a method for obtaining lab-quality measurements of pointing performance from unobtrusive observations of natural in situ interactions. Specifically, we have developed a set of user-independent classifiers for discriminating between deliberate, targeted mouse pointer movements and those movements that were affected by any extraneous factors. Our results show that, on four distinct metrics, the data collected in-situ and filtered with our classifiers closely matches the results obtained from the formal experiment.  
+<br/> 
+<div class="ppapers">
+<P class="paper" id='xgajos12:accuratex'>Krzysztof Gajos, Katharina Reinecke, and Charles Herrmann. <a href="papers/2012/gajos12-accurateMeasurements.pdf">Accurate measurements of pointing performance from in situ observations</a>. In <EM>Proceedings of the 2012 ACM annual conference on Human Factors in Computing Systems</EM>, CHI '12, pages 3157-3166, New York, NY, USA, 2012. ACM.
+
+<br/><span class="paperdetails">[<a href="papers/2012/gajos12accurate.shtml">Abstract, BibTeX, Authorizer, Data and Source Code,  etc.</a>]</span></P>
+</div>
+</p>
+<br clear="all" />
+

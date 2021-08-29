@@ -1,0 +1,54 @@
+<a name="litw"></a>
+<h4 class="ptitle">Lab in the Wild</h4>
+
+<p>
+<img class="thumbleft" src="http://iis.seas.harvard.edu/projects/images/litw.jpg" alt=""
+width="200" height="196" align="left"/></a> 
+<a href="http://labinthewild.org/" class="external">Lab in the Wild</a> is a platform for conducting large scale behavioral experiments with unpaid online volunteers. LabintheWild helps make empirical research in Human-Computer Interaction more reliable (by making it possible to recruit many more participants than would be possible in conventional laboratory studies) and more generalizable (by enabling access to very diverse groups of participants).</p>
+
+<p>LabintheWild experiments typically attract thousands or tens of thousands of participants (with two studies reaching more than 250,000 people). LabintheWild's volunteer participants have also been shown to provide more reliable data and exert themselves more than participants recruited via paid platforms (like Amazon Mechanical Turk). A key characteristic of LabintheWild is its incentive structure:  Instead of money, participants are rewarded with information about their performance and an ability to compare themselves to others.  This design choice engages curiosity and enables social comparison---both of which motivate participants.</p>
+
+<p>LabintheWild is co-directed by Profs. <a href="https://homes.cs.washington.edu/~reinecke/" class="external">Katharina Reinecke</a> and <a href="http://www.eecs.harvard.edu/~kgajos/">Krzysztof Gajos</a>.
+</p>
+
+<!-- Most of what we know about human-computer interaction today is based on studies conducted with Western participants, usually with American undergrads. This is despite many findings that our cultural background affects our perception and preferences. Neuroscience research has even shown that cultural exposure leads to differences in neural activity -- a finding that might affect how we interact with computers. If people around the world perceive, process, and interact with information differently, then what should their user interfaces look like in order to be most intuitive for them to use?</p>
+<p>
+With <a href="http://labinthewild.org/" class="external">Lab in the Wild</a> we are trying to shed light on this question. Our goal is to improve the user experience and performance for computer users around the world. But Lab in the Wild doesn't just help us answer our questions. It also provides participants with personalized feedback, which lets them compare themselves and their performance to people of other countries. <a href="http://labinthewild.org/" class="external">Try it out</a> :) 
+ --></p>
+
+<div class="ppapers">
+<p>Here's the original LabintheWild paper that demonstrates that the data obtained on LabintheWild are are as reliable as those captured in traditional experiments:</p>
+
+<P class="paper" id='xreinecke15:labinthewildx'>Katharina Reinecke and Krzysztof&nbsp;Z. Gajos. <a href="papers/2015/reinecke15labinthewild.pdf">LabintheWild: Conducting Large-Scale Online Experiments With Uncompensated Samples</a>. In <EM>Proceedings of CSCW'15</EM>, 2015. 
+<span class="award">&nbsp; Honorable Mention &nbsp;</span>
+<br/><span class="paperdetails">[<a href="papers/2015/reinecke15labinthewild.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+<br/>
+<p>Here are some papers that relied on the data collected on Lab in the Wild:</p>
+
+<P class="paper" id='xhuber20:conductingx'>Bernd Huber and Krzysztof&nbsp;Z. Gajos. <a href="https://doi.org/10.1371/journal.pone.0227629">Conducting online virtual environment experiments with uncompensated, unsupervised samples</a>. <EM>PLOS ONE</EM>, 15(1):1&ndash;17, 01 2020.
+<br/><span class="paperdetails">[<a href="papers/2020/huber20conducting.shtml">Abstract, BibTeX, Data,  etc.</a>]</span></P>
+
+<P class="paper" id='xgajos20:computerx'>Krzysztof&nbsp;Z. Gajos, Katharina Reinecke, Mary Donovan, Christopher&nbsp;D. Stephen, Albert&nbsp;Y. Hung, Jeremy&nbsp;D. Schmahmann, and Anoopum&nbsp;S. Gupta. <a href="papers/2020/gajos19computer.pdf">Computer Mouse Use Captures Ataxia and Parkinsonism, Enabling Accurate Measurement and Detection</a>. <EM>Movement Disorders</EM>, 35:354&ndash;358, February 2020.
+<br/><span class="paperdetails">[<a href="papers/2020/gajos20computer.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+<P class="paper" id='xli18vounteerx'>Qisheng Li, Krzysztof&nbsp;Z. Gajos, and Katharina Reinecke. <a href="papers/2018/li18volunteer.pdf">Volunteer-Based Online Studies With Older Adults and People with Disabilities</a>. In <EM>Proceedings of the 20th International ACM SIGACCESS Conference on Computers and Accessibility</EM>, ASSETS '18, pages 229&ndash;241, New York, NY, USA, 2018. ACM.
+<br/><span class="paperdetails">[<a href="papers/2018/li18vounteer.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+<P class="paper" id='xburgermaster17:rolex'>Marissa Burgermaster, Krzysztof&nbsp;Z. Gajos, Patricia Davidson, and Lena Mamykina. <a href="papers/2017/huber17effect.pdf">The Role of Explanations in Casual Observational Learning about Nutrition</a>. In <EM>Proceedings of CHI'17</EM>, 2017. To appear.
+<br/><span class="paperdetails">[<a href="papers/2017/burgermaster17role.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+<P class="paper" id='xgajos17:personalityx'>Krzysztof&nbsp;Z. Gajos and Krysta Chauncey. <a href="papers/2017/gajos17personality.pdf">The Influence of Personality Traits and Cognitive Load on the Use of Adaptive User Interfaces</a>. In <EM>Proceedings of ACM IUI'17</EM>, 2017. To appear.
+<br/><span class="paperdetails">[<a href="papers/2017/gajos17personality.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+<P class="paper" id='xhuber17:effectx'>Bernd Huber, Katharina Reinecke, and Krzysztof&nbsp;Z. Gajos. <a href="papers/2017/huber17effect.pdf">The Effect of Performance Feedback on Social Media Sharing at Volunteer-Based Online Experiment Platforms</a>. In <EM>Proceedings of CHI'17</EM>, 2017. To appear.
+<br/><span class="paperdetails">[<a href="papers/2017/huber17effect.shtml">Abstract, BibTeX, Data,  etc.</a>]</span></P>
+
+<P class="paper" id='xreinecke14:visualx'>Katharina Reinecke and Krzysztof&nbsp;Z. Gajos. <a href="papers/2014/reinecke14visual.pdf">Quantifying Visual Preferences Around the World</a>. In <EM>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</EM>, CHI '14, pages 11-20, New York, NY, USA, 2014. ACM.
+<br/><span class="paperdetails">[<a href="papers/2014/reinecke14visual.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+<P class="paper" id='xreinecke13:predictingx'>Katharina Reinecke, Tom Yeh, Luke Miratrix, Rahmatri Mardiko, Yuechen Zhao, Jenny Liu, and Krzysztof&nbsp;Z. Gajos. <a href="papers/2013/reinecke13aesthetics.pdf">Predicting users' first impressions of website aesthetics with a quantification of perceived visual complexity and colorfulness</a>. In <EM>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</EM>, CHI '13, pages 2049-2058, New York, NY, USA, 2013. ACM.
+ <span class="award">&nbsp; Honorable Mention &nbsp;</span>
+<br/><span class="paperdetails">[<a href="papers/2013/reinecke13predicting.shtml">Abstract, BibTeX, Data,  etc.</a>]</span></P>
+</div>
+<br clear="all" />

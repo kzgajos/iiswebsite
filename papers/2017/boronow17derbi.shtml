@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>DERBI: A Digital Method to Help Researchers Offer ``Right-to-Know'' Personal Exposure Results</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="DERBI: A Digital Method to Help Researchers Offer ``Right-to-Know'' Personal Exposure Results">
+<meta property="og:description" content="Researchers and clinicians in environmental health and medicine increasingly show respect for participants and patients by involving them in decision-making. In this context, the return of personal results to study participants is becoming ethical best practice, and many participants now expect to see their data. However, researchers often lack the time and expertise required for report-back, especially as studies measure greater numbers of analytes, including many without clear health guidelines. Our goal is to demonstrate how a prototype digital method, the Digital Exposure Report-Back Interface (DERBI), can reduce practical barriers to high-quality report-back. DERBI uses decision rules to automate the production of personalized summaries of notable results and generates individual results graphs with comparisons to the study group and benchmark populations. Reports discuss potential sources of chemical exposure, what is known and unknown about health effects, strategies for exposure reduction, and study-wide findings. Researcher tools promote discovery by drawing attention to patterns of high exposure and offer novel ways to increase participant engagement. DERBI reports have been field tested in two studies. Digital methods like DERBI reduce practical barriers to report-back, enabling researchers to meet their ethical obligations and participants to get knowledge they can use to make informed choices.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">DERBI: A Digital Method to Help Researchers Offer ``Right-to-Know'' Personal Exposure Results</h1>
+<h2 class="head">Katherine&nbsp;E. Boronow, Herbert&nbsp;P. Susmann, Krzysztof&nbsp;Z. Gajos, Ruthann&nbsp;A. Rudel, Kenneth&nbsp;C. Arnold, Phil Brown, Rachel Morello-Frosch, Laurie Havas, and Julia&nbsp;Green Brody. DERBI: A Digital Method to Help Researchers Offer &ldquo;Right-to-Know&rdquo; Personal Exposure Results. <EM>Environmental Health Perspectives</EM>, 125(2), February 20</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Researchers and clinicians in environmental health and medicine increasingly show respect for participants and patients by involving them in decision-making. In this context, the return of personal results to study participants is becoming ethical best practice, and many participants now expect to see their data. However, researchers often lack the time and expertise required for report-back, especially as studies measure greater numbers of analytes, including many without clear health guidelines. Our goal is to demonstrate how a prototype digital method, the Digital Exposure Report-Back Interface (DERBI), can reduce practical barriers to high-quality report-back. DERBI uses decision rules to automate the production of personalized summaries of notable results and generates individual results graphs with comparisons to the study group and benchmark populations. Reports discuss potential sources of chemical exposure, what is known and unknown about health effects, strategies for exposure reduction, and study-wide findings. Researcher tools promote discovery by drawing attention to patterns of high exposure and offer novel ways to increase participant engagement. DERBI reports have been field tested in two studies. Digital methods like DERBI reduce practical barriers to report-back, enabling researchers to meet their ethical obligations and participants to get knowledge they can use to make informed choices.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+
+
+<li><a class="external" href="https://ehp.niehs.nih.gov/EHP702/">Publisher's version
+
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Katherine&nbsp;E. Boronow, Herbert&nbsp;P. Susmann, Krzysztof&nbsp;Z. Gajos, Ruthann&nbsp;A. Rudel, Kenneth&nbsp;C. Arnold, Phil Brown, Rachel Morello-Frosch, Laurie Havas, and Julia&nbsp;Green Brody. DERBI: A Digital Method to Help Researchers Offer &ldquo;Right-to-Know&rdquo; Personal Exposure Results. <EM>Environmental Health Perspectives</EM>, 125(2), February 2017.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: boronow17:derbi','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: boronow17:derbi</TITLE></HEAD><BODY><PRE>@article{boronow17:derbi,\n  title = {{DERBI: A Digital Method to Help Researchers Offer ``Right-to-Know\'\' Personal Exposure Results}},\n  author = {Katherine E. Boronow and Herbert P. Susmann and Krzysztof Z. Gajos and Ruthann A. Rudel and Kenneth C. Arnold and Phil Brown and Rachel Morello-Frosch and Laurie Havas and Julia Green Brody},\n  year = {2017},\n  month = {February},\n  volume = {125},\n  number = {2},\n  journal = {Environmental Health Perspectives},\n  abstract = {Researchers and clinicians in environmental health and medicine increasingly show respect for participants and patients by involving them in decision-making. In this context, the return of personal results to study participants is becoming ethical best practice, and many participants now expect to see their data. However, researchers often lack the time and expertise required for report-back, especially as studies measure greater numbers of analytes, including many without clear health guidelines. Our goal is to demonstrate how a prototype digital method, the Digital Exposure Report-Back Interface (DERBI), can reduce practical barriers to high-quality report-back. DERBI uses decision rules to automate the production of personalized summaries of notable results and generates individual results graphs with comparisons to the study group and benchmark populations. Reports discuss potential sources of chemical exposure, what is known and unknown about health effects, strategies for exposure reduction, and study-wide findings. Researcher tools promote discovery by drawing attention to patterns of high exposure and offer novel ways to increase participant engagement. DERBI reports have been field tested in two studies. Digital methods like DERBI reduce practical barriers to report-back, enabling researchers to meet their ethical obligations and participants to get knowledge they can use to make informed choices.},\n      }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+<a name="alfred"></a>
+<h4 class="ptitle">Alfred: End User Empowerment in Human Centered Pervasive Computing</h4>
+
+<p><img class="thumb" src="http://www.eecs.harvard.edu/~kgajos/papers/images/alfred.png" alt="" width="200" height="150" align="left"/> 
+Alfred is an electronic butler for Intelligent Environments.
+Alfred allows an end user to "program" the system by telling it the name of a new
+goal, demonstrating one or more plans for achieving that goal, and finally telling
+the system the conditions under which it would prefer one plan to another.
+Similarly, the user can name events that arise in the environment and tell the
+system what goals should be posted when those events arise. Each of these steps
+can be done by simple verbal commands or other natural forms of interaction.
+End users, in effect, record "macros" which, are executed adaptively and reactively.
+</p>
+<div class="ppapers">
+
+<P class="paper" id='xgajos02:endx'>Krzysztof Gajos, Harold Fox, and Howard Shrobe. <a href="papers/2002/pervasive02.pdf">End User Empowerment in Human Centered Pervasive Computing</a>. In <EM>Proceedings of the First International Conference on Pervasive Computing, Pervasive 2002 - companion volume</EM>, pages 134-140, 2002.</P>
+
+</div>
+<br clear="all" />

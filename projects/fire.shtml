@@ -1,0 +1,21 @@
+<a name="fire"></a>
+<h4 class="ptitle">
+FIRE: The Friendly Information Retrieval Engine</h4>
+
+<p><img class="thumbleft" src="http://www.eecs.harvard.edu/~kgajos/papers/images/fire-thumb.jpg" alt="FIRE" width="200"
+height="92" align="left"/> FIRE is a multimodal interface for
+information retrieval deployed in the Intelligent Room at the MIT AI
+Lab.  FIRE extracts all the category terms related to the search query
+and uses entropy to generate questions that would quickly allow the
+user to disambiguate her query and arrive at a small set of relevant
+documents.  FIRE presents information over several large displays in
+the Intelligent Room and supports both speech and gesture input for
+more natural interaction.
+</p>
+<div class="ppapers">
+
+<P class="paper" id='xgajos01:firex'>Krzysztof Gajos and Ajay Kulkarni. <a href="papers/2001/ipnmd01-fire.pdf">FIRE: An Information Retrieval Interface For Intelligent Environments</a>. In <EM>Proceedings of International Workshop on Information Presentation and Natural Multimodal Dialogue IPNMD 2001</EM>, Verona, Italy, December 2001.
+
+</P>
+</div>
+<br clear="all" />

@@ -1,0 +1,15 @@
+<a name="opa"></a>
+<h4 class="ptitle">Organic Peer Assessment</h4>
+
+<p>
+<img class="thumbleft" src="http://iis.seas.harvard.edu/projects/images/organic.png" alt=""
+width="200" height="200" align="left"/></a> 
+We are developing tools and techniques for <i>organic</i> peer assessment, an approach where assessment occurs as a side effect of students performing activities, which they find intrinsically motivating. Our preliminary results, obtained in the context of a flipped classroom, show that the quality of the summative assessment produced by the peers matched that of experts, and we encountered strong evidence that our peer assessment implementation had positive effects on achievement. 
+</p>
+<div class="ppapers">
+<P class="paper" id='xkomarov14:organicx'>Steven Komarov and Krzysztof Z. Gajos. <a href="papers/2014/komarov14organic.pdf">Organic Peer Assessment</a>. In <EM>Proceedings of the CHI 2014 Learning Innovation at Scale workshop</EM>, 2014.
+
+<br/><span class="paperdetails">[<a href="papers/2014/komarov14organic.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+</div>
+<br clear="all" />
+

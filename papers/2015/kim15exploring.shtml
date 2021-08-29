@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Exploring Opportunities for Social Infrastructure in Congestive Heart Failure Management</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Exploring Opportunities for Social Infrastructure in Congestive Heart Failure Management">
+<meta property="og:description" content="As population ages and chronic disease increases, new models of health care delivery are inevitable. We propose to interweave the concept of chronic care management into social infrastructure to better support elderly individuals with chronic diseases. As an exemplar, we chose and investigated Congestive Heart Failure (CHF), since it is one of serious health threats among the elderly population in western society. From a preliminary investigation of literature and prior work, we suggest two implications for social care of chronic patients: increased social awareness, and social knowledge base. This is not an exhaustive list of implications, but a starting point to open up discussions towards social care for chronic diseases.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Exploring Opportunities for Social Infrastructure in Congestive Heart Failure Management</h1>
+<h2 class="head">Sunyoung Kim, Yasha Iravantchi, Krzysztof&nbsp;Z. Gajos, and Barbara Grosz</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+As population ages and chronic disease increases, new models of health care delivery are inevitable. We propose to interweave the concept of chronic care management into social infrastructure to better support elderly individuals with chronic diseases. As an exemplar, we chose and investigated Congestive Heart Failure (CHF), since it is one of serious health threats among the elderly population in western society. From a preliminary investigation of literature and prior work, we suggest two implications for social care of chronic patients: increased social awareness, and social knowledge base. This is not an exhaustive list of implications, but a starting point to open up discussions towards social care for chronic diseases.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2015/skim15exploring.pdf">Authors' version (pdf)</a></li>
+
+
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Sunyoung Kim, Yasha Iravantchi, Krzysztof&nbsp;Z. Gajos, and Barbara Grosz. Exploring opportunities for social infrastructure in congestive heart failure management. In <EM>Proceedings of the CSCW 2015 workshop on Moving Beyond e-Health and the Quantified Self</EM>, 2015.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: kim15:exploring','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: kim15:exploring</TITLE></HEAD><BODY><PRE>@inproceedings{kim15:exploring,\n  author = {Sunyoung Kim and Yasha Iravantchi and Krzysztof Z. Gajos and Barbara Grosz},\n  title = {Exploring Opportunities for Social Infrastructure in Congestive Heart Failure Management},\n  booktitle = {Proceedings of the CSCW 2015 workshop on Moving Beyond e-Health and the Quantified Self},\n  year = {2015},\n  abstract = {As population ages and chronic disease increases, new models of health care delivery are inevitable. We propose to interweave the concept of chronic care management into social infrastructure to better support elderly individuals with chronic diseases. As an exemplar, we chose and investigated Congestive Heart Failure (CHF), since it is one of serious health threats among the elderly population in western society. From a preliminary investigation of literature and prior work, we suggest two implications for social care of chronic patients: increased social awareness, and social knowledge base. This is not an exhaustive list of implications, but a starting point to open up discussions towards social care for chronic diseases.},\n    }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

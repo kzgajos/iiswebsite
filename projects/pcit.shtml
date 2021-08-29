@@ -1,0 +1,15 @@
+<a name="pcit"></a>
+<h4 class="ptitle">Enhancing Parent-Child Interaction Therapy</h4>
+
+<p>
+<img class="thumbleft" src="http://www.eecs.harvard.edu/~kgajos/papers/images/specialtime-1000.png" alt="" width="200"
+align="left"/>
+Parent-child interaction therapy (PCIT) helps parents improve the quality of interaction with children who have behavior problems. The therapy trains parents to use effective dialogue acts when interacting with their children. Besides weekly coaching by therapists, the therapy relies on deliberate practice of skills by parents in their homes. We developed SpecialTime, a system that provides parents engaged in PCIT with automatic, real-time feedback on their dialogue act use. The results of a one-month pilot study with parents enrolled in PCIT suggest that automatic feedback on spoken dialogue acts is possible in PCIT, and that parents find the automatic feedback useful. We are currently conducting a larger evaluation of SpecialTime's impact on the effectiveness of the therapy. This work is co-led by <a href="https://cla.auburn.edu/psychology/people/professorial-faculty/elizabeth-knight/" class="external">Prof. Elizabeth Brestan-Knight</a>.
+</p>
+
+<div class="ppapers">
+<P class="paper" id='xhuber19:specialtimex'>Bernd Huber, Richard&nbsp;F. Davis, III, Allison Cotter, Emily Junkin, Mindy Yard, Stuart Shieber, Elizabeth Brestan-Knight, and Krzysztof&nbsp;Z. Gajos. <a href="papers/2019/huber19specialtime.pdf">SpecialTime: Automatically Detecting Dialogue Acts from Speech to Support Parent-Child Interaction Therapy</a>. In <EM>Proceedings of the 13th EAI International Conference on Pervasive Computing Technologies for Healthcare</EM>, PervasiveHealth'19, pages 139&ndash;148, New York, NY, USA, 2019. ACM.
+<br/><span class="paperdetails">[<a href="papers/2019/huber19specialtime.shtml">Abstract, BibTeX, Data,  etc.</a>]</span></P>
+</div>
+
+<br clear="all" />

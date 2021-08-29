@@ -1,0 +1,69 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<style type="text/css">
+a#n-resources { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Intelligent Interactive Systems Group -- PlateMate data set</title>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Intelligent Interactive Systems Group at Harvard</h1>
+<h2 class="head">Data Set for PlateMate</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<div class="content">
+
+<H3>Overview</h3>
+<p>
+This data set includes 16 out of 18 images used in the evaluation of the accuracy of PlateMate.  Included is also a spreadsheet providing ground truth nutritional information for a meal shown in each photo (as reported by a preparer or manufacturer) as well as PlateMate estimates and estimates by 3 expert nutritionists.  We also include estimates provided by the MealSnap iPhone app (evaluated in April of 2011).
+</p>
+
+<p>
+This data set accompanies the following paper:
+</p>
+<blockquote>
+<P class="paper" id='xnoronha11:platematex'>Jon Noronha, Eric Hysen, Haoqi Zhang, and Krzysztof&nbsp;Z. Gajos. <a href="papers/2011/noronha-platemate-uist11.pdf">PlateMate: Crowdsourcing Nutrition Analysis from Food Photographs</a>. In <EM>Proceedings of the 24th annual ACM symposium on User interface software and technology</EM>, UIST '11, pages 1-12, New York, NY, USA, 2011. ACM.
+
+<br/><span class="paperdetails">[<a href="papers/2011/noronha11platemate.shtml">Abstract, BibTeX, Authorizer,  etc.</a>]</span></P>
+</blockquote>
+</div>
+
+
+
+<div class="content">
+
+<h3>Data</h3>
+<img src="/resources/PlateMate/platemate-example.jpg" width="200" align="right" alt="Example of a meal photograph used in the evaluation of accuracy of PlateMate estimates"/>
+<p>
+	The data set is provided as a <a href="resources/PlateMate/PlateMateGroundTruthEvaluationDataSet.zip">single .zip file</a>.  It contains a directory with 16 food photographs and an Excel spreadsheet containing the analysis results.  Note that some photographs present complex meals: PlateMate divides the analysis of such meals into analyses of individual component foods.  For example, with the photograph shown here, PlateMate will start by dividing the meal into three components: pulled chicken sandwich, broccoli and potato wedges.  The Excel spreadsheet includes a separate column for each <em>food</em> shown in each of the photographs.  The comparisons to other systems, however, are performed at the level of entire meals.
+</div>
+<br clear="all"/>
+
+<div class="content">
+<h3>Contact</h3>
+<p>The primary contact person for this project is <a href="http://www.eecs.harvard.edu/~kgajos/">Krzysztof Gajos</a>.</p>
+
+
+</div>
+
+
+<div class="content">This page was last modified on <!--#config timefmt="%B %d, %Y" --> <!--#echo var="LAST_MODIFIED" -->.</div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

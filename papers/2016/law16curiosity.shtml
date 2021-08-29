@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Curiosity Killed the Cat, but Makes Crowdwork Better</title>
+<meta name="twitter:card" content="summary" />
+<meta property="og:image" content="http://iis.seas.harvard.edu/projects/images/curiosity-600.png">
+<meta property="og:title" content="Curiosity Killed the Cat, but Makes Crowdwork Better">
+<meta property="og:description" content="Crowdsourcing systems are designed to elicit help from humans to accomplish tasks that are still difficult for computers. How to motivate workers to stay longer and/or perform better in crowdsourcing systems is a critical question for designers. Previous work have explored different motivational frameworks, both extrinsic and intrinsic. In this work, we examine the potential for curiosity as a new type of intrinsic motivational driver to incentivize crowd workers. We design crowdsourcing task interfaces that explicitly incorporate mechanisms to induce curiosity and conduct a set of experiments on Amazon's Mechanical Turk. Our experiment results show that curiosity interventions improve worker retention without degrading performance, and the magnitude of the effects are influenced by both the personal characteristics of the worker and the nature of the task.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Curiosity Killed the Cat, but Makes Crowdwork Better</h1>
+<h2 class="head">Edith Law, Ming Yin, Joslin Goh, Kevin Chen, Michael&nbsp;A. Terry, and Krzysztof&nbsp;Z. Gajos</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+<img style="margin-left: 15px; margin-bottom: 10px; max-width: 300px" align="right" alt="" src="http://iis.seas.harvard.edu/projects/images/curiosity-600.png"/>
+Crowdsourcing systems are designed to elicit help from humans to accomplish tasks that are still difficult for computers. How to motivate workers to stay longer and/or perform better in crowdsourcing systems is a critical question for designers. Previous work have explored different motivational frameworks, both extrinsic and intrinsic. In this work, we examine the potential for curiosity as a new type of intrinsic motivational driver to incentivize crowd workers. We design crowdsourcing task interfaces that explicitly incorporate mechanisms to induce curiosity and conduct a set of experiments on Amazon's Mechanical Turk. Our experiment results show that curiosity interventions improve worker retention without degrading performance, and the magnitude of the effects are influenced by both the personal characteristics of the worker and the nature of the task.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2016/law16curiosity.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="http://dx.doi.org/10.1145/2858036.2858144">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Edith Law, Ming Yin, Joslin Goh, Kevin Chen, Michael&nbsp;A. Terry, and Krzysztof&nbsp;Z. Gajos. Curiosity killed the cat, but makes crowdwork better. In <EM>Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems</EM>, CHI '16, pages 4098&ndash;4110, New York, NY, USA, 2016. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: law16:curiosity','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: law16:curiosity</TITLE></HEAD><BODY><PRE>@inproceedings{law16:curiosity,\n  author = {Law, Edith and Yin, Ming and Goh, Joslin and Chen, Kevin and Terry, Michael A. and Gajos, Krzysztof Z.},\n  title = {Curiosity Killed the Cat, but Makes Crowdwork Better},\n  booktitle = {Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems},\n  series = {CHI \'16},\n  year = {2016},\n  isbn = {978-1-4503-3362-7},\n  location = {Santa Clara, California, USA},\n  pages = {4098--4110},\n  numpages = {13},\n    doi = {10.1145/2858036.2858144},\n  acmid = {2858144},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  keywords = {crowdsourcing, curiosity, motivation},\n  abstract = {Crowdsourcing systems are designed to elicit help from humans to accomplish tasks that are still difficult for computers. How to motivate workers to stay longer and/or perform better in crowdsourcing systems is a critical question for designers. Previous work have explored different motivational frameworks, both extrinsic and intrinsic. In this work, we examine the potential for curiosity as a new type of intrinsic motivational driver to incentivize crowd workers. We design crowdsourcing task interfaces that explicitly incorporate mechanisms to induce curiosity and conduct a set of experiments on Amazon\'s Mechanical Turk. Our experiment results show that curiosity interventions improve worker retention without degrading performance, and the magnitude of the effects are influenced by both the personal characteristics of the worker and the nature of the task.},\n          award = {Honorable Mention},\n}\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

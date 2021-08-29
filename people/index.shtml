@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../common-head.html" --> 
+<style type="text/css">
+a#n-people { 
+<!--#include virtual="../common-active-style.html" --> 
+}
+</style>
+
+<title>Intelligent Interactive Systems Group -- People</title>
+</head>
+
+
+<body>
+
+<!--#include virtual="../common-top.html" --> 
+
+<h1 class="head">Intelligent Interactive Systems Group at Harvard</h1>
+<h2 class="head">People</h2>
+
+<!--#include virtual="../common-nav.html" --> 
+
+
+
+<div class="content" style="min-width: 900px;">
+
+<!--
+<div class="contentFloat" style="width: 600px; font-style: italic">
+<h4>The Group</h4>
+<img src="people/iis-2011.11.07-600.jpg" alt="Members of the Intelligent Interactive Systems group" />
+Members (and friends) of the Intelligent Interactive Systems group.  Top row from the left: Ken, Dimitrios, Katharina, Hsiao, Steve, Juho, and Krzysztof; front row: Pao, Nancy, Anna, and Elena.
+</div>
+-->
+
+<h3>Faculty</h3>
+<ul>
+<li><a class="external" href="http://www.eecs.harvard.edu/~kgajos/">Krzysztof Gajos</a></li>
+</ul>
+
+<h3>Current Visitors</h3>
+<ul>
+<li><a href="https://www.hiit.fi/node/1448" class="external">Tuukka Ruotsalo</a> (visiting from Aalto University, Finland)</li>
+</ul>
+
+
+<h3>Post-doctoral fellows</h3>
+<ul>
+<li>Na Li</li>
+<li>Sunyoung Kim (CRCS Fellow)</li>
+<li><a href="http://www.josephjaywilliams.com/" class="external">Joseph Williams</a> (HarvardX Fellow)</li>
+</ul>
+
+<h3>Graduate students</h3>
+<ul>
+<li>Ken Arnold</li>
+<li>Anna Huang</li>
+<li><a href="http://scholar.harvard.edu/bhb" class="external">Bernd Huber</a></li>
+<li>Steven Komarov</li>
+<li>Kanya (Pao) Siangliulue</li>
+</ul>
+
+<!--
+<h3>Research staff</h3>
+<ul>
+
+</ul>
+
+
+<h3>Undergraduate students</h3>
+<ul>
+</ul>
+-->
+
+<h3>Affiliates, and Friends</h3>
+<ul>
+<li>Yasha Iravantchi</li>
+<li><a href="http://www.juhokim.com/" class="external">Juho Kim</a> (MIT CSAIL)</li>
+<li>Nam Wook Kim</li>
+</ul>
+
+<h3>Alumni</h3>
+<ul>
+<li>Ahmed Belal (undergraduate)</li>
+<li><a href="http://joelbrandt.org/professional/" class="external">Joel Brandt</a> (visited from Adobe Creative Technologies Lab)</li>
+<li><a href="http://www.ioninteractive.com/scott-brinker-president-cto/" class="external">Scott Brinker</a> (visited from ion Interactive)</li>
+<li>Nancy Chen (undergraduate)</li>
+<li><a href="http://hci.usask.ca/people/view.php?id=13" class="external">David Flatla</a> (visited from University of Saskatchewan)</li>
+<li>Evan Greif (undergraduate)</li>
+<li>Charles Herrmann (undergraduate)</li>
+<li>Chuan-Heng Hsiao (Masters)</li>
+<li><a class="external" href="http://people.seas.harvard.edu/~lahiru/">Lahiru Jayatilaka</a> (undergraduate, founder and CEO of <a href="http://www.redlotustech.com" class="external">Red Lotus Technologies</a>)</li>
+<li>Anna Kiyantseva</li>
+<li>Edith Law (CRCS Fellow, now at University of Waterloo)</li>
+<li>Jun Sup Lee (undergraduate)</li>
+<li>Jenny Liu (undergraduate)</li>
+<li><a href="http://people.csail.mit.edu/rcm/" class="external">Rob Miller</a> (visited from MIT CSAIL)</li>
+<li><a class="external" href="https://homes.cs.washington.edu/~reinecke/">Katharina Reinecke</a> (postdoctoral fellow, now at University of Washington)</li>
+<li><a href="http://home.ku.edu.tr/~mtsezgin/" class="external">T. Metin Sezgin</a> (visited from Koc University)</li>
+<li>prof. Mike Terry (visited from University of Waterloo)</li>
+<li>Keito Uchiyama (undergraduate, now at Facebook)</li>
+<li>Yuechen Zhao (undergraduate)</li>
+<li>Sharon Zhou (undergraduate, now at Tamr, Inc)</li>
+<li>Norman Zhu (undergraduate)</li>
+</ul>
+
+
+<br clear="all"/>
+</div>
+
+<div class="content">This page was last modified on <!--#config timefmt="%B %d, %Y" --> <!--#echo var="LAST_MODIFIED" -->.</div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../common-footer.html" --> 
+
+</body>
+</html>

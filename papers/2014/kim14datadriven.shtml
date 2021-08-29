@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Data-driven Interaction Techniques for Improving Navigation of Educational Videos</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Data-driven Interaction Techniques for Improving Navigation of Educational Videos">
+<meta property="og:description" content="With an unprecedented scale of learners watching educational videos on online platforms such as MOOCs and YouTube, there is an opportunity to incorporate data generated from their interactions into the design of novel video interaction techniques. Interaction data has the potential to help not only instructors to improve their videos, but also to enrich the learning experience of educational video watchers. This paper explores the design space of data-driven interaction techniques for educational video navigation. We introduce a set of techniques that augment existing video interface widgets, including: a 2D video timeline with an embedded visualization of collective navigation traces; dynamic and non-linear timeline scrubbing; data-enhanced transcript search and keyword summary; automatic display of relevant still frames next to the video; and a visual summary representing points with high learner activity. To evaluate the feasibility of the techniques, we ran a laboratory user study with simulated learning tasks. Participants rated watching lecture videos with interaction data to be efficient and useful in completing the tasks. However, no significant differences were found in task performance, suggesting that interaction data may not always align with moment-by-moment information needs during the tasks.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Data-driven Interaction Techniques for Improving Navigation of Educational Videos</h1>
+<h2 class="head">Juho Kim, Philip&nbsp;J. Guo, Carrie&nbsp;J. Cai, Shang-Wen&nbsp;(Daniel) Li, Krzysztof&nbsp;Z. Gajos, and Robert&nbsp;C. Miller</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+With an unprecedented scale of learners watching educational videos on online platforms such as MOOCs and YouTube, there is an opportunity to incorporate data generated from their interactions into the design of novel video interaction techniques. Interaction data has the potential to help not only instructors to improve their videos, but also to enrich the learning experience of educational video watchers. This paper explores the design space of data-driven interaction techniques for educational video navigation. We introduce a set of techniques that augment existing video interface widgets, including: a 2D video timeline with an embedded visualization of collective navigation traces; dynamic and non-linear timeline scrubbing; data-enhanced transcript search and keyword summary; automatic display of relevant still frames next to the video; and a visual summary representing points with high learner activity. To evaluate the feasibility of the techniques, we ran a laboratory user study with simulated learning tasks. Participants rated watching lecture videos with interaction data to be efficient and useful in completing the tasks. However, no significant differences were found in task performance, suggesting that interaction data may not always align with moment-by-moment information needs during the tasks.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2014/kim-uist14-lecturescape.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="http://dx.doi.org/10.1145/2642918.2647389">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+<h3>Video</h3>
+<div class="content">
+<div class="video" style="float: right; margin-left: 15px; margin-bottom: 10px;">
+{<iframe width="420" height="315" src="//www.youtube.com/embed/1kONuVn4Nzk?rel=0" frameborder="0" allowfullscreen></iframe>}
+</div>
+<br clear="all"/>
+</div>
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Juho Kim, Philip&nbsp;J. Guo, Carrie&nbsp;J. Cai, Shang-Wen&nbsp;(Daniel) Li, Krzysztof&nbsp;Z. Gajos, and Robert&nbsp;C. Miller. Data-driven interaction techniques for improving navigation of educational videos. In <EM>Proceedings of the 27th Annual ACM Symposium on User Interface Software and Technology</EM>, UIST '14, pages 563&ndash;572, New York, NY, USA, 2014. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: kim14:datadriven','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: kim14:datadriven</TITLE></HEAD><BODY><PRE>@inproceedings{kim14:datadriven,\n  author = {Kim, Juho and Guo, Philip J. and Cai, Carrie J. and Li, Shang-Wen (Daniel) and Gajos, Krzysztof Z. and Miller, Robert C.},\n  title = {Data-driven Interaction Techniques for Improving Navigation of Educational Videos},\n  booktitle = {Proceedings of the 27th Annual ACM Symposium on User Interface Software and Technology},\n  series = {UIST \'14},\n  year = {2014},\n  isbn = {978-1-4503-3069-5},\n  location = {Honolulu, Hawaii, USA},\n  pages = {563--572},\n  numpages = {10},\n    doi = {10.1145/2642918.2647389},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  abstract = {With an unprecedented scale of learners watching educational videos on online platforms such as MOOCs and YouTube, there is an opportunity to incorporate data generated from their interactions into the design of novel video interaction techniques. Interaction data has the potential to help not only instructors to improve their videos, but also to enrich the learning experience of educational video watchers. This paper explores the design space of data-driven interaction techniques for educational video navigation. We introduce a set of techniques that augment existing video interface widgets, including: a 2D video timeline with an embedded visualization of collective navigation traces; dynamic and non-linear timeline scrubbing; data-enhanced transcript search and keyword summary; automatic display of relevant still frames next to the video; and a visual summary representing points with high learner activity. To evaluate the feasibility of the techniques, we ran a laboratory user study with simulated learning tasks. Participants rated watching lecture videos with interaction data to be efficient and useful in completing the tasks. However, no significant differences were found in task performance, suggesting that interaction data may not always align with moment-by-moment information needs during the tasks.},\n        }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

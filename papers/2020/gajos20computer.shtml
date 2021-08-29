@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Computer Mouse Use Captures Ataxia and Parkinsonism, Enabling Accurate Measurement and Detection</title>
+<meta name="twitter:card" content="summary" />
+<meta property="og:image" content="http://www.eecs.harvard.edu/~kgajos/papers/images/hevelius.png">
+<meta property="og:title" content="Computer Mouse Use Captures Ataxia and Parkinsonism, Enabling Accurate Measurement and Detection">
+<meta property="og:description" content="Background:<br/> Objective assessments of movement impairment are needed to support clinical trials and facilitate diagnosis. The objective of the current study was to determine if a rapid web‐based computer mouse test (Hevelius) could detect and accurately measure ataxia and parkinsonism. <br/><br/> Methods:<br/> Ninety‐five ataxia, 46 parkinsonism, and 29 control participants and 229,017 online participants completed Hevelius. We trained machine‐learning models on age‐normalized Hevelius features to (1) measure severity and disease progression and (2) distinguish phenotypes from controls and from each other. <br/><br/> Results:<br/> Regression model estimates correlated strongly with clinical scores (from r = 0.66 for UPDRS dominant arm total to r = 0.83 for the Brief Ataxia Rating Scale). A disease change model identified ataxia progression with high sensitivity. Classification models distinguished ataxia or parkinsonism from healthy controls with high sensitivity (≥0.91) and specificity (≥0.90). <br/><br/> Conclusions:<br/> Hevelius produces a granular and accurate motor assessment in a few minutes of mouse use and may be useful as an outcome measure and screening tool.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Computer Mouse Use Captures Ataxia and Parkinsonism, Enabling Accurate Measurement and Detection</h1>
+<h2 class="head">Krzysztof&nbsp;Z. Gajos, Katharina Reinecke, Mary Donovan, Christopher&nbsp;D. Stephen, Albert&nbsp;Y. Hung, Jeremy&nbsp;D. Schmahmann, and Anoopum&nbsp;S. Gupta</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+<img style="margin-left: 15px; margin-bottom: 10px; max-width: 300px" align="right" alt="" src="http://www.eecs.harvard.edu/~kgajos/papers/images/hevelius.png"/>
+Background:<br/> Objective assessments of movement impairment are needed to support clinical trials and facilitate diagnosis. The objective of the current study was to determine if a rapid web‐based computer mouse test (Hevelius) could detect and accurately measure ataxia and parkinsonism. <br/><br/> Methods:<br/> Ninety‐five ataxia, 46 parkinsonism, and 29 control participants and 229,017 online participants completed Hevelius. We trained machine‐learning models on age‐normalized Hevelius features to (1) measure severity and disease progression and (2) distinguish phenotypes from controls and from each other. <br/><br/> Results:<br/> Regression model estimates correlated strongly with clinical scores (from r = 0.66 for UPDRS dominant arm total to r = 0.83 for the Brief Ataxia Rating Scale). A disease change model identified ataxia progression with high sensitivity. Classification models distinguished ataxia or parkinsonism from healthy controls with high sensitivity (≥0.91) and specificity (≥0.90). <br/><br/> Conclusions:<br/> Hevelius produces a granular and accurate motor assessment in a few minutes of mouse use and may be useful as an outcome measure and screening tool.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2020/gajos19computer.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="https://doi.org/10.1002/mds.27915">Publisher's version
+
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Krzysztof&nbsp;Z. Gajos, Katharina Reinecke, Mary Donovan, Christopher&nbsp;D. Stephen, Albert&nbsp;Y. Hung, Jeremy&nbsp;D. Schmahmann, and Anoopum&nbsp;S. Gupta. Computer mouse use captures ataxia and parkinsonism, enabling accurate measurement and detection. <EM>Movement Disorders</EM>, 35:354&ndash;358, February 2020.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: gajos20:computer','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: gajos20:computer</TITLE></HEAD><BODY><PRE>@article{gajos20:computer,\n  title = {Computer Mouse Use Captures Ataxia and Parkinsonism, Enabling Accurate Measurement and Detection},\n  author = {Krzysztof Z. Gajos and Katharina Reinecke and Mary Donovan and Christopher D. Stephen and Albert Y. Hung and Jeremy D. Schmahmann and Anoopum S. Gupta},\n  journal = {Movement Disorders},\n  year = {2020},\n  month = {February},\n  issue = {2},\n  volume = {35},\n  pages = {354--358},\n    abstract = {Background:<br/> Objective assessments of movement impairment are needed to support clinical trials and facilitate diagnosis. The objective of the current study was to determine if a rapid web‐based computer mouse test (Hevelius) could detect and accurately measure ataxia and parkinsonism. <br/><br/> Methods:<br/> Ninety‐five ataxia, 46 parkinsonism, and 29 control participants and 229,017 online participants completed Hevelius. We trained machine‐learning models on age‐normalized Hevelius features to (1) measure severity and disease progression and (2) distinguish phenotypes from controls and from each other. <br/><br/> Results:<br/> Regression model estimates correlated strongly with clinical scores (from r = 0.66 for UPDRS dominant arm total to r = 0.83 for the Brief Ataxia Rating Scale). A disease change model identified ataxia progression with high sensitivity. Classification models distinguished ataxia or parkinsonism from healthy controls with high sensitivity (≥0.91) and specificity (≥0.90). <br/><br/> Conclusions:<br/> Hevelius produces a granular and accurate motor assessment in a few minutes of mouse use and may be useful as an outcome measure and screening tool.},\n        }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

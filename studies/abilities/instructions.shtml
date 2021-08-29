@@ -1,0 +1,28 @@
+
+<h3>Installing the Browser Extension</h3>
+
+<h4>1. Are you using Firefox browser right now?</h4>
+<p><img src="studies/abilities/firefox.png" alt="" align="right" />
+If you are, proceed to the next step</p>
+
+<p>If not, please open your Firefox and past the following URL into the address bar: http://iis.seas.harvard.edu<!--#echo var="DOCUMENT_URI" -->.  Our software is designed specifically for the Firefox browser and will not work with Internet Explorer, Chrome, or any other browser.  If you do not use Firefox on regular basis, you will not be able to participate in this study. 
+</p>
+<br clear="all" />
+
+<h4>2. Download and Install the Extension</h4>
+<p>First, follow <a href="https://iis-secure.seas.harvard.edu/ability28.xpi">this link</a> to download the extension</p>
+
+<p><img src="studies/abilities/install1.png" alt="" align="right" />
+Firefox will ask for your permission to download the software.  Please click "Allow"</p>
+
+<br clear="all" />
+
+<p><img src="studies/abilities/install2.png" alt="" align="right" />
+It will then ask for your permission to install the software.  Please click "Install Now"</p>
+
+<br clear="all" />
+<p>You are done!  The extension will start working after you restart yoru browser, which you can do now or later</p>
+
+<h4>3. Finding Your Study Code and Accessing the Diagnostic Tasks</h4>
+<p><img src="studies/abilities/abilities-menu.png" alt="" align="right" />
+After you restart the browser, a new menu called "Abilities" will become available on the menu bar of your Firefox browser.  The first item, will take you to a page where you can complete a set of brief clicking and typing tasks---one of our researchers will tell you more about those tasks when you speak on the phone.  Selecting the second menu item will reveal your study code.  All the data we collect is marked with that code.  The last item will take you to a <a href="studies/abilities/info.shtml">page with additional information about the study</a>.

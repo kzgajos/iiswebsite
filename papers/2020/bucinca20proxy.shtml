@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Proxy Tasks and Subjective Measures Can Be Misleading in Evaluating Explainable AI Systems</title>
+<meta name="twitter:card" content="summary" />
+<meta property="og:image" content="http://www.eecs.harvard.edu/~kgajos/papers/images/bucinca20proxy.png">
+<meta property="og:title" content="Proxy Tasks and Subjective Measures Can Be Misleading in Evaluating Explainable AI Systems">
+<meta property="og:description" content="Explainable artificially intelligent (XAI) systems form part of <i> sociotechnical systems, </i> e.g., human+AI teams tasked with making decisions. Yet, current XAI systems are rarely evaluated by measuring the performance of human+AI teams on actual decision-making tasks. We conducted two online experiments and one in-person think-aloud study to evaluate two currently common techniques for evaluating XAI systems: (1) using proxy, artificial tasks such as how well humans predict the AI's decision from the given explanations, and (2) using subjective measures of trust and preference as predictors of actual performance. The results of our experiments demonstrate that evaluations with proxy tasks did not predict the results of the evaluations with the actual decision-making tasks. Further, the subjective measures on evaluations with actual decision-making tasks did not predict the objective performance on those same tasks. Our results suggest that by employing misleading evaluation methods, our field may be inadvertently slowing its progress toward developing human+AI teams that can reliably perform better than humans or AIs alone.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Proxy Tasks and Subjective Measures Can Be Misleading in Evaluating Explainable AI Systems</h1>
+<h2 class="head">Zana Buçinca, Phoebe Lin, Krzysztof&nbsp;Z. Gajos, and Elena&nbsp;L. Glassman</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+<img style="margin-left: 15px; margin-bottom: 10px; max-width: 300px" align="right" alt="" src="http://www.eecs.harvard.edu/~kgajos/papers/images/bucinca20proxy.png"/>
+Explainable artificially intelligent (XAI) systems form part of <i> sociotechnical systems, </i> e.g., human+AI teams tasked with making decisions. Yet, current XAI systems are rarely evaluated by measuring the performance of human+AI teams on actual decision-making tasks. We conducted two online experiments and one in-person think-aloud study to evaluate two currently common techniques for evaluating XAI systems: (1) using proxy, artificial tasks such as how well humans predict the AI's decision from the given explanations, and (2) using subjective measures of trust and preference as predictors of actual performance. The results of our experiments demonstrate that evaluations with proxy tasks did not predict the results of the evaluations with the actual decision-making tasks. Further, the subjective measures on evaluations with actual decision-making tasks did not predict the objective performance on those same tasks. Our results suggest that by employing misleading evaluation methods, our field may be inadvertently slowing its progress toward developing human+AI teams that can reliably perform better than humans or AIs alone.
+<br clear="right"/>
+</div>
+
+
+
+<h3>Additional information</h3>
+<div class="content">
+<ul>
+<li><a href="https://medium.com/harvard-hci/proxy-tasks-and-subjective-measures-can-be-misleading-in-evaluating-explainable-ai-systems-db8d5477cb85">Blog post</a></li>
+</ul>
+</div>
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2020/bucinca20proxy.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="https://doi.org/10.1145/3377325.3377498">Publisher's version
+ (Association for Computing Machinery)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Zana Buçinca, Phoebe Lin, Krzysztof&nbsp;Z. Gajos, and Elena&nbsp;L. Glassman. Proxy tasks and subjective measures can be misleading in evaluating explainable ai systems. In <EM>Proceedings of the 25th International Conference on Intelligent User Interfaces</EM>, IUI '20, pages 454&ndash;464, New York, NY, USA, 2020. Association for Computing Machinery.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: bucinca20:proxy','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: bucinca20:proxy</TITLE></HEAD><BODY><PRE>@inproceedings{bucinca20:proxy,\n  author = {Bu\c{c}inca, Zana and Lin, Phoebe and Gajos, Krzysztof Z. and Glassman, Elena L.},\n  title = {Proxy Tasks and Subjective Measures Can Be Misleading in Evaluating Explainable AI Systems},\n  year = {2020},\n  isbn = {9781450371186},\n  publisher = {Association for Computing Machinery},\n  address = {New York, NY, USA},\n    doi = {10.1145/3377325.3377498},\n  booktitle = {Proceedings of the 25th International Conference on Intelligent User Interfaces},\n  pages = {454-464},\n  numpages = {11},\n  keywords = {explanations, artificial intelligence, trust},\n  location = {Cagliari, Italy},\n  series = {IUI \'20},\n  abstract = {Explainable artificially intelligent (XAI) systems form part of <i> sociotechnical systems, </i> e.g., human+AI teams tasked with making decisions. Yet, current XAI systems are rarely evaluated by measuring the performance of human+AI teams on actual decision-making tasks. We conducted two online experiments and one in-person think-aloud study to evaluate two currently common techniques for evaluating XAI systems: (1) using proxy, artificial tasks such as how well humans predict the AI\'s decision from the given explanations, and (2) using subjective measures of trust and preference as predictors of actual performance. The results of our experiments demonstrate that evaluations with proxy tasks did not predict the results of the evaluations with the actual decision-making tasks. Further, the subjective measures on evaluations with actual decision-making tasks did not predict the objective performance on those same tasks. Our results suggest that by employing misleading evaluation methods, our field may be inadvertently slowing its progress toward developing human+AI teams that can reliably perform better than humans or AIs alone.},\n          award = {Best Paper Award},\n  }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<style type="text/css">
+a#n-home { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Study Home</title>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Study Home</h1>
+<h1 class="head">Summary Information</h1>
+</div>
+
+
+
+<div class="main">
+<div class="content">
+<h3>The Study</h3>
+<p>
+We are building tools to adapt user interfaces to people's individual
+abilities. In this study we want to understand how people with Parkinson's Disease control pointing devices (such as mouse, trackball, trackpad, etc) so that we can understand how to build more inclusive interfaces in the future.
+</p>
+
+<h3>Who Is Eligible to Participate in This Study</h3>
+<p>We are looking for participants who:
+<ul>
+<li>have been diagnosed with Parkinson's Disease</li>
+<li>are at least 18 years old</li>
+<li>use a computer at least a few times a week.</li>
+</ul>
+</p>
+
+<h3>Your Participation</h3>
+<p>
+Participation in this study will involve:
+<ul>
+<li>Completing an eligibility survey with one of our researchers over the phone.</li>
+<li>Completing two sets of simple clicking tasks.  This may take between 15 and 30 minutes per set, depending on your individual circumstances.</li>
+</ul>
+
+<h3>Compensation</h3>
+Participatns will be compensated with a $25 Amazon.com gift certificate upcon completion of the study.
+
+<h3>If You Would Like to Participate...</h3>
+If you would like to participate in our study, please <a id="n-signup" class="navbutton" style="padding: 10px;" href="studies/pd/consent.shtml">sign up here</a>.
+
+<br/>
+</div>
+
+<div class="content">This page was last modified on <!--#config timefmt="%B %d, %Y" --> <!--#echo var="LAST_MODIFIED" -->.</div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

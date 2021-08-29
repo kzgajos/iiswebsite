@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Ask Me or Tell Me? Enhancing the Effectiveness of Crowdsourced Design Feedback</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Ask Me or Tell Me? Enhancing the Effectiveness of Crowdsourced Design Feedback">
+<meta property="og:description" content="Crowdsourced design feedback systems are emerging resources for getting large amounts of feedback in a short period of time. Traditionally, the feedback comes in the form of a declarative statement, which often contains positive or negative sentiment. Prior research has shown that overly negative or positive sentiment can strongly influence the perceived usefulness and acceptance of feedback and, subsequently, lead to ineffective design revisions. To enhance the effectiveness of crowdsourced design feedback, we investigate a new approach for mitigating the effects of negative or positive feedback by combining open-ended and thought-provoking questions with declarative feedback statements. We conducted two user studies to assess the effects of question-based feedback on the sentiment and quality of design revisions in the context of graphic design. We found that crowdsourced question-based feedback contains more neutral sentiment than statement-based feedback. Moreover, we provide evidence that presenting feedback as questions followed by statements leads to better design revisions than question- or statement-based feedback alone.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Ask Me or Tell Me? Enhancing the Effectiveness of Crowdsourced Design Feedback</h1>
+<h2 class="head">Fritz Lekschas, Spyridon Ampanavos, Pao Siangliulue, Hanspeter Pfister, and Krzysztof&nbsp;Z. Gajos</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Crowdsourced design feedback systems are emerging resources for getting large amounts of feedback in a short period of time. Traditionally, the feedback comes in the form of a declarative statement, which often contains positive or negative sentiment. Prior research has shown that overly negative or positive sentiment can strongly influence the perceived usefulness and acceptance of feedback and, subsequently, lead to ineffective design revisions. To enhance the effectiveness of crowdsourced design feedback, we investigate a new approach for mitigating the effects of negative or positive feedback by combining open-ended and thought-provoking questions with declarative feedback statements. We conducted two user studies to assess the effects of question-based feedback on the sentiment and quality of design revisions in the context of graphic design. We found that crowdsourced question-based feedback contains more neutral sentiment than statement-based feedback. Moreover, we provide evidence that presenting feedback as questions followed by statements leads to better design revisions than question- or statement-based feedback alone.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2021/lekschas21ask.pdf">Authors' version (pdf)</a></li>
+
+
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+<h3>Additional Resources</h3>
+<div class="content">
+<a href="http://www.eecs.harvard.edu/~kgajos/papers/2021/lekschas21ask-supplement.pdf">Supplementary material</a>
+</div>
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Fritz Lekschas, Spyridon Ampanavos, Pao Siangliulue, Hanspeter Pfister, and Krzysztof&nbsp;Z. Gajos. Ask Me or Tell Me? Enhancing the Effectiveness of Crowdsourced Design Feedback. In <EM>Proceedings of CHI'21</EM>, 2021. To appear.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: lekschas2021ask','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: lekschas2021ask</TITLE></HEAD><BODY><PRE>@inproceedings{lekschas2021ask,\n  author = {Fritz Lekschas and Spyridon Ampanavos and Pao Siangliulue and Hanspeter Pfister and Krzysztof Z. Gajos},\n  title = {{Ask Me or Tell Me? Enhancing the Effectiveness of Crowdsourced Design Feedback}},\n  booktitle = {Proceedings of CHI\'21},\n  year = {2021},\n  abstract = {Crowdsourced design feedback systems are emerging resources for getting large amounts of feedback in a short period of time. Traditionally, the feedback comes in the form of a declarative statement, which often contains positive or negative sentiment. Prior research has shown that overly negative or positive sentiment can strongly influence the perceived usefulness and acceptance of feedback and, subsequently, lead to ineffective design revisions. To enhance the effectiveness of crowdsourced design feedback, we investigate a new approach for mitigating the effects of negative or positive feedback by combining open-ended and thought-provoking questions with declarative feedback statements. We conducted two user studies to assess the effects of question-based feedback on the sentiment and quality of design revisions in the context of graphic design. We found that crowdsourced question-based feedback contains more neutral sentiment than statement-based feedback. Moreover, we provide evidence that presenting feedback as questions followed by statements leads to better design revisions than question- or statement-based feedback alone.},\n        resources-  note = {To appear.},\n}\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

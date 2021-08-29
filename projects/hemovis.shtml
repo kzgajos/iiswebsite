@@ -1,0 +1,15 @@
+<a name="platemate"></a>
+<h4 class="ptitle">HemoVis: Artery Visualization for Heart Disease Diagnosis</h4>
+
+<p>
+<img class="thumbleft" src="papers/images/hemoviz-thumb.png" alt=""
+width="200" height="112" align="left"/></a> 
+Heart disease is the number one killer in the United States, and finding indicators of the disease at an early stage is critical for treatment and prevention. In this paper we evaluate visualization techniques that enable the diagnosis of coronary artery disease. A key physical quantity of medical interest is endothelial shear stress (ESS). Low ESS has been associated with sites of lesion formation and rapid progression of disease in the coronary arteries. Having effective visualizations of a patient's ESS data is vital for the quick and thorough non-invasive evaluation by a cardiologist. We present a task taxonomy for hemodynamics based on a formative user study with domain experts. Based on the results of this study we developed HemoVis, an interactive visualization application for heart disease diagnosis that uses a novel 2D tree diagram representation of coronary artery trees. We present the results of a formal quantitative user study with domain experts that evaluates the effect of 2D versus 3D artery representations and of color maps on identifying regions of low ESS. We show statistically significant results demonstrating that our 2D visualizations are more accurate and efficient than 3D representations, and that a perceptually appropriate color map leads to fewer diagnostic mistakes than a rainbow color map. 
+</p>
+<div class="ppapers">
+
+	<P class="paper" id='xborkin11:evaluationx'>Michelle&nbsp;A. Borkin, Krzysztof&nbsp;Z. Gajos, Amanda Peters, Dimitrios Mitsouras, Simone Melchionna, Frank&nbsp;J. Rybicki, Charles&nbsp;L. Feldman, and Hanspeter Pfister. <a href="papers/2011/borkin11-infoviz.pdf">Evaluation of Artery Visualizations for Heart Disease Diagnosis</a>. <EM>IEEE Transactions on Visualization and Computer Graphics (Proceedings of Information Visualization 2011)</EM>, 17(12), December 2011.
+	<br/><span class="paperdetails">[<a href="papers/2011/borkin11evaluation.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+</div>
+<br clear="all" />

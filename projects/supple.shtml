@@ -1,0 +1,48 @@
+<a name="supple"></a>
+<h4 class="ptitle"><a href="http://iis.seas.harvard.edu/projects/supple/">SUPPLE: Automatically Generating User Interfaces</a></h4>
+
+<p>
+<img class="thumbleft" src="http://www.eecs.harvard.edu/~kgajos/papers/images/supple-thumb.png" alt="SUPPLE Project" width="200" height="121" align="left"/>
+SUPPLE is an application- and device-independent system that automatically
+generates user interfaces for a wide variety of display devices.
+SUPPLE uses decision-theoretic optimization to render an interface
+from an abstract <i>functional specification</i> and an interchangeable
+</i>device model</i>.  SUPPLE can use information from the <i>user
+model</i> to automatically adapt user interfaces to different tasks
+and work styles while also prividing extensive customization
+mechanisms that allow for modifications to the appearance,
+organization and navigational structure of the user interface.
+</p>
+<div class="ppapers">
+<P class="paper" id='xgajos12:personalizedx'>Krzysztof&nbsp;Z. Gajos, Amy Hurst, and Leah Findlater. <a href="http://www.eecs.harvard.edu/~kgajos/papers/authorizer.html?url=http://dl.acm.org/authorize?6618349">Personalized dynamic accessibility</a>. <EM>interactions</EM>, 19(2):69-73, March 2012.
+<br/><span class="paperdetails">[<a href="papers/2012/gajos12personalized.shtml">Abstract, BibTeX, Authorizer,  etc.</a>]</span></P>
+
+<P class="paper" id='xgajos10:automaticallyx'>Krzysztof&nbsp;Z. Gajos, Daniel&nbsp;S. Weld, and Jacob&nbsp;O. Wobbrock. <a href="papers/2010/gajos10supple-aij.pdf">Automatically generating personalized user interfaces with Supple</a>. <EM>Artificial Intelligence</EM>, 174:910-950, 2010.
+<br/><span class="paperdetails">[<a href="papers/2010/gajos10automatically.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+<P class="paper" id='xgajos08:improvingx'>Krzysztof&nbsp;Z. Gajos, Jacob&nbsp;O. Wobbrock, and Daniel&nbsp;S. Weld. <a href="papers/2008/kgajos-chi08-supple.pdf">Improving the performance of motor-impaired users with automatically-generated, ability-based interfaces</a>. In <EM>CHI '08: Proceeding of the twenty-sixth annual SIGCHI conference on Human factors in computing systems</EM>, pages 1257-1266, New York, NY, USA, 2008. ACM. 
+<span class="award">&nbsp; Best Paper Award &nbsp;</span>
+<br/><span class="paperdetails">[<a href="papers/2008/gajos08improving.shtml">Abstract, BibTeX, Video, Authorizer,  etc.</a>]</span></P>
+
+<P class="paper" id='xgajos08:automaticallyx'>Krzysztof&nbsp;Z. Gajos. <EM><a href="papers/2008/kgajos-dissertation.pdf">Automatically Generating Personalized User Interfaces</a></EM>. PhD thesis, University of Washington, Seattle, WA, USA, 2008.
+<br/><span class="paperdetails">[<a href="papers/2008/gajos08automatically.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+P class="paper" id='xgajos08:decisionx'>Krzysztof&nbsp;Z. Gajos, Daniel&nbsp;S. Weld, and Jacob&nbsp;O. Wobbrock. <a href="papers/2008/kgajos-nectar08.pdf">Decision-Theoretic User Interface Generation</a>. In <EM>AAAI'08</EM>, pages 1532-1536. AAAI Press, 2008.
+<br/><span class="paperdetails">[<a href="papers/2008/gajos08decision.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+<P class="paper" id='xgajos07:automaticallyx'>Krzysztof&nbsp;Z. Gajos, Jacob&nbsp;O. Wobbrock, and Daniel&nbsp;S. Weld. <a href="papers/2007/kgajos-uist07.pdf">Automatically generating user interfaces adapted to users' motor and vision capabilities</a>. In <EM>UIST '07: Proceedings of the 20th annual ACM symposium on User interface software and technology</EM>, pages 231-240, New York, NY, USA, 2007. ACM Press.
+<br/><span class="paperdetails">[<a href="papers/2007/gajos07automatically.shtml">Abstract, BibTeX, Slides, Video, Authorizer,  etc.</a>]</span></P>
+
+<P class="paper" id='xgajos05:fastx'>Krzysztof Gajos, David Christianson, Raphael Hoffmann, Tal Shaked, Kiera Henning, Jing&nbsp;J. Long, and Daniel&nbsp;S. Weld. <a href="papers/2005/kgajos-ubicomp05.pdf">Fast and Robust Interface Generation for Ubiquitous Applications</a>. In <EM>UbiComp 2005: Ubiquitous Computing</EM>, volume 3660 of <EM> Lecture Notes in Computer Science</EM>, pages 37-55, Berlin / Heidelberg, 2005. Springer.
+<br/><span class="paperdetails">[<a href="papers/2005/gajos05fast.shtml">Abstract, BibTeX, Slides,  etc.</a>]</span></P>
+
+<P class="paper" id='xgajos05:preferencex'>Krzysztof Gajos and Daniel&nbsp;S. Weld. <a href="papers/2005/kgajos-uist05.pdf">Preference elicitation for interface optimization</a>. In <EM>UIST '05: Proceedings of the 18th annual ACM symposium on User interface software and technology</EM>, pages 173-182, New York, NY, USA, 2005. ACM Press.
+<br/><span class="paperdetails">[<a href="papers/2005/gajos05preference.shtml">Abstract, BibTeX, Slides, Authorizer,  etc.</a>]</span></P>
+
+<P class="paper" id='xgajos05:consistencyx'>Krzysztof Gajos, Anthony Wu, and Daniel&nbsp;S. Weld. <a href="papers/2005/kgajos-mu3i05.pdf">Cross-Device Consistency in Automatically Generated User Interfaces</a>. In <EM>Proceedings of Workshop on Multi-User and Ubiquitous User Interfaces (MU3I'05)</EM>, 2005.
+
+<P class="paper" id='xgajos04:supplex'>Krzysztof Gajos and Daniel&nbsp;S. Weld. <a href="papers/2004/supple-iui04.pdf">SUPPLE: automatically generating user interfaces</a>. In <EM>IUI '04: Proceedings of the 9th international conference on Intelligent user interface</EM>, pages 93-100, New York, NY, USA, 2004. ACM Press.
+<br/><span class="paperdetails">[<a href="papers/2004/gajos04supple.shtml">Abstract, BibTeX, Authorizer,  etc.</a>]</span></P>
+
+</div>
+<br clear="all" />

@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Evaluation of Artery Visualizations for Heart Disease Diagnosis</title>
+<meta name="twitter:card" content="summary" />
+<meta property="og:image" content="papers/images/hemoviz-thumb.png">
+<meta property="og:title" content="Evaluation of Artery Visualizations for Heart Disease Diagnosis">
+<meta property="og:description" content="Heart disease is the number one killer in the United States, and finding indicators of the disease at an early stage is critical for treatment and prevention. In this paper we evaluate visualization techniques that enable the diagnosis of coronary artery disease. A key physical quantity of medical interest is endothelial shear stress (ESS). Low ESS has been associated with sites of lesion formation and rapid progression of disease in the coronary arteries. Having effective visualizations of a patient's ESS data is vital for the quick and thorough non-invasive evaluation by a cardiologist. We present a task taxonomy for hemodynamics based on a formative user study with domain experts. Based on the results of this study we developed HemoVis, an interactive visualization application for heart disease diagnosis that uses a novel 2D tree diagram representation of coronary artery trees. We present the results of a formal quantitative user study with domain experts that evaluates the effect of 2D versus 3D artery representations and of color maps on identifying regions of low ESS. We show statistically significant results demonstrating that our 2D visualizations are more accurate and efficient than 3D representations, and that a perceptually appropriate color map leads to fewer diagnostic mistakes than a rainbow color map.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Evaluation of Artery Visualizations for Heart Disease Diagnosis</h1>
+<h2 class="head">Michelle&nbsp;A. Borkin, Krzysztof&nbsp;Z. Gajos, Amanda Peters, Dimitrios Mitsouras, Simone Melchionna, Frank&nbsp;J. Rybicki, Charles&nbsp;L. Feldman, and Hanspeter Pfister</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+<img style="margin-left: 15px; margin-bottom: 10px; max-width: 300px" align="right" alt="" src="papers/images/hemoviz-thumb.png"/>
+Heart disease is the number one killer in the United States, and finding indicators of the disease at an early stage is critical for treatment and prevention. In this paper we evaluate visualization techniques that enable the diagnosis of coronary artery disease. A key physical quantity of medical interest is endothelial shear stress (ESS). Low ESS has been associated with sites of lesion formation and rapid progression of disease in the coronary arteries. Having effective visualizations of a patient's ESS data is vital for the quick and thorough non-invasive evaluation by a cardiologist. We present a task taxonomy for hemodynamics based on a formative user study with domain experts. Based on the results of this study we developed HemoVis, an interactive visualization application for heart disease diagnosis that uses a novel 2D tree diagram representation of coronary artery trees. We present the results of a formal quantitative user study with domain experts that evaluates the effect of 2D versus 3D artery representations and of color maps on identifying regions of low ESS. We show statistically significant results demonstrating that our 2D visualizations are more accurate and efficient than 3D representations, and that a perceptually appropriate color map leads to fewer diagnostic mistakes than a rainbow color map.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2011/borkin11-infoviz.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=6065015&tag=1">Publisher's version
+
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Michelle&nbsp;A. Borkin, Krzysztof&nbsp;Z. Gajos, Amanda Peters, Dimitrios Mitsouras, Simone Melchionna, Frank&nbsp;J. Rybicki, Charles&nbsp;L. Feldman, and Hanspeter Pfister. Evaluation of artery visualizations for heart disease diagnosis. <EM>IEEE Transactions on Visualization and Computer Graphics (Proceedings of Information Visualization 2011)</EM>, 17(12), December 2011.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: borkin11:evaluation','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: borkin11:evaluation</TITLE></HEAD><BODY><PRE>@article{borkin11:evaluation,\n  title = {Evaluation of Artery Visualizations for Heart Disease Diagnosis},\n  author = {Michelle A. Borkin and Krzysztof Z. Gajos and Amanda Peters and Dimitrios Mitsouras and Simone Melchionna and Frank J. Rybicki and Charles L. Feldman and Hanspeter Pfister},\n  year = {2011},\n  journal = {IEEE Transactions on Visualization and Computer Graphics (Proceedings of Information Visualization 2011)},\n  volume = {17},\n  number = {12},\n  month = {December},\n  abstract = {Heart disease is the number one killer in the United States, and finding indicators of the disease at an early stage is critical for treatment and prevention. In this paper we evaluate visualization techniques that enable the diagnosis of coronary artery disease. A key physical quantity of medical interest is endothelial shear stress (ESS). Low ESS has been associated with sites of lesion formation and rapid progression of disease in the coronary arteries. Having effective visualizations of a patient\'s ESS data is vital for the quick and thorough non-invasive evaluation by a cardiologist. We present a task taxonomy for hemodynamics based on a formative user study with domain experts. Based on the results of this study we developed HemoVis, an interactive visualization application for heart disease diagnosis that uses a novel 2D tree diagram representation of coronary artery trees. We present the results of a formal quantitative user study with domain experts that evaluates the effect of 2D versus 3D artery representations and of color maps on identifying regions of low ESS. We show statistically significant results demonstrating that our 2D visualizations are more accurate and efficient than 3D representations, and that a perceptually appropriate color map leads to fewer diagnostic mistakes than a rainbow color map.},\n        }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

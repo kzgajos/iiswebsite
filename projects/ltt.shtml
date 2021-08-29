@@ -1,0 +1,21 @@
+<a name="ltt"></a>
+<h4 class="ptitle">
+Look-to-Talk: A Gaze-Aware Interface in a Collaborative Environment</h4>
+
+<p>
+<img class="thumbleft" src="http://www.eecs.harvard.edu/~kgajos/papers/images/ltt-thumb.gif" alt="Loot To Talk" width="200"
+height="150" align="left"/>
+"Look-to-talk" is a gaze-aware interface for directing a spoken
+utterance to a software agent in a multiuser collaborative
+environment. Through a prototype and a Wizard-of-Oz (WOz) experiment,
+we showed that "look-totalk" is indeed a natural alternative to speech
+and other paradigms.
+</p>
+<div class="ppapers">
+
+<P class="paper" id='xoh02:evaluatingx'>Alice Oh, Harold Fox, Max Van&nbsp;Kleek, Aaron Adler, Krzysztof Gajos, Louis-Philippe Morency, and Trevor Darrell. <a href="papers/2002/ltt-chi2002.pdf">Evaluating look-to-talk: a gaze-aware interface in a collaborative environment</a>. In <EM>CHI '02: CHI '02 extended abstracts on Human factors in computing systems</EM>, pages 650-651, New York, NY, USA, 2002. ACM Press.
+</P>
+
+</div>
+<br clear="all" />
+

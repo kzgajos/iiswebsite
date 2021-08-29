@@ -1,0 +1,15 @@
+<a name="spr"></a>
+<h4 class="ptitle">SPRWeb: Preserving Subjective Responses to Website Colour Schemes through Automatic Recolouring</h4>
+
+<p>
+<img class="thumbleft" src="http://iis.seas.harvard.edu/papers/images/flatla13sprweb-thumb.png" alt=""
+width="200" height="120" align="left"/>
+Colors are an important part of user experiences on the Web. Color schemes influence the aesthetics, first impressions and long-term engagement with websites. However, five percent of people perceive a subset of all colors because they have color vision deficiency (CVD), resulting in an unequal and less-rich user experience on the Web. Traditionally, people with CVD have been supported by recoloring tools that improve color differentiability, but do not consider the subjective properties of color schemes while recoloring. To address this, we developed SPRWeb, a tool that recolors websites to preserve subjective responses and improve color differentiability, thus enabling users with CVD to have similar online experiences. SPRWeb is the first tool to automatically preserve the subjective and perceptual properties of website color schemes thereby equalizing the color-based web experience for people with CVD.
+</p>
+<div class="ppapers">
+<P class="paper" id='xflatla13:sprwebx'>David&nbsp;R. Flatla, Katharina Reinecke, Carl Gutwin, and Krzysztof&nbsp;Z. Gajos. <a href="papers/2013/flatla13sprweb.pdf">SPRWeb: preserving subjective responses to website colour schemes through automatic recolouring</a>. In <EM>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</EM>, CHI '13, pages 2069-2078, New York, NY, USA, 2013. ACM.
+
+ <span class="award">&nbsp; Best Paper Award &nbsp;</span>
+<br/><span class="paperdetails">[<a href="papers/2013/flatla13sprweb.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+</div>
+<br clear="all" />

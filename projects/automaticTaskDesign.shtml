@@ -1,0 +1,16 @@
+<a name="iml"></a>
+<h4 class="ptitle">Automatic Task Design on Amazon Mechanical Turk</h4>
+<!--<div class="pauthors"></div>-->
+
+<p>
+<!--<img class="thumbleft" src="papers/images/exploringAUIs.png" alt="" width="200"
+height="141" align="left"/>-->
+A central challenge in human computation is in understanding how to design task environments that effectively attract participants and coordinate the problem solving process. We consider a common problem that requesters face on Amazon Mechanical Turk: how should a task be designed so as to induce good output from workers? In posting a task, a requester decides how to break down the task into unit tasks, how much to pay for each unit task, and how many workers to assign to a unit task. These design decisions affect the rate at which workers complete unit tasks, as well as the quality of the work that results. Using image labeling as an example task, we consider the problem of designing the task to maximize the number of quality tags received within given time and budget constraints. We consider two different measures of work quality, and construct models for predicting the rate and quality of work based on observations of output to various designs. Preliminary results show that simple models can accurately predict the quality of output per unit task, but are less accurate in predicting the rate at which unit tasks complete. At a fixed rate of pay, our models generate different designs depending on the quality metric, and optimized designs obtain significantly more quality tags than baseline comparisons.
+</p>
+<div class="ppapers">
+
+<P class="paper" id='xhuang10:towardx'>Eric Huang, Haoqi Zhang, David&nbsp;C. Parkes, Krzysztof&nbsp;Z. Gajos, and Yiling Chen. <a href="papers/2010/huang10hcomp.pdf">Toward automatic task design: a progress report</a>. In <EM>Proceedings of the ACM SIGKDD Workshop on Human Computation</EM>, HCOMP '10, pages 77-85, New York, NY, USA, 2010. ACM.
+<br/><span class="paperdetails">[<a href="papers/2010/huang10toward.shtml">Abstract, BibTeX, Authorizer,  etc.</a>]</span></P>
+
+</div>
+<br clear="all" />

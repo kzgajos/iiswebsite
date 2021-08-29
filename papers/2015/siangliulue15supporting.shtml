@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Supporting Collaborative Innovation at Scale</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Supporting Collaborative Innovation at Scale">
+<meta property="og:description" content="Emerging online innovation platforms have enabled large groups of people to collaborate and generate ideas together in ways that were not possible before. However, these platforms also introduce new challenges in finding inspiration from a large number of ideas, and coordinating the collective effort. In my dissertation, I address the challenges of large scale idea generation platforms by developing methods and systems for helping people make effective use of each other's ideas, and for orchestrating collective effort to reduce redundancy and increase the quality and breadth of generated ideas.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Supporting Collaborative Innovation at Scale</h1>
+<h2 class="head">Pao Siangliulue</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Emerging online innovation platforms have enabled large groups of people to collaborate and generate ideas together in ways that were not possible before. However, these platforms also introduce new challenges in finding inspiration from a large number of ideas, and coordinating the collective effort. In my dissertation, I address the challenges of large scale idea generation platforms by developing methods and systems for helping people make effective use of each other's ideas, and for orchestrating collective effort to reduce redundancy and increase the quality and breadth of generated ideas.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2015/siangliulue15uistdc.pdf">Authors' version (pdf)</a></li>
+
+
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Pao Siangliulue. Supporting collaborative innovation at scale. In <EM>Adjunct Proceedings of the 28th Annual ACM Symposium on User Interface Software and Technology</EM>, New York, NY, USA, 2015. ACM. To appear.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: siangliulue15:supporting','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: siangliulue15:supporting</TITLE></HEAD><BODY><PRE>@inproceedings{siangliulue15:supporting,\n  address = {New York, NY, USA},\n  author = {Siangliulue, Pao},\n  booktitle = {Adjunct Proceedings of the 28th Annual ACM Symposium on User Interface Software and Technology},\n  keywords = {creativity support system, ideation, collective intelligence},\n  location = {Charlotte, North Carolina, USA},\n  numpages = {4},\n  publisher = {ACM},\n  title = {Supporting Collaborative Innovation at Scale},\n  year = {2015},\n  abstract = {Emerging online innovation platforms have enabled large groups of people to collaborate and generate ideas together in ways that were not possible before. However, these platforms also introduce new challenges in finding inspiration from a large number of ideas, and coordinating the collective effort. In my dissertation, I address the challenges of large scale idea generation platforms by developing methods and systems for helping people make effective use of each other\'s ideas, and for orchestrating collective effort to reduce redundancy and increase the quality and breadth of generated ideas.},\n    note = {To appear.},\n}\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

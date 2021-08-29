@@ -1,0 +1,17 @@
+<a name="hevelius"></a>
+<h4 class="ptitle">
+Quantifying Motor Impairments</h4>
+
+<p>
+<img class="thumbleft" src="http://www.eecs.harvard.edu/~kgajos/papers/images/hevelius.png" alt="" width="200"
+align="left"/>
+Healthcare, clinical trials, and research related to neurological disease all require tools for accurately and objectively measuring motor impairments.
+ Our first tool, called Hevelius, measures motor impairment in the dominant arm based on a person's performance on a simple computer mouse-based task. We are working on other tools as well as on ways to make accurate measurements possible at home without help from clinician. Such at-home measurements can enable granular longitudinal measurements of disease progresson as well as large-scale assessments. This project is done in collaboration with the <a href="https://www.massgeneral.org/neurology/research/laboratory-for-deep-neurophenotyping-anoopum-gupta" class="external">Laboratory for Deep Neurophenotyping</a> at Massachusetts General Hospital.
+</p>
+
+<div class="ppapers">
+<P class="paper" id='xgajos20:computerx'>Krzysztof&nbsp;Z. Gajos, Katharina Reinecke, Mary Donovan, Christopher&nbsp;D. Stephen, Albert&nbsp;Y. Hung, Jeremy&nbsp;D. Schmahmann, and Anoopum&nbsp;S. Gupta. <a href="papers/2020/gajos19computer.pdf">Computer Mouse Use Captures Ataxia and Parkinsonism, Enabling Accurate Measurement and Detection</a>. <EM>Movement Disorders</EM>, 35:354&ndash;358, February 2020.
+<br/><span class="paperdetails">[<a href="papers/2020/gajos20computer.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+</div>
+
+<br clear="all" />

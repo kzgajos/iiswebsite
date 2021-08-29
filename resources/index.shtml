@@ -1,0 +1,157 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../common-head.html" --> 
+<style type="text/css">
+a#n-resources { 
+<!--#include virtual="../common-active-style.html" --> 
+}
+</style>
+
+<title>Intelligent Interactive Systems Group -- Code and Data Resources</title>
+</head>
+
+
+<body>
+
+<!--#include virtual="../common-top.html" --> 
+
+<h1 class="head">Intelligent Interactive Systems Group at Harvard</h1>
+<h2 class="head">Code and Data Resources</h2>
+
+<!--#include virtual="../common-nav.html" --> 
+
+
+
+<div class="content">
+	<a name="gajos17personality"></a>
+<h3>The code for Meeter system described in the CSCW 2019 paper "Automatically Analyzing Brainstorming Language Behavior with Meeter"</h3>
+<ul>
+<li><a href="https://github.com/BerndHuber/meeter_code">Code on GitHub</a></li>
+</ul>
+
+<blockquote>
+<P class="paper" id='xhuber19:automaticallyx'>Bernd Huber, Stuart Shieber, and Krzysztof&nbsp;Z. Gajos. <a href="papers/2019/huber19automatically.pdf">Automatically Analyzing Brainstorming Language Behavior with Meeter</a>. In <EM>Proceedigns of CSCW'19</EM>, 2019. To appear.
+<br/><span class="paperdetails">[<a href="papers/2019/huber19automatically.shtml">Abstract, BibTeX,  etc.</a>]</span></P></blockquote>
+</div>
+
+
+<div class="content">
+	<a name="gajos17personality"></a>
+<h3>The data set used in the IUI 2017 paper "The Influence of Personality Traits and Cognitive Load on the Use of Adaptive User Interfaces"</h3>
+<ul>
+<li><a href="resources/gajos17personality/2016.12.10-gajos17personality-data.csv">Data set as a CSV file.</a></li>
+<li><a href="resources/gajos17personality/2016.12.10-gajos17personality-explanationsOfColumns.csv">Explanation of the columns as a CSV file.</a></li>
+<li><a href="resources/gajos17personality/2016.12.10-gajos17personality-explanationsOfColumns.xlsx">Explanation of the columns as an Excel file.</a></li>
+</ul>
+
+<blockquote>
+<P class="paper" id='xgajos17:personalityx'>Krzysztof&nbsp;Z. Gajos and Krysta Chauncey. <a href="papers/2017/gajos17personality.pdf">The Influence of Personality Traits and Cognitive Load on the Use of Adaptive User Interfaces</a>. In <EM>Proceedings of ACM IUI'17</EM>, 2017. 
+<br/><span class="paperdetails">[<a href="papers/2017/gajos17personality.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+</blockquote>
+</div>
+
+<div class="content">
+	<a name="huber17effect"></a>
+<h3>The data set used in the CHI 2017 paper "The effect of performance feedback on social media sharing at volunteer-based online experiment platforms"</h3>
+<p><a href="resources/huber17effect/litw_engagement_data.csv">Data set as a CSV file.</a></p>
+
+<p>
+	Self-conception was measured as a response to the question "Compared to your family and friends, how good are you at reading people's emotions?" on a 5-point Likert scale:
+	<ul>
+		<li>1 - much worse</li>
+		<li>2 - slightly worse</li>
+		<li>3 - about the same</li>
+		<li>4 - slightly better</li>
+		<li>5 - much better</li>
+	</ul>
+	The question was optional.
+</p>
+
+<blockquote>
+<P class="paper" id='xhuber17:effectx'>Bernd Huber, Katharina Reinecke, and Krzysztof&nbsp;Z. Gajos. <a href="papers/2017/huber17effect.pdf">The Effect of Performance Feedback on Social Media Sharing at Volunteer-Based Online Experiment Platforms</a>. In <EM>Proceedings of CHI'17</EM>, 2017. To apear.
+<br/><span class="paperdetails">[<a href="papers/2017/huber17effect.shtml">Abstract, BibTeX, Data,  etc.</a>]</span></P>
+</blockquote>
+</div>
+
+<div class="content">
+<h3><a href="resources/aesthetics-chi14/">The data sets, R script, results and web site stimuli for "Quantifying Visual Preferences Around the World"</a></h3>
+<p>
+	We provide the data sets, R script, results and web site stimuli for the following paper:
+</p>
+
+<blockquote>
+	<P class="paper" id='xreinecke14:visualx'>Katharina Reinecke and Krzysztof&nbsp;Z. Gajos. <a href="papers/2014/reinecke14visual.pdf">Quantifying Visual Preferences Around the World</a>. In <EM>Proceedings of CHI 2014</EM>, 2014.
+	<br/>
+	<span class="paperdetails">[<a href="papers/2014/reinecke14visual.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+</blockquote>
+</div>
+
+<div class="content">
+<h3><a href="resources/aesthetics-chi13/">Model Parameters and Code for "Predicting Users' First Impressions of Website Aesthetics With a Quantification of Perceived Visual Complexity and Colorfulness"</a></h3>
+<p>We provide the parameters of the model linking colorfulness, visual complexity, and the first impressions of visual appeal.  We also share the code for computing the features related to the visual appearance of web sites. See the following paper for more details:</p>
+
+<blockquote>
+	<P class="paper" id='xreinecke13:predictingx'>Katharina Reinecke, Tom Yeh, Luke Miratrix, Yuechen Zhao, Mardiko Rahmatri, Jenny Liu, and Krzysztof&nbsp;Z. Gajos. <a href="papers/2013/reinecke13aesthetics.pdf">Predicting Users' First Impressions of Website Aesthetics With a Quantification of Perceived Visual Complexity and Colorfulness</a>. In <EM>Proceedings of CHI '13</EM>, 2013. 
+	<br/><span class="paperdetails">[<a href="papers/2013/reinecke13predicting.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+</blockquote>
+</div>
+
+<div class="content">
+<h3>Crowdsourcing Performance Evaluations of User Interfaces</h3>
+<p> We provide performance data collected in lab and on Mechanical Turk for our recreation of the following three experiments: Split Interface, Split Menus, and Bubble Cursor. All the data is contained in a <a href="resources/performance-chi13/performance.csv"> single csv file.</a>  </p>
+
+<p> We also outline our recommended experiment flow for online experiments in <a href="resources/performance-chi13/flow.pdf"> a single pdf file</a>.</p>
+
+<blockquote>
+	<P class="paper" id='komarov13:crowdsourcing'>Steven Komarov, Katharina Reinecke, and Krzysztof&nbsp;Z. Gajos. <a href="papers/2013/komarov13crowdsourcing.pdf">Crowdsourcing Performance Evaluations of User Interfaces</a>. In <EM>Proceedings of CHI '13</EM>, 2013. 
+	<br/><span class="paperdetails">[<a href="papers/2013/komarov13crowdsourcing.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+</blockquote>
+</div>
+
+<div class="content">
+<h3><a href="resources/doodle/">Data for the "Doodle
+  Around the World" paper</a></h3>
+<p>The parsed data set contains information about the Doodle
+  scheduling behavior of 211 countries, and covers all analyses in the
+  paper. Note that this data set was derived from raw Doodle date/time
+  polls selected at random from a time period in mid-2011 and an
+  additional time period in early 2012. See the following paper for more details:</p>
+
+<blockquote><P class="paper" id='xreinecke13:doodlex'>Katharina Reinecke, Minh&nbsp;Khoa Nguyen, Abraham Bernstein, Michael Naf, and Krzysztof&nbsp;Z. Gajos. <a href="papers/2013/reinecke13doodle.pdf">Doodle Around the World: Online Scheduling Behavior Reflects Cultural Differences in Time Perception and Group Decision-Making</a>. In <EM>Proceedings of CSCW'13</EM>, New York, NY, USA, 2013. ACM. 
+<br/><span class="paperdetails">[<a href="papers/2013/reinecke13doodle.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+</blockquote>
+</div>
+
+<div class="content">
+<h3><a href="resources/MovementClassifier/">Code and Data for the Movement Classifier &gt;&gt;</a></h3>
+<p>This classifier discriminates between deliberate, targeted pointing movements, and those movements that were affected by distraction, visual search, demanding cognitive task, or any other extraneous factor.  See the following paper for more details:</p>
+
+<blockquote><P class="paper" id='xgajos12:accuratex'>Krzysztof Gajos, Katharina Reinecke, and Charles Herrmann. <a href="papers/2012/gajos12-accurateMeasurements.pdf">Accurate measurements of pointing performance from in situ observations</a>. In <EM>Proceedings of the 2012 ACM annual conference on Human Factors in Computing Systems</EM>, CHI '12, pages 3157-3166, New York, NY, USA, 2012. ACM.
+<br/><span class="paperdetails">[<a href="papers/2012/gajos12accurate.shtml">Abstract, BibTeX, Authorizer, Data and Source Code,  etc.</a>]</span></P></blockquote>
+</div>
+
+
+<div class="content">
+<h3><a href="resources/PlateMate/">PlateMate: Data set used to evaluate the accuracy of PlateMate estimates</a></h3>
+
+<p>
+This data set includes 16 out of 18 images used in the evaluation of the accuracy of PlateMate.
+</p>
+
+<blockquote>
+<P class="paper" id='xnoronha11:platematex'>Jon Noronha, Eric Hysen, Haoqi Zhang, and Krzysztof&nbsp;Z. Gajos. <a href="papers/2011/noronha-platemate-uist11.pdf">PlateMate: Crowdsourcing Nutrition Analysis from Food Photographs</a>. In <EM>Proceedings of the 24th annual ACM symposium on User interface software and technology</EM>, UIST '11, pages 1-12, New York, NY, USA, 2011. ACM.
+
+<br/><span class="paperdetails">[<a href="papers/2011/noronha11platemate.shtml">Abstract, BibTeX, Authorizer,  etc.</a>]</span></P>
+</blockquote>
+</div>
+
+
+<div class="content">This page was last modified on <!--#config timefmt="%B %d, %Y" --> <!--#echo var="LAST_MODIFIED" -->.</div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../common-footer.html" --> 
+
+</body>
+</html>

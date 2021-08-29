@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Predicting users' first impressions of website aesthetics with a quantification of perceived visual complexity and colorfulness</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Predicting users' first impressions of website aesthetics with a quantification of perceived visual complexity and colorfulness">
+<meta property="og:description" content="Users make lasting judgments about a website's appeal within a split second of seeing it for the first time. This first impression is influential enough to later affect their opinions of a site's usability and trustworthiness. In this paper, we demonstrate a means to predict the initial impression of aesthetics based on perceptual models of a website's colorfulness and visual complexity. In an online study, we collected ratings of colorfulness, visual complexity, and visual appeal of a set of 450 websites from 548 volunteers. Based on these data, we developed computational models that accurately measure the perceived visual complexity and colorfulness of website screenshots. In combination with demographic variables such as a user's education level and age, these models explain approximately half of the variance in the ratings of aesthetic appeal given after viewing a website for 500ms only.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Predicting users' first impressions of website aesthetics with a quantification of perceived visual complexity and colorfulness</h1>
+<h2 class="head">Katharina Reinecke, Tom Yeh, Luke Miratrix, Rahmatri Mardiko, Yuechen Zhao, Jenny Liu, and Krzysztof&nbsp;Z. Gajos</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Users make lasting judgments about a website's appeal within a split second of seeing it for the first time. This first impression is influential enough to later affect their opinions of a site's usability and trustworthiness. In this paper, we demonstrate a means to predict the initial impression of aesthetics based on perceptual models of a website's colorfulness and visual complexity. In an online study, we collected ratings of colorfulness, visual complexity, and visual appeal of a set of 450 websites from 548 volunteers. Based on these data, we developed computational models that accurately measure the perceived visual complexity and colorfulness of website screenshots. In combination with demographic variables such as a user's education level and age, these models explain approximately half of the variance in the ratings of aesthetic appeal given after viewing a website for 500ms only.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2013/reinecke13aesthetics.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="http://dl.acm.org/citation.cfm?doid=2470654.2481281">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+<h3>Additional Resources</h3>
+<div class="content">
+<a href="http://iis.seas.harvard.edu/resources/aesthetics-chi13/">Data</a>
+</div>
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Katharina Reinecke, Tom Yeh, Luke Miratrix, Rahmatri Mardiko, Yuechen Zhao, Jenny Liu, and Krzysztof&nbsp;Z. Gajos. Predicting users' first impressions of website aesthetics with a quantification of perceived visual complexity and colorfulness. In <EM>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</EM>, CHI '13, pages 2049&ndash;2058, New York, NY, USA, 2013. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: reinecke13:predicting','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: reinecke13:predicting</TITLE></HEAD><BODY><PRE>@inproceedings{reinecke13:predicting,\n  author = {Reinecke, Katharina and Yeh, Tom and Miratrix, Luke and Mardiko, Rahmatri and Zhao, Yuechen and Liu, Jenny and Gajos, Krzysztof Z.},\n  title = {Predicting users\' first impressions of website aesthetics with a quantification of perceived visual complexity and colorfulness},\n  booktitle = {Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},\n  series = {CHI \'13},\n  year = {2013},\n  isbn = {978-1-4503-1899-0},\n  location = {Paris, France},\n  pages = {2049--2058},\n  numpages = {10},\n    doi = {10.1145/2470654.2481281},\n  acmid = {2481281},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  abstract = {Users make lasting judgments about a website\'s appeal within a split second of seeing it for the first time. This first impression is influential enough to later affect their opinions of a site\'s usability and trustworthiness. In this paper, we demonstrate a means to predict the initial impression of aesthetics based on perceptual models of a website\'s colorfulness and visual complexity. In an online study, we collected ratings of colorfulness, visual complexity, and visual appeal of a set of 450 websites from 548 volunteers. Based on these data, we developed computational models that accurately measure the perceived visual complexity and colorfulness of website screenshots. In combination with demographic variables such as a user\'s education level and age, these models explain approximately half of the variance in the ratings of aesthetic appeal given after viewing a website for 500ms only.},\n      award = {Honorable Mention},\n      }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

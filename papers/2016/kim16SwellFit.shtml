@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>SwellFit: a Wearable Sensor for Patients with Congestive Heart Failure</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="SwellFit: a Wearable Sensor for Patients with Congestive Heart Failure">
+<meta property="og:description" content="Congestive heart failure (CHF) is the most common reason for hospitalization in people aged 65 years and older in the United States. Especially, a very high rate of unplanned readmissions within 30 days of discharge due to CHF occurs a heavy associated financial burden and degraded quality of care. To effectively prevent CHF readmission and improve overall care, this paper proposes SwellFit, a novel wearable sensor that helps outpatients to proactively monitor a physical symptom of worsening CHF, ankle swelling. Using a flex sensor, SwellFit monitors changes in ankle curvature as an indication of swelling. A pilot test with 4 adults showed that SwellFit successfully distinguish noise data and motion artifacts from ankle swelling. Collaborating with cardiac experts, we are currently planning to test SwellFit with hospitalized CHF patients who have swelling conditions to demonstrate the feasibility and reliability of SwellFit on detecting swelling from ankle curvature.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">SwellFit: a Wearable Sensor for Patients with Congestive Heart Failure</h1>
+<h2 class="head">Sunyoung Kim, Yasha Iravantchi, Krzysztof&nbsp;Z. Gajos, and Barbara Grosz</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Congestive heart failure (CHF) is the most common reason for hospitalization in people aged 65 years and older in the United States. Especially, a very high rate of unplanned readmissions within 30 days of discharge due to CHF occurs a heavy associated financial burden and degraded quality of care. To effectively prevent CHF readmission and improve overall care, this paper proposes SwellFit, a novel wearable sensor that helps outpatients to proactively monitor a physical symptom of worsening CHF, ankle swelling. Using a flex sensor, SwellFit monitors changes in ankle curvature as an indication of swelling. A pilot test with 4 adults showed that SwellFit successfully distinguish noise data and motion artifacts from ankle swelling. Collaborating with cardiac experts, we are currently planning to test SwellFit with hospitalized CHF patients who have swelling conditions to demonstrate the feasibility and reliability of SwellFit on detecting swelling from ankle curvature.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2016/skim16swellfit.pdf">Authors' version (pdf)</a></li>
+
+
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Sunyoung Kim, Yasha Iravantchi, Krzysztof&nbsp;Z. Gajos, and Barbara Grosz. Swellfit: a wearable sensor for patients with congestive heart failure. In <EM>Proceedings of the Workshop on Interactive Systems in Healthcare (WISH) 2016</EM>, 2016.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: kim16:SwellFit','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: kim16:SwellFit</TITLE></HEAD><BODY><PRE>@inproceedings{kim16:SwellFit,\n  author = {Sunyoung Kim and Yasha Iravantchi and Krzysztof Z. Gajos and Barbara Grosz},\n  title = {SwellFit: a Wearable Sensor for Patients with Congestive Heart Failure},\n  booktitle = {Proceedings of the Workshop on Interactive Systems in Healthcare (WISH) 2016},\n  year = {2016},\n  abstract = {Congestive heart failure (CHF) is the most common reason for hospitalization in people aged 65 years and older in the United States. Especially, a very high rate of unplanned readmissions within 30 days of discharge due to CHF occurs a heavy associated financial burden and degraded quality of care. To effectively prevent CHF readmission and improve overall care, this paper proposes SwellFit, a novel wearable sensor that helps outpatients to proactively monitor a physical symptom of worsening CHF, ankle swelling. Using a flex sensor, SwellFit monitors changes in ankle curvature as an indication of swelling. A pilot test with 4 adults showed that SwellFit successfully distinguish noise data and motion artifacts from ankle swelling. Collaborating with cardiac experts, we are currently planning to test SwellFit with hospitalized CHF patients who have swelling conditions to demonstrate the feasibility and reliability of SwellFit on detecting swelling from ankle curvature.},\n    }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

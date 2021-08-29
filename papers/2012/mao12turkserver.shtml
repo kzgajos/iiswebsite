@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>TurkServer: Enabling Synchronous and Longitudinal Online Experiments</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="TurkServer: Enabling Synchronous and Longitudinal Online Experiments">
+<meta property="og:description" content="With the proliferation of online labor markets and other social computing platforms, online experiments have become a low-cost and scalable way to empirically test hypotheses and mechanisms in both human computation and social science. Yet, despite the potential in designing more powerful and expressive on-line experiments using multiple subjects, researchers still face many technical and logistical difficulties. We see synchronous and longitudinal experiments involving real-time interaction between participants as a dual-use paradigm for both human computation and social science, and present TurkServer, a platform that facilitates these types of experiments on Amazon Mechanical Turk. Our work has the potential to make more fruitful online experiments accessible to researchers in many different fields.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">TurkServer: Enabling Synchronous and Longitudinal Online Experiments</h1>
+<h2 class="head">A.&nbsp;Mao, Y.&nbsp;Chen, K.Z. Gajos, D.C. Parkes, A.D. Procaccia, and H.&nbsp;Zhang</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+With the proliferation of online labor markets and other social computing platforms, online experiments have become a low-cost and scalable way to empirically test hypotheses and mechanisms in both human computation and social science. Yet, despite the potential in designing more powerful and expressive on-line experiments using multiple subjects, researchers still face many technical and logistical difficulties. We see synchronous and longitudinal experiments involving real-time interaction between participants as a dual-use paradigm for both human computation and social science, and present TurkServer, a platform that facilitates these types of experiments on Amazon Mechanical Turk. Our work has the potential to make more fruitful online experiments accessible to researchers in many different fields.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2012/mao12-turkserver.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="http://www.aaai.org/ocs/index.php/WS/AAAIW12/paper/view/5315">Publisher's version
+
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>A.&nbsp;Mao, Y.&nbsp;Chen, K.Z. Gajos, D.C. Parkes, A.D. Procaccia, and H.&nbsp;Zhang. Turkserver: Enabling synchronous and longitudinal online experiments. In <EM>Proceedings of HCOMP'12</EM>, 2012.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: mao12:turkserver','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: mao12:turkserver</TITLE></HEAD><BODY><PRE>@inproceedings{mao12:turkserver,\n  title = {TurkServer: Enabling Synchronous and Longitudinal Online Experiments},\n  author = {Mao, A. and Chen, Y. and Gajos, K.Z. and Parkes, D.C. and Procaccia, A.D. and Zhang, H.},\n  booktitle = {Proceedings of HCOMP\'12},\n  year = {2012},\n  abstract = {With the proliferation of online labor markets and other social computing platforms, online experiments have become a low-cost and scalable way to empirically test hypotheses and mechanisms in both human computation and social science. Yet, despite the potential in designing more powerful and expressive on-line experiments using multiple subjects, researchers still face many technical and logistical difficulties. We see synchronous and longitudinal experiments involving real-time interaction between participants as a dual-use paradigm for both human computation and social science, and present TurkServer, a platform that facilitates these types of experiments on Amazon Mechanical Turk. Our work has the potential to make more fruitful online experiments accessible to researchers in many different fields.},\n      }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../common-head.html" --> 
+<style type="text/css">
+a#n-papers { 
+<!--#include virtual="../common-active-style.html" --> 
+}
+</style>
+
+<title>Intelligent Interactive Systems Group -- Papers</title>
+</head>
+
+
+<body>
+
+<!--#include virtual="../common-top.html" --> 
+
+<h1 class="head">Intelligent Interactive Systems Group at Harvard</h1>
+<h2 class="head">Papers</h2>
+
+<!--#include virtual="../common-nav.html" --> 
+
+
+
+
+
+<div class="content">
+
+<!-- yab instructions: -->
+bibfile iis.bib -o index.shtml -d
+
+
+
+
+
+<h4>Older...</h4>
+For older papers see <a href="http://www.eecs.harvard.edu/~kgajos/papers/" class="external">Krzysztof's web page</a>.
+
+</div>
+
+<div class="content">This page was last modified on <!--#config timefmt="%B %d, %Y" --> <!--#echo var="LAST_MODIFIED" -->.</div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../common-footer.html" --> 
+
+</body>
+</html>

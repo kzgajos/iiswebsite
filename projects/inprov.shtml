@@ -1,0 +1,16 @@
+<a name="inprov"></a>
+<h4 class="ptitle">InProv: a Filesystem Provenance Visualization Tool</h4>
+<p>
+<img class="thumbleft" src="http://iis.seas.harvard.edu/projects/images/InProv-400.png" alt="" width="200"
+align="left"/>
+
+ InProv is a filesystem provenance visualization tool, which displays provenance data with an interactive radial-based tree layout. The tool also utilizes a new time-based hierarchical node grouping method for filesystem provenance data we developed to match the user's mental model and make data exploration more intuitive.  In an experiment comparing InProv to a visualization based on the node-link representation, participants using InProv made more accurate assessments of provenance and found InProv to require  less mental effort, less physical activity, less work, and to be less stressful to use.  
+</p>
+
+<div class="ppapers">
+<P class="paper" id='xborkin13:evaluationx'>Michelle&nbsp;A Borkin, Chelsea&nbsp;S Yeh, Madelaine Boyd, Peter Macko, KZ&nbsp;Gajos, M&nbsp;Seltzer, and H&nbsp;Pfister. <a href="papers/2013/borkin13inprov.pdf">Evaluation of filesystem provenance visualization tools</a>. <EM>IEEE transactions on visualization and computer graphics</EM>, 19(12):2476-2485, 2013.
+
+<br/><span class="paperdetails">[<a href="papers/2013/borkin13evaluation.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+</div>
+
+<br clear="all" />

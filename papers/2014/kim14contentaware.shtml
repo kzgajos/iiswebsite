@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Content-aware Kinetic Scrolling for Supporting Web Page Navigation</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Content-aware Kinetic Scrolling for Supporting Web Page Navigation">
+<meta property="og:description" content="Long documents are abundant on the web today, and are accessed in increasing numbers from touchscreen devices such as mobile phones and tablets. Navigating long documents with small screens can be challenging both physically and cognitively because they compel the user to scroll a great deal and to mentally filter for important content. To support navigation of long documents on touchscreen devices, we introduce content-aware kinetic scrolling, a novel scrolling technique that dynamically applies pseudo-haptic feedback in the form of friction around points of high interest within the page. This allows users to quickly find interesting content while exploring without further cluttering the limited visual space. To model degrees of interest (DOI) for a variety of existing web pages, we introduce social wear, a method for capturing DOI based on social signals that indicate collective user interest. Our preliminary evaluation shows that users pay attention to items with kinetic scrolling feedback during search, recognition, and skimming tasks.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Content-aware Kinetic Scrolling for Supporting Web Page Navigation</h1>
+<h2 class="head">Juho Kim, Amy&nbsp;X. Zhang, Jihee Kim, Robert&nbsp;C. Miller, and Krzysztof&nbsp;Z. Gajos</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Long documents are abundant on the web today, and are accessed in increasing numbers from touchscreen devices such as mobile phones and tablets. Navigating long documents with small screens can be challenging both physically and cognitively because they compel the user to scroll a great deal and to mentally filter for important content. To support navigation of long documents on touchscreen devices, we introduce content-aware kinetic scrolling, a novel scrolling technique that dynamically applies pseudo-haptic feedback in the form of friction around points of high interest within the page. This allows users to quickly find interesting content while exploring without further cluttering the limited visual space. To model degrees of interest (DOI) for a variety of existing web pages, we introduce social wear, a method for capturing DOI based on social signals that indicate collective user interest. Our preliminary evaluation shows that users pay attention to items with kinetic scrolling feedback during search, recognition, and skimming tasks.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2014/kim-uist14-caks.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="http://dx.doi.org/10.1145/2642918.2647401">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+<h3>Video</h3>
+<div class="content">
+<div class="video" style="float: right; margin-left: 15px; margin-bottom: 10px;">
+{<iframe width="560" height="315" src="//www.youtube.com/embed/MZXsrl3csQs?rel=0" frameborder="0" allowfullscreen></iframe>}
+</div>
+<br clear="all"/>
+</div>
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Juho Kim, Amy&nbsp;X. Zhang, Jihee Kim, Robert&nbsp;C. Miller, and Krzysztof&nbsp;Z. Gajos. Content-aware kinetic scrolling for supporting web page navigation. In <EM>Proceedings of the 27th Annual ACM Symposium on User Interface Software and Technology</EM>, UIST '14, pages 123&ndash;127, New York, NY, USA, 2014. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: kim14:contentaware','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: kim14:contentaware</TITLE></HEAD><BODY><PRE>@inproceedings{kim14:contentaware,\n  author = {Kim, Juho and Zhang, Amy X. and Kim, Jihee and Miller, Robert C. and Gajos, Krzysztof Z.},\n  title = {Content-aware Kinetic Scrolling for Supporting Web Page Navigation},\n  booktitle = {Proceedings of the 27th Annual ACM Symposium on User Interface Software and Technology},\n  series = {UIST \'14},\n  year = {2014},\n  isbn = {978-1-4503-3069-5},\n  location = {Honolulu, Hawaii, USA},\n  pages = {123--127},\n  numpages = {5},\n    doi = {10.1145/2642918.2647401},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  abstract = {Long documents are abundant on the web today, and are accessed in increasing numbers from touchscreen devices such as mobile phones and tablets. Navigating long documents with small screens can be challenging both physically and cognitively because they compel the user to scroll a great deal and to mentally filter for important content. To support navigation of long documents on touchscreen devices, we introduce content-aware kinetic scrolling, a novel scrolling technique that dynamically applies pseudo-haptic feedback in the form of friction around points of high interest within the page. This allows users to quickly find interesting content while exploring without further cluttering the limited visual space. To model degrees of interest (DOI) for a variety of existing web pages, we introduce social wear, a method for capturing DOI based on social signals that indicate collective user interest. Our preliminary evaluation shows that users pay attention to items with kinetic scrolling feedback during search, recognition, and skimming tasks.},\n        }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

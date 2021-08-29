@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Active Learning of Intuitive Control Knobs for Synthesizers Using Gaussian Processes</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Active Learning of Intuitive Control Knobs for Synthesizers Using Gaussian Processes">
+<meta property="og:description" content="<p>Typical synthesizers only provide controls to the low-level parameters of sound synthesis, such as wave-shapes or filter envelopes. In contrast, composers often want to adjust and express higher-level qualities, such as how ``scary'' or ``steady'' sounds are perceived to be.</p><p>We develop a system which allows users to directly control abstract, high-level qualities of sounds. To do this, our system learns functions that map from synthesizer control settings to perceived levels of high-level qualities. Given these functions, our system can generate high-level knobs that directly adjust sounds to have more or less of those qualities. We model the functions mapping from control-parameters to the degree of each high-level quality using Gaussian processes, a nonparametric Bayesian model. These models can adjust to the complexity of the function being learned, account for nonlinear interaction between control-parameters, and allow us to characterize the uncertainty about the functions being learned.</p><p>By tracking uncertainty about the functions being learned, we can use active learning to quickly calibrate the tool, by querying the user about the sounds the system expects to most improve its performance. We show through simulations that this model-based active learning approach learns high-level knobs on certain classes of target concepts faster than several baselines, and give examples of the resulting automatically-constructed knobs which adjust levels of non-linear, high-level concepts.</p>">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Active Learning of Intuitive Control Knobs for Synthesizers Using Gaussian Processes</h1>
+<h2 class="head">Cheng-Zhi&nbsp;Anna Huang, David Duvenaud, Kenneth&nbsp;C. Arnold, Brenton Partridge, Josiah&nbsp;W. Oberholtzer, and Krzysztof&nbsp;Z. Gajos</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+<p>Typical synthesizers only provide controls to the low-level parameters of sound synthesis, such as wave-shapes or filter envelopes. In contrast, composers often want to adjust and express higher-level qualities, such as how ``scary'' or ``steady'' sounds are perceived to be.</p><p>We develop a system which allows users to directly control abstract, high-level qualities of sounds. To do this, our system learns functions that map from synthesizer control settings to perceived levels of high-level qualities. Given these functions, our system can generate high-level knobs that directly adjust sounds to have more or less of those qualities. We model the functions mapping from control-parameters to the degree of each high-level quality using Gaussian processes, a nonparametric Bayesian model. These models can adjust to the complexity of the function being learned, account for nonlinear interaction between control-parameters, and allow us to characterize the uncertainty about the functions being learned.</p><p>By tracking uncertainty about the functions being learned, we can use active learning to quickly calibrate the tool, by querying the user about the sounds the system expects to most improve its performance. We show through simulations that this model-based active learning approach learns high-level knobs on certain classes of target concepts faster than several baselines, and give examples of the resulting automatically-constructed knobs which adjust levels of non-linear, high-level concepts.</p>
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2014/huang14knobs.pdf">Authors' version (pdf)</a></li>
+
+
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Cheng-Zhi&nbsp;Anna Huang, David Duvenaud, Kenneth&nbsp;C. Arnold, Brenton Partridge, Josiah&nbsp;W. Oberholtzer, and Krzysztof&nbsp;Z. Gajos. Active learning of intuitive control knobs for synthesizers using gaussian processes. In <EM>Proceedings of the 19th International Conference on Intelligent User Interfaces</EM>, IUI '14, pages 115&ndash;124, New York, NY, USA, 2014. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: huang14:active','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: huang14:active</TITLE></HEAD><BODY><PRE>@inproceedings{huang14:active,\n  author = {Huang, Cheng-Zhi Anna and Duvenaud, David and Arnold, Kenneth C. and Partridge, Brenton and Oberholtzer, Josiah W. and Gajos, Krzysztof Z.},\n  title = {Active Learning of Intuitive Control Knobs for Synthesizers Using Gaussian Processes},\n  booktitle = {Proceedings of the 19th International Conference on Intelligent User Interfaces},\n  series = {IUI \'14},\n  year = {2014},\n  isbn = {978-1-4503-2184-6},\n  location = {Haifa, Israel},\n  pages = {115--124},\n  numpages = {10},\n    doi = {10.1145/2557500.2557544},\n  acmid = {2557544},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  abstract = {<p>Typical synthesizers only provide controls to the low-level parameters of sound synthesis, such as wave-shapes or filter envelopes. In contrast, composers often want to adjust and express higher-level qualities, such as how ``scary\'\' or ``steady\'\' sounds are perceived to be.</p><p>We develop a system which allows users to directly control abstract, high-level qualities of sounds. To do this, our system learns functions that map from synthesizer control settings to perceived levels of high-level qualities. Given these functions, our system can generate high-level knobs that directly adjust sounds to have more or less of those qualities. We model the functions mapping from control-parameters to the degree of each high-level quality using Gaussian processes, a nonparametric Bayesian model. These models can adjust to the complexity of the function being learned, account for nonlinear interaction between control-parameters, and allow us to characterize the uncertainty about the functions being learned.</p><p>By tracking uncertainty about the functions being learned, we can use active learning to quickly calibrate the tool, by querying the user about the sounds the system expects to most improve its performance. We show through simulations that this model-based active learning approach learns high-level knobs on certain classes of target concepts faster than several baselines, and give examples of the resulting automatically-constructed knobs which adjust levels of non-linear, high-level concepts.</p>},\n    }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

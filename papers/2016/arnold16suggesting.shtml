@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>On Suggesting Phrases vs. Predicting Words for Mobile Text Composition</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="On Suggesting Phrases vs. Predicting Words for Mobile Text Composition">
+<meta property="og:description" content="A system capable of suggesting multi-word phrases while someone is writing could supply ideas about content and phrasing and allow those ideas to be inserted efficiently. Meanwhile, statistical language modeling has provided various approaches to predicting phrases that users type. We introduce a simple extension to the familiar mobile keyboard suggestion interface that presents phrase suggestions that can be accepted by a repeated-tap gesture. In an extended composition task, we found that phrases were interpreted as suggestions that affected the content of what participants wrote more than conventional single-word suggestions, which were interpreted as predictions. We highlight a design challenge: how can a phrase suggestion system make valuable suggestions rather than just accurate predictions?">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">On Suggesting Phrases vs. Predicting Words for Mobile Text Composition</h1>
+<h2 class="head">Kenneth&nbsp;C. Arnold, Krzysztof&nbsp;Z. Gajos, and Adam&nbsp;T. Kalai</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+A system capable of suggesting multi-word phrases while someone is writing could supply ideas about content and phrasing and allow those ideas to be inserted efficiently. Meanwhile, statistical language modeling has provided various approaches to predicting phrases that users type. We introduce a simple extension to the familiar mobile keyboard suggestion interface that presents phrase suggestions that can be accepted by a repeated-tap gesture. In an extended composition task, we found that phrases were interpreted as suggestions that affected the content of what participants wrote more than conventional single-word suggestions, which were interpreted as predictions. We highlight a design challenge: how can a phrase suggestion system make valuable suggestions rather than just accurate predictions?
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2016/arnold16suggesting.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="http://dx.doi.org/10.1145/2984511.2984584">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Kenneth&nbsp;C. Arnold, Krzysztof&nbsp;Z. Gajos, and Adam&nbsp;T. Kalai. On suggesting phrases vs. predicting words for mobile text composition. In <EM>Proceedings of the 29th Annual Symposium on User Interface Software and Technology</EM>, UIST '16, pages 603&ndash;608, New York, NY, USA, 2016. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: arnold16:suggesting','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: arnold16:suggesting</TITLE></HEAD><BODY><PRE>@inproceedings{arnold16:suggesting,\n  author = {Arnold, Kenneth C. and Gajos, Krzysztof Z. and Kalai, Adam T.},\n  title = {On Suggesting Phrases vs. Predicting Words for Mobile Text Composition},\n  booktitle = {Proceedings of the 29th Annual Symposium on User Interface Software and Technology},\n  series = {UIST \'16},\n  year = {2016},\n  isbn = {978-1-4503-4189-9},\n  location = {Tokyo, Japan},\n  pages = {603--608},\n  numpages = {6},\n    doi = {10.1145/2984511.2984584},\n  acmid = {2984584},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  keywords = {mobile text composition, phrase suggestions},\n  abstract = {A system capable of suggesting multi-word phrases while someone is writing could supply ideas about content and phrasing and allow those ideas to be inserted efficiently. Meanwhile, statistical language modeling has provided various approaches to predicting phrases that users type. We introduce a simple extension to the familiar mobile keyboard suggestion interface that presents phrase suggestions that can be accepted by a repeated-tap gesture. In an extended composition task, we found that phrases were interpreted as suggestions that affected the content of what participants wrote more than conventional single-word suggestions, which were interpreted as predictions. We highlight a design challenge: how can a phrase suggestion system make valuable suggestions rather than just accurate predictions?},\n      }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

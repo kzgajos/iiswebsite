@@ -1,0 +1,17 @@
+edu.harvard.seas.iis.abilities.analysis
+edu.harvard.seas.iis.abilities.classify
+edu.harvard.seas.iis.abilities.classify.webservice
+edu.harvard.seas.iis.util
+edu.harvard.seas.iis.util.collections
+edu.harvard.seas.iis.util.combinatorics
+edu.harvard.seas.iis.util.dsp
+edu.harvard.seas.iis.util.geom2D
+edu.harvard.seas.iis.util.io
+edu.harvard.seas.iis.util.stats
+edu.harvard.seas.iis.util.ui
+edu.harvard.seas.iis.util.xml
+redstone.xmlrpc
+redstone.xmlrpc.handlers
+redstone.xmlrpc.serializers
+redstone.xmlrpc.serializers.json
+redstone.xmlrpc.util

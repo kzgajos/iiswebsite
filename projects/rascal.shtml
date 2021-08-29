@@ -1,0 +1,22 @@
+<a name="rascal"></a>
+<h4 class="ptitle">
+Rascal: A High-Level Resource Manager For Smart Environments</h4>
+
+<p>
+<img class="thumbleft" src="http://www.eecs.harvard.edu/~kgajos/papers/images/rascal-thumb.png" alt="Rascal" width="200"
+height="148" align="left"/> Rascal is a high-level resource management
+system for the Intelligent Room Project, that addresses the problem of
+the numerous applications competing for limited physical resources.
+Rascal performs the service mapping and and uses constrained search
+for arbitration among different requesters.
+</p>
+<div class="ppapers">
+
+<P class="paper" id='xgajos01:designx'>Krzysztof Gajos, Luke Weisman, and Howard Shrobe. <a href="papers/2001/iwsas01.pdf">Design Principles for Resource Management Systems for Intelligent Spaces</a>. In <EM>Self-Adaptive Software: Applications</EM>, volume 2614 of <EM> Lecture Notes in Computer Science</EM>, pages 143-158. Springer, 2001.
+<br/><span class="paperdetails">[<a href="papers/2001/gajos01design.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+<P class="paper" id='xgajos01:rascalx'>Krzysztof Gajos. <a href="papers/2001/ceemas01.pdf">Rascal - A Resource Manager for Multi Agent Systems in Smart Spaces</a>. In <EM>CEEMAS '01: Revised Papers from the Second International Workshop of Central and Eastern Europe on Multi-Agent Systems</EM>, pages 111-120, London, UK, 2001. Springer-Verlag.
+</P>
+
+</div>
+<br clear="all" />

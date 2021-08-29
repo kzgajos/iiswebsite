@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>PETALS: Improving Learning of Expert Skill in Humanitarian Demining</title>
+<meta name="twitter:card" content="summary" />
+<meta property="og:image" content="http://www.eecs.harvard.edu/~kgajos/papers/images/PETALS-600.png">
+<meta property="og:title" content="PETALS: Improving Learning of Expert Skill in Humanitarian Demining">
+<meta property="og:description" content="To become proficient at landmine detection, novice deminers need to master several kinds of skills: the proper physical operation of the metal detector, the interpretation of the metal detector auditory feedback, and the abstract skill of constructing and interpreting mental representations of the "metallic signatures" produced by the buried objects. This last skill is particularly useful for safely dealing with mines laid out in cluster configurations, where their metallic signatures overlap and thus a danger exists that a deminer might either miss some of the mines or incorrectly assess their exact positions. However, some novice deminers find it challenging to learn how to properly reason about metallic signatures. We have developed PETALS, a system that explicitly visualizes a trainee's metal detector operation history on a training task as well as the edge points of the metallic signatures that the trainee collected. PETALS enables instructors to supervise multiple trainees at a time, to assess their performance at a glance, and to provide immediate and specific feedback both on the correctness of their final judgements about the number and positions of landmines, and on the process through which they arrived at their conclusions. The results of our field evaluations at the Humanitarian Demining Training Center showed that both the instructors and the trainees found the system a valuable addition to the training course. The results of a controlled study demonstrated that trainees who had access to PETALS during training made significantly fewer errors (6% error rate) on relevant tasks during the final exam (which was conducted without PETALS) than trainees who did not have access to PETALS during training (those participants had a 21% error rate).">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">PETALS: Improving Learning of Expert Skill in Humanitarian Demining</h1>
+<h2 class="head">Lahiru Jayatilaka, David&nbsp;M. Sengeh, Charles Herrmann, Luca Bertuccelli, Dimitrios Antos, Barbara&nbsp;J. Grosz, and Krzysztof&nbsp;Z. Gajos</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+<img style="margin-left: 15px; margin-bottom: 10px; max-width: 300px" align="right" alt="" src="http://www.eecs.harvard.edu/~kgajos/papers/images/PETALS-600.png"/>
+To become proficient at landmine detection, novice deminers need to master several kinds of skills: the proper physical operation of the metal detector, the interpretation of the metal detector auditory feedback, and the abstract skill of constructing and interpreting mental representations of the "metallic signatures" produced by the buried objects. This last skill is particularly useful for safely dealing with mines laid out in cluster configurations, where their metallic signatures overlap and thus a danger exists that a deminer might either miss some of the mines or incorrectly assess their exact positions. However, some novice deminers find it challenging to learn how to properly reason about metallic signatures. We have developed PETALS, a system that explicitly visualizes a trainee's metal detector operation history on a training task as well as the edge points of the metallic signatures that the trainee collected. PETALS enables instructors to supervise multiple trainees at a time, to assess their performance at a glance, and to provide immediate and specific feedback both on the correctness of their final judgements about the number and positions of landmines, and on the process through which they arrived at their conclusions. The results of our field evaluations at the Humanitarian Demining Training Center showed that both the instructors and the trainees found the system a valuable addition to the training course. The results of a controlled study demonstrated that trainees who had access to PETALS during training made significantly fewer errors (6% error rate) on relevant tasks during the final exam (which was conducted without PETALS) than trainees who did not have access to PETALS during training (those participants had a 21% error rate).
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2018/jayatilaka18petals.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="http://doi.acm.org/10.1145/3209811.3209871">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+<h3>Slides</h3>
+<div class="content">
+Original format:
+<ul>
+<li><a href="papers/2018/jayatilaka18petals-slides.key.zip">Apple Keynote</a></li>
+
+</ul>
+
+Other formats (automatically converted, may look different from the original presentation):
+<ul>
+<li><a href="papers/2018/jayatilaka18petals-slides.pdf">PDF</a></li>
+
+</ul>
+
+</div>
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Lahiru Jayatilaka, David&nbsp;M. Sengeh, Charles Herrmann, Luca Bertuccelli, Dimitrios Antos, Barbara&nbsp;J. Grosz, and Krzysztof&nbsp;Z. Gajos. Petals: Improving learning of expert skill in humanitarian demining. In <EM>Proceedings of the 1st ACM SIGCAS Conference on Computing and Sustainable Societies</EM>, COMPASS '18, pages 33:1&ndash;33:11, New York, NY, USA, 2018. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: jayatilaka18:petals','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: jayatilaka18:petals</TITLE></HEAD><BODY><PRE>@inproceedings{jayatilaka18:petals,\n  author = {Jayatilaka, Lahiru and Sengeh, David M. and Herrmann, Charles and Bertuccelli, Luca and Antos, Dimitrios and Grosz, Barbara J. and Gajos, Krzysztof Z.},\n  title = {PETALS: Improving Learning of Expert Skill in Humanitarian Demining},\n  booktitle = {Proceedings of the 1st ACM SIGCAS Conference on Computing and Sustainable Societies},\n  series = {COMPASS \'18},\n  year = {2018},\n  isbn = {978-1-4503-5816-3},\n  location = {Menlo Park and San Jose, CA, USA},\n  pages = {33:1--33:11},\n  articleno = {33},\n  numpages = {11},\n    doi = {10.1145/3209811.3209871},\n  acmid = {3209871},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  keywords = {demining, explosives detection, training systems},\n  abstract = {To become proficient at landmine detection, novice deminers need to master several kinds of skills: the proper physical operation of the metal detector, the interpretation of the metal detector auditory feedback, and the abstract skill of constructing and interpreting mental representations of the \042metallic signatures\042 produced by the buried objects. This last skill is particularly useful for safely dealing with mines laid out in cluster configurations, where their metallic signatures overlap and thus a danger exists that a deminer might either miss some of the mines or incorrectly assess their exact positions. However, some novice deminers find it challenging to learn how to properly reason about metallic signatures. We have developed PETALS, a system that explicitly visualizes a trainee\'s metal detector operation history on a training task as well as the edge points of the metallic signatures that the trainee collected. PETALS enables instructors to supervise multiple trainees at a time, to assess their performance at a glance, and to provide immediate and specific feedback both on the correctness of their final judgements about the number and positions of landmines, and on the process through which they arrived at their conclusions. The results of our field evaluations at the Humanitarian Demining Training Center showed that both the instructors and the trainees found the system a valuable addition to the training course. The results of a controlled study demonstrated that trainees who had access to PETALS during training made significantly fewer errors (6% error rate) on relevant tasks during the final exam (which was conducted without PETALS) than trainees who did not have access to PETALS during training (those participants had a 21% error rate).},\n              award = {Best Paper Award},\n}\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

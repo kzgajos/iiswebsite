@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Improving Data Scientist Efficiency with Provenance</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Improving Data Scientist Efficiency with Provenance">
+<meta property="og:description" content="Data scientists frequently analyze data by writing scripts. We conducted a contextual inquiry with interdisciplinary researchers, which revealed that parameter tuning is a highly iterative process and that debugging is time-consuming. As analysis scripts evolve and become more complex, analysts have difficulty conceptualizing their workflow. In particular, after editing a script, it becomes difficult to determine precisely which code blocks depend on the edit. Consequently, scientists frequently re-run entire scripts instead of re-running only the necessary parts. We present ProvBuild, a tool that leverages language-level provenance to streamline the debugging process by reducing programmer cognitive load and decreasing subsequent runtimes, leading to an overall reduction in elapsed debugging time. ProvBuild uses provenance to track dependencies in a script. When an analyst debugs a script, ProvBuild generates a simplifed script that contains only the information necessary to debug a particular problem. We demonstrate that debugging the simplified script lowers a programmer's cognitive load and permits faster re-execution when testing changes. The combination of reduced cognitive load and shorter runtime reduces the time necessary to debug a script. We quantitatively and qualitatively show that even though ProvBuild introduces overhead during a script's first execution, it is a more efficient way for users to debug and tune complex workflows. ProvBuild demonstrates a novel use of language-level provenance, in which it is used to proactively improve programmer productively rather than merely providing a way to retroactively gain insight into a body of code.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Improving Data Scientist Efficiency with Provenance</h1>
+<h2 class="head">Jingmei Hu, Jiwon Joung, Maia Jacobs, Krzysztof&nbsp;Z. Gajos, and Margo&nbsp;I. Seltzer</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Data scientists frequently analyze data by writing scripts. We conducted a contextual inquiry with interdisciplinary researchers, which revealed that parameter tuning is a highly iterative process and that debugging is time-consuming. As analysis scripts evolve and become more complex, analysts have difficulty conceptualizing their workflow. In particular, after editing a script, it becomes difficult to determine precisely which code blocks depend on the edit. Consequently, scientists frequently re-run entire scripts instead of re-running only the necessary parts. We present ProvBuild, a tool that leverages language-level provenance to streamline the debugging process by reducing programmer cognitive load and decreasing subsequent runtimes, leading to an overall reduction in elapsed debugging time. ProvBuild uses provenance to track dependencies in a script. When an analyst debugs a script, ProvBuild generates a simplifed script that contains only the information necessary to debug a particular problem. We demonstrate that debugging the simplified script lowers a programmer's cognitive load and permits faster re-execution when testing changes. The combination of reduced cognitive load and shorter runtime reduces the time necessary to debug a script. We quantitatively and qualitatively show that even though ProvBuild introduces overhead during a script's first execution, it is a more efficient way for users to debug and tune complex workflows. ProvBuild demonstrates a novel use of language-level provenance, in which it is used to proactively improve programmer productively rather than merely providing a way to retroactively gain insight into a body of code.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2020/hu20improving.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="https://doi.org/10.1145/3377811.3380366">Publisher's version
+ (Association for Computing Machinery)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Jingmei Hu, Jiwon Joung, Maia Jacobs, Krzysztof&nbsp;Z. Gajos, and Margo&nbsp;I. Seltzer. Improving data scientist efficiency with provenance. In <EM>Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering</EM>, ICSE '20, pages 1086&ndash;1097, New York, NY, USA, 2020. Association for Computing Machinery.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: hu20:improving','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: hu20:improving</TITLE></HEAD><BODY><PRE>@inproceedings{hu20:improving,\n  author = {Hu, Jingmei and Joung, Jiwon and Jacobs, Maia and Gajos, Krzysztof Z. and Seltzer, Margo I.},\n  title = {Improving Data Scientist Efficiency with Provenance},\n  year = {2020},\n  isbn = {9781450371216},\n  publisher = {Association for Computing Machinery},\n  address = {New York, NY, USA},\n    doi = {10.1145/3377811.3380366},\n  abstract = {Data scientists frequently analyze data by writing scripts. We conducted a contextual inquiry with interdisciplinary researchers, which revealed that parameter tuning is a highly iterative process and that debugging is time-consuming. As analysis scripts evolve and become more complex, analysts have difficulty conceptualizing their workflow. In particular, after editing a script, it becomes difficult to determine precisely which code blocks depend on the edit. Consequently, scientists frequently re-run entire scripts instead of re-running only the necessary parts. We present ProvBuild, a tool that leverages language-level provenance to streamline the debugging process by reducing programmer cognitive load and decreasing subsequent runtimes, leading to an overall reduction in elapsed debugging time. ProvBuild uses provenance to track dependencies in a script. When an analyst debugs a script, ProvBuild generates a simplifed script that contains only the information necessary to debug a particular problem. We demonstrate that debugging the simplified script lowers a programmer\'s cognitive load and permits faster re-execution when testing changes. The combination of reduced cognitive load and shorter runtime reduces the time necessary to debug a script. We quantitatively and qualitatively show that even though ProvBuild introduces overhead during a script\'s first execution, it is a more efficient way for users to debug and tune complex workflows. ProvBuild demonstrates a novel use of language-level provenance, in which it is used to proactively improve programmer productively rather than merely providing a way to retroactively gain insight into a body of code.},\n  booktitle = {Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering},\n  pages = {1086--1097},\n  numpages = {12},\n  keywords = {data analysis, provenance, incremental execution, dependency tracking},\n  location = {Seoul, South Korea},\n  series = {ICSE \'20},\n      }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

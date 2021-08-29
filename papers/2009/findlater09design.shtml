@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Design Space and Evaluation Challenges of Adaptive Graphical User Interfaces</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Design Space and Evaluation Challenges of Adaptive Graphical User Interfaces">
+<meta property="og:description" content="Adaptive graphical user interfaces (GUIs) have the potential to improve performance and user satisfaction by automatically tailoring the presentation of functionality to each individual user. In practice, however, many challenges exist, and evaluation results of adaptive GUIs have been mixed. To guide researchers and designers in developing effective adaptive GUIs, we outline a design space and discuss three important aspects to consider when conducting user evaluations of these types of interfaces: the control and reporting of adaptive algorithm characteristics, the impact of task choice and user characteristics on the overall effectiveness of a design, and evaluation measures that are appropriate for adaptive interaction.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Design Space and Evaluation Challenges of Adaptive Graphical User Interfaces</h1>
+<h2 class="head">Leah Findlater and Krzysztof&nbsp;Z. Gajos</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Adaptive graphical user interfaces (GUIs) have the potential to improve performance and user satisfaction by automatically tailoring the presentation of functionality to each individual user. In practice, however, many challenges exist, and evaluation results of adaptive GUIs have been mixed. To guide researchers and designers in developing effective adaptive GUIs, we outline a design space and discuss three important aspects to consider when conducting user evaluations of these types of interfaces: the control and reporting of adaptive algorithm characteristics, the impact of task choice and user characteristics on the overall effectiveness of a design, and evaluation measures that are appropriate for adaptive interaction.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2009/AIMag09-AUIs.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="https://www.aaai.org/ojs/index.php/aimagazine/article/view/2268">Publisher's version
+
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Leah Findlater and Krzysztof&nbsp;Z. Gajos. Design space and evaluation challenges of adaptive graphical user interfaces. <EM>AI Magazine</EM>, 30(4):68&ndash;73, 2009.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: findlater09:design','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: findlater09:design</TITLE></HEAD><BODY><PRE>@article{findlater09:design,\n  author = {Leah Findlater and Krzysztof Z. Gajos},\n  title = {Design Space and Evaluation Challenges of Adaptive Graphical User Interfaces},\n  journal = {AI Magazine},\n  year = {2009},\n  volume = {30},\n  number = {4},\n  pages = {68--73},\n  abstract = {Adaptive graphical user interfaces (GUIs) have the potential to improve performance and user satisfaction by automatically tailoring the presentation of functionality to each individual user. In practice, however, many challenges exist, and evaluation results of adaptive GUIs have been mixed. To guide researchers and designers in developing effective adaptive GUIs, we outline a design space and discuss three important aspects to consider when conducting user evaluations of these types of interfaces: the control and reporting of adaptive algorithm characteristics, the impact of task choice and user characteristics on the overall effectiveness of a design, and evaluation measures that are appropriate for adaptive interaction.},\n        }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

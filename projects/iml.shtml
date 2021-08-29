@@ -1,0 +1,17 @@
+<a name="iml"></a>
+<h4 class="ptitle">Incorporating Rich User Feedback Into Interactive Machine Learning Applications</h4>
+<!--<div class="pauthors"></div>-->
+
+<p>
+<!--<img class="thumbleft" src="papers/images/exploringAUIs.png" alt="" width="200"
+height="141" align="left"/>-->
+Successful interactive machine learning systems need to generalize robustly from a very small number of examples. This poses challenges for most machine learning algorithms, which typically only solicit labels from the users while ignoring any additional rationale users might be willing to provide to explain their choices. Several projects have shown that incorporating richer feedback---that captures some of the user's rationale---leads to faster and more generalizable learning. So far, this feedback has been limited to feature relevance. Is this the best or the only type of rich feedback we can elicit from users?
+</p>
+
+<p>
+The results of our preliminary study show that people naturally provide several other types of feedback to explain their decisions and that those other types of feedback have an even stronger positive impact on the predictive accuracy of machine learning algorithms than feature relevance. In this project, we study what types of explanations people can most easily provide, how to incorporate this additional information into machine learning algorithms, and how to design novel recognition-driven interactions that will help users provide such explanations with the minimum amount of additional cognitive overhead.  The results of this project will impact both the algorithms and the interaction design for interactive machine learning systems.
+<!--<br/>
+<span class="pdetails">[<a href="papers/byproject.shtml#aui">Related papers</a>]</span>
+-->
+</p>
+<br clear="all" />

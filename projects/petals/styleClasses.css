@@ -1,0 +1,361 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.warning{
+	font-family: Verdana, Geneva, sans-serif;
+	color:#000;
+	font-size: 25px;
+	background-color: #CC3333;
+	font-style: normal;
+	font-weight: normal;
+    
+	float:bottom;
+}
+#menu-container {
+	background-image: url(imgs/top_template_img.gif);
+		height: 222px;
+	width: 1000px;
+	background-repeat: no-repeat;
+	position: relative;
+	background-color: #666;
+	margin:0 auto;
+	text-align: left;
+}
+
+/*#menu-container {
+	background-image: url(imgs/top_template_img.gif);
+
+	width: 1000px;
+	background-repeat: no-repeat;
+	position: relative;
+	
+}*/
+
+
+body {
+	text-align: center;
+	min-width: 1000px;
+	background-color:#666;
+}
+
+.header-format{
+	font-family: Verdana, Geneva, sans-serif;
+	color:#FFF;
+	font-size: 16px;
+	padding-left: 20px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	background-color: #CC3333;
+	font-style: normal;
+	font-weight: normal;
+	word-spacing: normal;
+	letter-spacing: 10px;
+	white-space: normal;
+	text-align: right;
+}
+
+.label-format{
+	font-family: Verdana, Geneva, sans-serif;
+	color:#000;
+	font-size: 16px;
+	background-color: #CC3333;
+	font-style: normal;
+	font-weight: normal;
+	padding: 5px;
+	padding-left: 10px;
+	width: 100px;
+}
+
+
+
+.labelPapers-format{
+	font-family: Verdana, Geneva, sans-serif;
+	color:#000;
+	font-size: 14px;
+	background-color: #CC3333;
+	font-style: normal;
+	font-weight: normal;
+	padding: 5px;
+	padding-left: 10px;
+	width: 500px;
+}
+
+.labelPapersPrev-format{
+	font-family: Verdana, Geneva, sans-serif;
+	color:#000;
+	font-size: 14px;
+	background-color: #999;
+	font-style: normal;
+	font-weight: normal;
+	padding: 5px;
+	padding-left: 10px;
+	width: 500px;
+}
+
+.labellinks-format{
+	font-family: Verdana, Geneva, sans-serif;
+	color:#000;
+	font-size: 14px;
+	background-color: #CC3333;
+	font-style: normal;
+	font-weight: normal;
+	padding: 5px;
+	padding-left: 10px;
+	width: 250px;
+	text-decoration: underline;
+}
+
+.sublabel-format{
+	font-family: Verdana, Geneva, sans-serif;
+	color:#000;
+	font-size: 12px;
+	background-color: #CC3333;
+	font-style: normal;
+	font-weight: normal;
+	padding: 5px;
+}
+
+.text-format{
+	font-family: Verdana, Geneva, sans-serif;
+	color:#000;
+	font-size: 12px;
+	background-color: #E1E1E1;
+	padding-left: 10px;
+	padding-right: 10px;
+    word-spacing: -0.5px;
+    line-height: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: left;
+	vertical-align: top;
+	width: 550px;
+}
+
+.underConstruction-text-format{
+	font-family: Verdana, Geneva, sans-serif;
+	color:#000;
+	font-size: 22px;
+	background-color: #E1E1E1;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: left;
+	vertical-align: top;
+
+}
+
+.subtext-format{
+	font-family: Verdana, Geneva, sans-serif;
+	color:#000;
+	font-size: 12px;
+	background-color: #E1E1E1;
+    word-spacing: -0.5px;
+	text-align: left;
+	vertical-align: top;
+	width: 400px;
+	padding: 0px;
+}
+
+
+.subtextMines-format{
+	font-family: Verdana, Geneva, sans-serif;
+	color:#000;
+	font-size: 12px;
+	background-color: #E1E1E1;
+	padding-left: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: left;
+	vertical-align: top;
+	width: 300px;
+	padding-right: 5px;
+}
+
+.news-format{
+	font-family: Verdana, Geneva, sans-serif;
+	color:#000;
+	font-size: 12px;
+	background-color: #E1E1E1;
+	padding-left: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: left;
+	vertical-align: top;
+	
+}
+
+
+.footer-format{
+	font-family: Verdana, Geneva, sans-serif;
+	color:#000;
+	font-size: 9px;
+	background-color: #CCC;
+	padding-left: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.caption-format{
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 9px;
+	color: #000;
+	left: 5px;
+	top: 5px;
+	right: 5px;
+	bottom: 5px;		
+}
+
+a.button {
+	background: #CC3333 no-repeat scroll top right;
+	color: #FFF;
+	display: block;
+	float: none;
+	height: auto;
+	/*margin-right: 6px;*/
+	/*padding-right: 18px;*/ /* sliding doors padding */
+	text-decoration: none;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	padding-top: 8px;
+	padding-right: 18px;
+	padding-bottom: 8px;
+	padding-left: 18px;
+	letter-spacing: 2px;
+	left: 142px;
+	top: 106px;
+}
+
+/*a.button span {
+    background: #F00 no-repeat;
+    display: block;
+    line-height: 14px;
+    padding: 5px 0 5px 18px;
+}*/
+
+/*a.button:active span {
+    background-position: bottom left;
+    padding: 6px 0 4px 18px; /* push text down 1px */
+/*}*/
+
+.press-format
+{
+	font-family: Verdana, Geneva, sans-serif;
+	color:#000;
+	font-size: 12px;
+	background-color: #999;
+	text-align: justify;
+	vertical-align: top;
+	width: 270px;
+	margin: 10px;
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+a.button:active {
+	background-position: bottom right;
+	color: #CCC;
+	outline: none; /* hide dotted outline in Firefox */
+	font-weight: normal;
+}
+
+a.button_links {
+	background: #F00 no-repeat scroll top right;
+	display: block;
+	float: none;
+	/*margin-right: 6px;*/
+	
+	text-decoration: underline;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	/*padding: 5px;*/
+	width:250px;
+	background-color: #F00;
+	background-repeat: no-repeat;
+	vertical-align: middle;
+}
+
+a.button_links:active {
+	background-position: bottom right;
+	color: #CCC;
+	outline: none; /* hide dotted outline in Firefox */
+	font-weight: normal;
+}
+
+#header-label {
+	position: absolute;
+	right : 0px;
+	width: 310px;
+	height: 70px;
+	top: 36px;
+}
+
+
+#home {
+	position:absolute;
+	left: 14px;
+	top: 75px;
+	height: 33px;
+}
+
+#about {
+	position:absolute;
+	left: 106px;
+		top: 75px;
+	height: 42px;
+}
+
+
+
+#press {
+	position:absolute;
+	left: 202px;
+		top: 75px;
+	height: 33px;
+}
+
+#papers {
+	position:absolute;
+	left: 294px;
+		top: 75px;
+	height: 33px;
+}
+
+#links {
+	position:absolute;
+	left: 40px;
+	top: 116px;
+	height: 33px;
+}
+
+#people {
+	position:absolute;
+	left: 127px;
+top: 116px;
+	height: 33px;
+}
+
+#projects {
+	position:absolute;
+	left: 232px;
+	top: 116px;
+	height: 33px;
+}
+
+#mines {
+	position:absolute;
+	left: 232px;
+	top: 116px;
+	height: 39px;
+}

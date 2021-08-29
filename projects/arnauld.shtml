@@ -1,0 +1,28 @@
+<a name="arnauld"></a>
+<h4 class="ptitle">ARNAULD: Preference Elicitation For Interface Optimization</h4>
+<p>
+<img class="thumbleft" valign="bottom" src="http://www.eecs.harvard.edu/~kgajos/papers/images/arnauld-thumb.png" alt="ARNAULD Project" width="200" height="138" align="left"/>
+Recent years have revealed a trend towards
+increasing use of optimization as a method for automatically designing
+aspects of an interface's interaction with the user.  In most cases,
+this optimization may be thought of as <i>decision-theoretic</i> --
+the objective is to minimize the expected cost of a user's
+interactions or (equivalently) to maximize the user's expected
+utility.  While decision-theoretic optimization provides a powerful,
+flexible, and principled approach for these systems, the quality of
+the resulting solution is completely dependent on the accuracy of the
+underlying utility or cost function. Unfortunately, determining the
+correct utility function is a complex, time-consuming, and error-prone
+task. While domain-specific learning techniques have been used
+occasionally, most practitioners parameterize the utility function and
+then engage in a laborious and unreliable process of hand-tuning.
+</p>
+<div class="ppapers">
+<P class="paper" id='xgajos08:improvingx'>Krzysztof&nbsp;Z. Gajos, Jacob&nbsp;O. Wobbrock, and Daniel&nbsp;S. Weld. <a href="papers/2008/kgajos-chi08-supple.pdf">Improving the performance of motor-impaired users with automatically-generated, ability-based interfaces</a>. In <EM>CHI '08: Proceeding of the twenty-sixth annual SIGCHI conference on Human factors in computing systems</EM>, pages 1257-1266, New York, NY, USA, 2008. ACM.
+<span class="award">&nbsp; Best Paper Award &nbsp;</span>
+<br/><span class="paperdetails">[<a href="papers/2008/gajos08improving.shtml">Abstract, BibTeX, Video, Authorizer,  etc.</a>]</span></P>
+
+<P class="paper" id='xgajos05:preferencex'>Krzysztof Gajos and Daniel&nbsp;S. Weld. <a href="papers/2005/kgajos-uist05.pdf">Preference elicitation for interface optimization</a>. In <EM>UIST '05: Proceedings of the 18th annual ACM symposium on User interface software and technology</EM>, pages 173-182, New York, NY, USA, 2005. ACM Press.
+<br/><span class="paperdetails">[<a href="papers/2005/gajos05preference.shtml">Abstract, BibTeX, Slides, Authorizer,  etc.</a>]</span></P>
+</div>
+<br clear="all" />

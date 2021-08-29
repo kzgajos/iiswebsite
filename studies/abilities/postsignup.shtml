@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<style type="text/css">
+a#n-participants { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<head>
+<script language="javascript" src="studies/abilities/postsignup.js"></script>
+<title>Ability Measure Study Instructions</title>
+</head>
+
+
+<body onload="checkFirefox();">
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Ability Measure Study Instructions</h1>
+
+<h2 class="head">Study Instructions</h2>
+
+<!--#include virtual="nav.html" --> 
+
+
+<h3>Thank you for signing up for the study!</h3>
+<p>
+Now that you are participating in the study, there are a number of steps you will need 
+to complete.
+</p>
+
+
+<h3>Steps</h3>
+<p>
+
+<ul>
+<span id="firefox">  <li>In order to participate in the study, you need to have firefox. You can install it by following this <a href="http://www.mozilla.com/en-US/firefox/firefox.html" target="_blank">link</a> and following the instructions on the site.
+</span>
+  <li>Open firefox and navigate to (or click the link): <a href="https://iis-secure.seas.harvard.edu/ability28.xpi">https://iis-secure.seas.harvard.edu/ability28.xpi</a>. The browser will ask you to install a firefox extension. This will restart your browser, so before you click install make sure to bookmark this page or open it in a different browser.</li>
+  <li>Now that you have installed the extension, you will see a bar marked Abilities next to the Tools menu at the top of firefox. Open it and click Take Explicit Test. Follow the directions for taking the test.</li>
+  <li>Use Firefox as your primary browser and you are done.</li>
+</ul>
+
+If you have more questions about the study, click <a href="/studies/abilities/info.shtml">here</a>.
+  
+</p>
+
+<div class="content">This page was last modified on <!--#config timefmt="%B %d, %Y" --> <!--#echo var="LAST_MODIFIED" -->.</div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

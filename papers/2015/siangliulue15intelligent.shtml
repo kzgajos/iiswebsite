@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Intelligent Systems to Support Large-Scale Collective Creative Idea Generation</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Intelligent Systems to Support Large-Scale Collective Creative Idea Generation">
+<meta property="og:description" content="In recent years, it has become possible for large groups of people to collaborate and generate ideas together in ways that were not possible before. However, the large number of ideas and participants in this setting also pose new challenges in helping people find inspiration from a large pool of ideas, and coordinating the collective effort. My research aims to address the challenges of large scale idea generation platforms by developing methods and systems for helping people make effective use of each other's ideas, and orchestrate collective effort to reduce redundancy and increase the breadth of generated ideas.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Intelligent Systems to Support Large-Scale Collective Creative Idea Generation</h1>
+<h2 class="head">Pao Siangliulue</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+In recent years, it has become possible for large groups of people to collaborate and generate ideas together in ways that were not possible before. However, the large number of ideas and participants in this setting also pose new challenges in helping people find inspiration from a large pool of ideas, and coordinating the collective effort. My research aims to address the challenges of large scale idea generation platforms by developing methods and systems for helping people make effective use of each other's ideas, and orchestrate collective effort to reduce redundancy and increase the breadth of generated ideas.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2015/siangliulue15ccdc.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="http://doi.acm.org/10.1145/2757226.2764764">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Pao Siangliulue. Intelligent systems to support large-scale collective creative idea generation. In <EM>Proceedings of the 2015 ACM SIGCHI Conference on Creativity and Cognition</EM>, C&amp;C '15, pages 327&ndash;328, New York, NY, USA, 2015. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: siangliulue15:intelligent','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: siangliulue15:intelligent</TITLE></HEAD><BODY><PRE>@inproceedings{siangliulue15:intelligent,\n  author = {Siangliulue, Pao},\n  title = {Intelligent Systems to Support Large-Scale Collective Creative Idea Generation},\n  booktitle = {Proceedings of the 2015 ACM SIGCHI Conference on Creativity and Cognition},\n  series = {C\&C \'15},\n  year = {2015},\n  isbn = {978-1-4503-3598-0},\n  location = {Glasgow, United Kingdom},\n  pages = {327--328},\n  numpages = {2},\n    doi = {10.1145/2757226.2764764},\n  acmid = {2764764},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  keywords = {collaborative idea generation, creativity},\n  abstract = {In recent years, it has become possible for large groups of people to collaborate and generate ideas together in ways that were not possible before. However, the large number of ideas and participants in this setting also pose new challenges in helping people find inspiration from a large pool of ideas, and coordinating the collective effort. My research aims to address the challenges of large scale idea generation platforms by developing methods and systems for helping people make effective use of each other\'s ideas, and orchestrate collective effort to reduce redundancy and increase the breadth of generated ideas.},\n      }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

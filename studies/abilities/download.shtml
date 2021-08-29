@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<style type="text/css">
+a#n-signup { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Motor Ability Measure Study -- Extension Download and Installation Instructions</title>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Motor Ability Measure Study</h1>
+
+<h2 class="head">Downloading and Installing the Browser Extension</h2>
+
+<!--#include virtual="nav.html" --> 
+
+<div class="content">
+<!--#include virtual="instructions.shtml" --> 
+</div>
+
+<div class="content">This page was last modified on <!--#config timefmt="%B %d, %Y" --> <!--#echo var="LAST_MODIFIED" -->.</div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

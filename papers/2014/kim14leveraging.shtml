@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Leveraging Video Interaction Data and Content Analysis to Improve Video Learning</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Leveraging Video Interaction Data and Content Analysis to Improve Video Learning">
+<meta property="og:description" content="Video has emerged as a dominant medium for online education, as witnessed by millions of students learning from educational videos on Massive Open Online Courses (MOOCs), Khan Academy, and YouTube. The large-scale data collected from students' interactions with video provide a unique opportunity to analyze and improve the video learning experience. We combine click-level interaction data, such as pausing, resuming, or navigating between points in the video, and video content analysis, such as visual, text, and speech, to analyze peaks in viewership and student activity. Such analysis can reveal points of interest or confusion in the video, and suggest production and editing improvements. Furthermore, we envision novel video interfaces and learning platforms that automatically adapt to learners' collective watching behaviors.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Leveraging Video Interaction Data and Content Analysis to Improve Video Learning</h1>
+<h2 class="head">Juho Kim, Shang-Wen&nbsp;(Daniel) Li, Carrie&nbsp;J. Cai, Krzysztof&nbsp;Z. Gajos, and Robert&nbsp;C. Miller</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Video has emerged as a dominant medium for online education, as witnessed by millions of students learning from educational videos on Massive Open Online Courses (MOOCs), Khan Academy, and YouTube. The large-scale data collected from students' interactions with video provide a unique opportunity to analyze and improve the video learning experience. We combine click-level interaction data, such as pausing, resuming, or navigating between points in the video, and video content analysis, such as visual, text, and speech, to analyze peaks in viewership and student activity. Such analysis can reveal points of interest or confusion in the video, and suggest production and editing improvements. Furthermore, we envision novel video interfaces and learning platforms that automatically adapt to learners' collective watching behaviors.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2014/kim14leveraging.pdf">Authors' version (pdf)</a></li>
+
+
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Juho Kim, Shang-Wen&nbsp;(Daniel) Li, Carrie&nbsp;J. Cai, Krzysztof&nbsp;Z. Gajos, and Robert&nbsp;C. Miller. Leveraging video interaction data and content analysis to improve video learning. In <EM>Proceedings of the CHI 2014 Learning Innovation at Scale workshop</EM>, 2014.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: kim14:leveraging','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: kim14:leveraging</TITLE></HEAD><BODY><PRE>@inproceedings{kim14:leveraging,\n  title = {Leveraging Video Interaction Data and Content Analysis to Improve Video Learning},\n  author = {Juho Kim and Shang-Wen (Daniel) Li and Carrie J. Cai and Krzysztof Z. Gajos and Robert C. Miller},\n  booktitle = {Proceedings of the CHI 2014 Learning Innovation at Scale workshop},\n  year = {2014},\n  abstract = {Video has emerged as a dominant medium for online education, as witnessed by millions of students learning from educational videos on Massive Open Online Courses (MOOCs), Khan Academy, and YouTube. The large-scale data collected from students\' interactions with video provide a unique opportunity to analyze and improve the video learning experience. We combine click-level interaction data, such as pausing, resuming, or navigating between points in the video, and video content analysis, such as visual, text, and speech, to analyze peaks in viewership and student activity. Such analysis can reveal points of interest or confusion in the video, and suggest production and editing improvements. Furthermore, we envision novel video interfaces and learning platforms that automatically adapt to learners\' collective watching behaviors.},\n    }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

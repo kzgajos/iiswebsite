@@ -1,0 +1,28 @@
+<a name="platemate"></a>
+<h4 class="ptitle">PlateMate: Crowdsourcing Nutrition Analysis from Food Photographs</h4>
+
+<p>
+<img class="thumbleft" src="http://iis.seas.harvard.edu/projects/images/platemate.png" alt=""
+width="200" height="150" align="left"/></a> PlateMate allows users to
+take photos of their meals and receive estimates of food intake and
+composition. Accurate awareness of this information is considered a
+prerequisite to successful change of eating habits, but current
+methods for food logging via self-reporting, expert observation, or
+algorithmic analysis are time-consuming, expensive, or inaccurate.
+PlateMate crowdsources nutritional analysis from photographs using
+Amazon Mechanical Turk, automatically coordinating untrained workers
+to estimate a meal's calories, fat, carbohydrates, and protein.  To
+make PlateMate possible, we developed the Management framework for
+crowdsourcing complex tasks, which supports PlateMate's decomposition
+of the nutrition analysis workflow. Two evaluations show that the
+PlateMate system is nearly as accurate as a trained dietitian and
+easier to use for most users than traditional self-reporting, while
+remaining robust for general use across a wide variety of meal types.
+</p>
+<div class="ppapers">
+<P class="paper" id='xnoronha11:platematex'>Jon Noronha, Eric Hysen, Haoqi Zhang, and Krzysztof&nbsp;Z. Gajos. <a href="papers/2011/noronha-platemate-uist11.pdf">PlateMate: Crowdsourcing Nutrition Analysis from Food Photographs</a>. In <EM>Proceedings of the 24th annual ACM symposium on User interface software and technology</EM>, UIST '11, pages 1-12, New York, NY, USA, 2011. ACM.
+
+<br/><span class="paperdetails">[<a href="papers/2011/noronha11platemate.shtml">Abstract, BibTeX, Authorizer, Data,  etc.</a>]</span></P>
+</div>
+<br clear="all" />
+

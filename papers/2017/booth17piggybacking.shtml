@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Piggybacking Robots: Human-Robot Overtrust in University Dormitory Security</title>
+<meta name="twitter:card" content="summary" />
+<meta property="og:image" content="http://www.eecs.harvard.edu/~kgajos/papers/images/piggybackingRobots-600.png">
+<meta property="og:title" content="Piggybacking Robots: Human-Robot Overtrust in University Dormitory Security">
+<meta property="og:description" content="Can overtrust in robots compromise physical security? We conducted a series of experiments in which a robot positioned outside a secure-access student dormitory asked passersby to assist it to gain access. We found individual participants were comparably likely to assist the robot in exiting (40% assistance rate) as in entering (19%). When the robot was disguised as a food delivery agent for the fictional start-up Robot Grub, individuals were more likely to assist the robot in entering (76%). Groups of people were more likely than individuals to assist the robot in entering (71%). Lastly, we found participants who identified the robot as a bomb threat were just as likely to open the door (87%) as those who did not. Thus, we demonstrate that overtrust---the unfounded belief that the robot does not intend to deceive or carry risk---can represent a significant threat to physical security.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Piggybacking Robots: Human-Robot Overtrust in University Dormitory Security</h1>
+<h2 class="head">Serena Booth, James Tompkin, Hanspeter Pfister, Jim Waldo, Krzysztof Gajos, and Radhika Nagpal</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+<img style="margin-left: 15px; margin-bottom: 10px; max-width: 300px" align="right" alt="" src="http://www.eecs.harvard.edu/~kgajos/papers/images/piggybackingRobots-600.png"/>
+Can overtrust in robots compromise physical security? We conducted a series of experiments in which a robot positioned outside a secure-access student dormitory asked passersby to assist it to gain access. We found individual participants were comparably likely to assist the robot in exiting (40% assistance rate) as in entering (19%). When the robot was disguised as a food delivery agent for the fictional start-up Robot Grub, individuals were more likely to assist the robot in entering (76%). Groups of people were more likely than individuals to assist the robot in entering (71%). Lastly, we found participants who identified the robot as a bomb threat were just as likely to open the door (87%) as those who did not. Thus, we demonstrate that overtrust---the unfounded belief that the robot does not intend to deceive or carry risk---can represent a significant threat to physical security.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2017/booth17piggybacking.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="http://doi.acm.org/10.1145/2909824.3020211">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Serena Booth, James Tompkin, Hanspeter Pfister, Jim Waldo, Krzysztof Gajos, and Radhika Nagpal. Piggybacking robots: Human-robot overtrust in university dormitory security. In <EM>Proceedings of the 2017 ACM/IEEE International Conference on Human-Robot Interaction</EM>, HRI '17, pages 426&ndash;434, New York, NY, USA, 2017. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: booth17:piggybacking','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: booth17:piggybacking</TITLE></HEAD><BODY><PRE>@inproceedings{booth17:piggybacking,\n  author = {Booth, Serena and Tompkin, James and Pfister, Hanspeter and Waldo, Jim and Gajos, Krzysztof and Nagpal, Radhika},\n  title = {Piggybacking Robots: Human-Robot Overtrust in University Dormitory Security},\n  booktitle = {Proceedings of the 2017 ACM/IEEE International Conference on Human-Robot Interaction},\n  series = {HRI \'17},\n  year = {2017},\n  isbn = {978-1-4503-4336-7},\n  location = {Vienna, Austria},\n  pages = {426--434},\n  numpages = {9},\n    doi = {10.1145/2909824.3020211},\n  acmid = {3020211},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  keywords = {overtrust, piggybacking, robotics, secure access, tailgating, trust},\n  abstract = {Can overtrust in robots compromise physical security? We conducted a series of experiments in which a robot positioned outside a secure-access student dormitory asked passersby to assist it to gain access. We found individual participants were comparably likely to assist the robot in exiting (40% assistance rate) as in entering (19%). When the robot was disguised as a food delivery agent for the fictional start-up Robot Grub, individuals were more likely to assist the robot in entering (76%). Groups of people were more likely than individuals to assist the robot in entering (71%). Lastly, we found participants who identified the robot as a bomb threat were just as likely to open the door (87%) as those who did not. Thus, we demonstrate that overtrust---the unfounded belief that the robot does not intend to deceive or carry risk---can represent a significant threat to physical security.},\n        }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Eabbit 1.0: New Environmental Analysis Software for Solar Energy Representation</title>
+<meta name="twitter:card" content="summary" />
+<meta property="og:image" content="http://www.eecs.harvard.edu/~kgajos/papers/images/han19eabbit.png">
+<meta property="og:title" content="Eabbit 1.0: New Environmental Analysis Software for Solar Energy Representation">
+<meta property="og:description" content="Given the challenges to designing high-performance buildings, the use of Building Performance Simulation (BPS) tools during the early design phase is indispensable. There are many tools for evaluating solar impact on buildings, ranging from energy use to daylighting and renewable energy. However, no tool accurately reflects architects' needs; all lack clear communication and proper visualization methods. This research addressed energy consumption and production measures impacted by exposure to the sun. The goal was to create a new type of early design decision support tool that functioned without running BPS optimization and parametric simulations. This was accomplished by developing important solar algorithms that were then used in a new method of solar representation for building design. It is important that usability assessments of this type of tool be conducted, especially with regards to its ability to satisfy architects' needs during the design process. However, such research is not yet common in the field of BPS. Thus, in the present research, user experiments were conducted to evaluate the effectiveness of Eabbit 1.0's key interface. The results of these experiments illustrate the impact of the proposed method on annual heating and cooling consumption. The results show that tool will assist users in making significantly better decisions regarding the installation of photovoltaic panels and other issues related to solar energy.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Eabbit 1.0: New Environmental Analysis Software for Solar Energy Representation</h1>
+<h2 class="head">Jung&nbsp;Min Han, Ali Malkawi, and Krzysztof&nbsp;Z. Gajos</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+<img style="margin-left: 15px; margin-bottom: 10px; max-width: 300px" align="right" alt="" src="http://www.eecs.harvard.edu/~kgajos/papers/images/han19eabbit.png"/>
+Given the challenges to designing high-performance buildings, the use of Building Performance Simulation (BPS) tools during the early design phase is indispensable. There are many tools for evaluating solar impact on buildings, ranging from energy use to daylighting and renewable energy. However, no tool accurately reflects architects' needs; all lack clear communication and proper visualization methods. This research addressed energy consumption and production measures impacted by exposure to the sun. The goal was to create a new type of early design decision support tool that functioned without running BPS optimization and parametric simulations. This was accomplished by developing important solar algorithms that were then used in a new method of solar representation for building design. It is important that usability assessments of this type of tool be conducted, especially with regards to its ability to satisfy architects' needs during the design process. However, such research is not yet common in the field of BPS. Thus, in the present research, user experiments were conducted to evaluate the effectiveness of Eabbit 1.0's key interface. The results of these experiments illustrate the impact of the proposed method on annual heating and cooling consumption. The results show that tool will assist users in making significantly better decisions regarding the installation of photovoltaic panels and other issues related to solar energy.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2019/han19eabbit.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="http://www.ibpsa.org/proceedings/BS2019/BS2019_210273.pdf">Publisher's version
+
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Jung&nbsp;Min Han, Ali Malkawi, and Krzysztof&nbsp;Z. Gajos. Eabbit 1.0: New environmental analysis software for solar energy representation. In <EM>Proceedings of Building Simulation</EM>, 2019.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: han19:eabbit','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: han19:eabbit</TITLE></HEAD><BODY><PRE>@inproceedings{han19:eabbit,\n  title = {Eabbit 1.0: New Environmental Analysis Software for Solar Energy Representation},\n  author = {Jung Min Han and Ali Malkawi and Krzysztof Z. Gajos},\n  booktitle = {Proceedings of Building Simulation},\n  year = {2019},\n  abstract = {Given the challenges to designing high-performance buildings, the use of Building Performance Simulation (BPS) tools during the early design phase is indispensable. There are many tools for evaluating solar impact on buildings, ranging from energy use to daylighting and renewable energy. However, no tool accurately reflects architects\' needs; all lack clear communication and proper visualization methods. This research addressed energy consumption and production measures impacted by exposure to the sun. The goal was to create a new type of early design decision support tool that functioned without running BPS optimization and parametric simulations. This was accomplished by developing important solar algorithms that were then used in a new method of solar representation for building design. It is important that usability assessments of this type of tool be conducted, especially with regards to its ability to satisfy architects\' needs during the design process. However, such research is not yet common in the field of BPS. Thus, in the present research, user experiments were conducted to evaluate the effectiveness of Eabbit 1.0\'s key interface. The results of these experiments illustrate the impact of the proposed method on annual heating and cooling consumption. The results show that tool will assist users in making significantly better decisions regarding the installation of photovoltaic panels and other issues related to solar energy.},\n        }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

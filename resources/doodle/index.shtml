@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<style type="text/css">
+a#n-resources { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Intelligent Interactive Systems Group -- Data for the Doodle
+Around the World paper</title>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Intelligent Interactive Systems Group at Harvard</h1>
+<h2 class="head">Data for the Doodle Around the World paper</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<div class="content">
+
+<H3>Overview</h3>
+<p>The parsed data set contains information about the Doodle scheduling behavior of 211 countries, and covers all analyses in the paper. Note that this data set was derived from raw Doodle date/time polls selected at random from a time period in mid-2011 and an additional time period in early 2012.  Analyses requiring a poll initiation time stamp were conducted with a subset of 177 countries. 
+For more information on our data preparation and analyses, please refer to the paper:</p>
+
+<P class="paper" id='xreinecke13:doodlex'>Katharina Reinecke, Minh&nbsp;Khoa Nguyen, Abraham Bernstein, Michael Naf, and Krzysztof&nbsp;Z. Gajos. <a href="papers/2013/reinecke13doodle.pdf">Doodle Around the World: Online Scheduling Behavior Reflects Cultural Differences in Time Perception and Group Decision-Making</a>. In <EM>Proceedings of CSCW'13</EM>, New York, NY, USA, 2013. ACM. To appear.
+<br/><span class="paperdetails">[<a href="papers/2013/reinecke13doodle.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+
+</div>
+  
+<div class="content">
+
+
+<h3>Data</h3>
+<p>
+Data is available either in <a href="resources/doodle/doodle_data.csv">CSV</a> or <a href="resources/doodle/doodle_data.xlsx">Excel</a> formats.
+</p>  
+
+</div>
+
+<div class="content">
+<h3>Contact</h3>
+<p>The primary contact person for this project is <a
+  href="http://people.seas.harvard.edu/~reinecke/">Katharina Reinecke</a>.</p>
+
+
+</div>
+
+
+<div class="content">This page was last modified on <!--#config timefmt="%B %d, %Y" --> <!--#echo var="LAST_MODIFIED" -->.</div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

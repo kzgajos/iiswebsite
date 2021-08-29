@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>IdeaHound: Self-sustainable Idea Generation in Creative Online Communities</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="IdeaHound: Self-sustainable Idea Generation in Creative Online Communities">
+<meta property="og:description" content="One main challenge in large creative online communities is helping their members find inspirational ideas from a large pool of ideas. A high-level approach to address this challenge is to create a synthesis of emerging solution space that can be used to provide participants with creative and diverse inspirational ideas of others. Existing approaches to generate the synthesis of solution space either require community members to engage in tasks that detract from the main activity of generating ideas or depend on external crowd workers to help organize the ideas. We built IdeaHound a collaborative idea generation system that demonstrates an alternative "organic" human computation approach, where community members (rather than external crowds) contribute feedback about ideas as a byproduct of an activity that naturally integrates into the ideation process. This feedback in turn helps the community identify diverse inspirational ideas that can prompt community members to generate more high-quality and diverse ideas.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">IdeaHound: Self-sustainable Idea Generation in Creative Online Communities</h1>
+<h2 class="head">Pao Siangliulue, Joel Chan, Bernd Huber, Steven&nbsp;P. Dow, and Krzysztof&nbsp;Z. Gajos</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+One main challenge in large creative online communities is helping their members find inspirational ideas from a large pool of ideas. A high-level approach to address this challenge is to create a synthesis of emerging solution space that can be used to provide participants with creative and diverse inspirational ideas of others. Existing approaches to generate the synthesis of solution space either require community members to engage in tasks that detract from the main activity of generating ideas or depend on external crowd workers to help organize the ideas. We built IdeaHound a collaborative idea generation system that demonstrates an alternative "organic" human computation approach, where community members (rather than external crowds) contribute feedback about ideas as a byproduct of an activity that naturally integrates into the ideation process. This feedback in turn helps the community identify diverse inspirational ideas that can prompt community members to generate more high-quality and diverse ideas.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+
+
+<li><a class="external" href="http://dx.doi.org/10.1145/2818052.2874335">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Pao Siangliulue, Joel Chan, Bernd Huber, Steven&nbsp;P. Dow, and Krzysztof&nbsp;Z. Gajos. Ideahound: Self-sustainable idea generation in creative online communities. In <EM>Proceedings of the 19th ACM Conference on Computer Supported Cooperative Work and Social Computing Companion</EM>, CSCW '16 Companion, pages 98&ndash;101, New York, NY, USA, 2016. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: siangliulue16:ideahound','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: siangliulue16:ideahound</TITLE></HEAD><BODY><PRE>@inproceedings{siangliulue16:ideahound,\n  author = {Siangliulue, Pao and Chan, Joel and Huber, Bernd and Dow, Steven P. and Gajos, Krzysztof Z.},\n  title = {IdeaHound: Self-sustainable Idea Generation in Creative Online Communities},\n  booktitle = {Proceedings of the 19th ACM Conference on Computer Supported Cooperative Work and Social Computing Companion},\n  series = {CSCW \'16 Companion},\n  year = {2016},\n  isbn = {978-1-4503-3950-6},\n  location = {San Francisco, California, USA},\n  pages = {98--101},\n  numpages = {4},\n    doi = {10.1145/2818052.2874335},\n  acmid = {2874335},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  keywords = {collaborative idea generation, creativity support tool},\n  abstract = {One main challenge in large creative online communities is helping their members find inspirational ideas from a large pool of ideas. A high-level approach to address this challenge is to create a synthesis of emerging solution space that can be used to provide participants with creative and diverse inspirational ideas of others. Existing approaches to generate the synthesis of solution space either require community members to engage in tasks that detract from the main activity of generating ideas or depend on external crowd workers to help organize the ideas. We built IdeaHound a collaborative idea generation system that demonstrates an alternative \042organic\042 human computation approach, where community members (rather than external crowds) contribute feedback about ideas as a byproduct of an activity that naturally integrates into the ideation process. This feedback in turn helps the community identify diverse inspirational ideas that can prompt community members to generate more high-quality and diverse ideas.},\n    }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

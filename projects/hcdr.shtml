@@ -1,0 +1,34 @@
+<a name="hcdr"></a>
+<h4 class="ptitle">
+Exploring Opportunities for Intelligent Interfaces Aiding Healthcare in Low-Income Countries</h4>
+
+<p>
+<img class="thumbleft" src="http://www.eecs.harvard.edu/~kgajos/papers/images/hcdr.jpg" alt="" width="200"
+height="148" align="left"/>
+
+Child mortality is one of the most pressing health concerns almost 10
+million children die worldwide each year before reaching their fifth
+birthday, mostly in low-income countries. To aid overburdened and
+undertrained health workers the World Health Organization (WHO) and
+United Nations Children's Fund (UNICEF) have developed clinical
+guidelines, such as the Integrated Management of Childhood Illness
+(IMCI) to help with the classification and treatment of common
+childhood illness. To help with deployment, we have developed an
+electronic version (e-IMCI) that runs on a PDA. From July to September
+2007, we ran a pilot of e-IMCI in southern Tanzania. The system guides
+health workers step-by-step through the treatment algorithms and
+automatically calculates drug doses. Our results suggest that
+electronic implementations of protocols such as IMCI can reduce
+training time and improve adherence to the protocol. They also
+highlight several important challenges including varying levels of
+education, language and expertise, which could be most adequately
+addressed by implementing novel intelligent user interfaces and
+systems.
+</p>
+<div class="ppapers">
+
+	<P class="paper" id='xderenzi08:opportunitiesx'>Brian DeRenzi, Krzysztof&nbsp;Z. Gajos, Tapan&nbsp;S. Parikh, Neal Lesh, Marc Mitchell, and Baetano Borriello. <a href="papers/2008/derenzi-iui4dr08.pdf">Opportunities for Intelligent Interfaces Aiding Healthcare in Low-Income Countries</a>. In <EM>Workshop on Intelligent User Interfaces for Developing Regions (at IUI'08)</EM>, 2008.
+	<br/><span class="paperdetails">[<a href="papers/2008/derenzi08opportunities.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+</div>
+<br clear="all" />

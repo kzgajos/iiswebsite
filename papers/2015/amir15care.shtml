@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>From Care Plans to Care Coordination: Opportunities for Computer Support of Teamwork in Complex Healthcare</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="From Care Plans to Care Coordination: Opportunities for Computer Support of Teamwork in Complex Healthcare">
+<meta property="og:description" content="Children with complex health conditions require care from a large, diverse team of caregivers that includes multiple types of medical professionals, parents and community support organizations. Coordination of their outpatient care, essential for good outcomes, presents major challenges. Extensive healthcare research has shown that the use of integrated, team-based care plans improves care coordination, but such plans are rarely deployed in practice. This paper reports on a study of care teams treating children with complex conditions at a major university tertiary care center. This study investigated barriers to plan implementation and resultant care coordination problems. It revealed the complex nature of teamwork in complex care, which poses challenges to team coordination that extend beyond those identified in prior work and handled by existing coordination systems. The paper builds on a computational teamwork theory to identify opportunities for technology to support increased plan-based complex-care coordination and to propose design approaches for systems that enable and enhance such coordination.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">From Care Plans to Care Coordination: Opportunities for Computer Support of Teamwork in Complex Healthcare</h1>
+<h2 class="head">Ofra Amir, Barbara&nbsp;J. Grosz, Krzysztof&nbsp;Z. Gajos, Sonja&nbsp;M. Swenson, and Lee&nbsp;M. Sanders</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Children with complex health conditions require care from a large, diverse team of caregivers that includes multiple types of medical professionals, parents and community support organizations. Coordination of their outpatient care, essential for good outcomes, presents major challenges. Extensive healthcare research has shown that the use of integrated, team-based care plans improves care coordination, but such plans are rarely deployed in practice. This paper reports on a study of care teams treating children with complex conditions at a major university tertiary care center. This study investigated barriers to plan implementation and resultant care coordination problems. It revealed the complex nature of teamwork in complex care, which poses challenges to team coordination that extend beyond those identified in prior work and handled by existing coordination systems. The paper builds on a computational teamwork theory to identify opportunities for technology to support increased plan-based complex-care coordination and to propose design approaches for systems that enable and enhance such coordination.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2015/amir15care.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="http://doi.acm.org/10.1145/2702123.2702320">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+<h3>Slides</h3>
+<div class="content">
+Original format:
+<ul>
+<li><a href="papers/2015/amir15care-slides.pptx">PowerPoint 2007</a></li>
+
+</ul>
+
+Other formats (automatically converted, may look different from the original presentation):
+<ul>
+<li><a href="papers/2015/amir15care-slides.pdf">PDF</a></li>
+
+</ul>
+
+</div>
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Ofra Amir, Barbara&nbsp;J. Grosz, Krzysztof&nbsp;Z. Gajos, Sonja&nbsp;M. Swenson, and Lee&nbsp;M. Sanders. From care plans to care coordination: Opportunities for computer support of teamwork in complex healthcare. In <EM>Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems</EM>, CHI '15, pages 1419&ndash;1428, New York, NY, USA, 2015. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: amir15:care','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: amir15:care</TITLE></HEAD><BODY><PRE>@inproceedings{amir15:care,\n  author = {Amir, Ofra and Grosz, Barbara J. and Gajos, Krzysztof Z. and Swenson, Sonja M. and Sanders, Lee M.},\n  title = {From Care Plans to Care Coordination: Opportunities for Computer Support of Teamwork in Complex Healthcare},\n  booktitle = {Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems},\n  series = {CHI \'15},\n  year = {2015},\n  isbn = {978-1-4503-3145-6},\n  location = {Seoul, Republic of Korea},\n  pages = {1419--1428},\n  numpages = {10},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  abstract = {Children with complex health conditions require care from a large, diverse team of caregivers that includes multiple types of medical professionals, parents and community support organizations. Coordination of their outpatient care, essential for good outcomes, presents major challenges. Extensive healthcare research has shown that the use of integrated, team-based care plans improves care coordination, but such plans are rarely deployed in practice. This paper reports on a study of care teams treating children with complex conditions at a major university tertiary care center. This study investigated barriers to plan implementation and resultant care coordination problems. It revealed the complex nature of teamwork in complex care, which poses challenges to team coordination that extend beyond those identified in prior work and handled by existing coordination systems. The paper builds on a computational teamwork theory to identify opportunities for technology to support increased plan-based complex-care coordination and to propose design approaches for systems that enable and enhance such coordination.},\n            award = {Honorable Mention},\n}\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>How Can We Support Users' Preferential Choice?</title>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">How Can We Support Users' Preferential Choice?</h1>
+<h2 class="head">Anthony Jameson, Silvia Gabrielli, Per&nbsp;Ola Kristensson, Katharina Reinecke, Federica Cena, Christina Gena, and Gabiana Vernero</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Users of computing technology are constantly making choices about how to use the technology which are preferential in the sense that there is no correct or incorrect option. We argue that HCI should devote more attention to helping users to make better preferential choices, tapping into the vast pool of relevant psychological research. After offering a quick high-level overview of this research, we introduce four general strategies for exploiting it in interaction design and illustrate these strategies with reference to examples. Looking at selected other paradigms that involve influencing preferential choice, we explain how our framework can lead to greater coverage and conceptual clarity.
+<br clear="all"/>
+</div>
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2011/Jameson_preferentialchoices.pdf">Authors' version (pdf)</a></li>
+
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Anthony Jameson, Silvia Gabrielli, Per&nbsp;Ola Kristensson, Katharina Reinecke, Federica Cena, Christina Gena, and Gabiana Vernero. How can we support users' preferential choice? In <EM>Extended Abstracts of CHI'11 (alt.chi)</EM>, 2011.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: jameson11:preferentialchoices','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: jameson11:preferentialchoices</TITLE></HEAD><BODY><PRE>@inproceedings{jameson11:preferentialchoices,\n  author = {Anthony Jameson and Silvia Gabrielli and Per Ola Kristensson and Katharina Reinecke and Federica Cena and Christina Gena and Gabiana Vernero},\n  title = {How Can We Support Users\' Preferential Choice?},\n  booktitle = {Extended Abstracts of CHI\'11 (alt.chi)},\n  year = {2011},\n  abstract = {Users of computing technology are constantly making choices about how to use the technology which are preferential in the sense that there is no correct or incorrect option. We argue that HCI should devote more attention to helping users to make better preferential choices, tapping into the vast pool of relevant psychological research. After offering a quick high-level overview of this research, we introduce four general strategies for exploiting it in interaction design and illustrate these strategies with reference to examples. Looking at selected other paradigms that involve influencing preferential choice, we explain how our framework can lead to greater coverage and conceptual clarity.},\n    }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

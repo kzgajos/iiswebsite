@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>How machine-learning recommendations influence clinician treatment selections: the example of the antidepressant selection</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="How machine-learning recommendations influence clinician treatment selections: the example of the antidepressant selection">
+<meta property="og:description" content="Decision support systems embodying machine learning models offer the promise of improved standard of care for major depressive disorder, but little is known about how clinicians' treatment decisions will be influenced by machine learning recommendations and explanations. We used a within-subject factorial experiment to present 220 clinicians with patient vignettes, each with or without a machine learning (ML) recommendation and one of multiple forms of explanation. We found that interacting with machine learning recommendations did not significantly improve clinicians' treatment selection accuracy, assessed as concordance with expert psychopharmacologist consensus, compared to baseline scenarios in which clinicians made treatment decisions independently. Interacting with incorrect recommendations paired with explanations that included limited but easily interpretable information did lead to a significant reduction in treatment selection accuracy compared to baseline questions. These results suggest that incorrect ML recommendations may adversely impact clinician treatment selections and that explanations are insufficient for addressing overreliance on imperfect ML algorithms. More generally, our findings challenge the common assumption that clinicians interacting with ML tools will perform better than either clinicians or ML algorithms individually.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">How machine-learning recommendations influence clinician treatment selections: the example of the antidepressant selection</h1>
+<h2 class="head">Maia Jacobs, Melanie&nbsp;F. Pradier, Thomas H.&nbsp;McCoy Jr, Roy&nbsp;H. Perlis, Finale Doshi-Velez, and Krzysztof&nbsp;Z. Gajos</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Decision support systems embodying machine learning models offer the promise of improved standard of care for major depressive disorder, but little is known about how clinicians' treatment decisions will be influenced by machine learning recommendations and explanations. We used a within-subject factorial experiment to present 220 clinicians with patient vignettes, each with or without a machine learning (ML) recommendation and one of multiple forms of explanation. We found that interacting with machine learning recommendations did not significantly improve clinicians' treatment selection accuracy, assessed as concordance with expert psychopharmacologist consensus, compared to baseline scenarios in which clinicians made treatment decisions independently. Interacting with incorrect recommendations paired with explanations that included limited but easily interpretable information did lead to a significant reduction in treatment selection accuracy compared to baseline questions. These results suggest that incorrect ML recommendations may adversely impact clinician treatment selections and that explanations are insufficient for addressing overreliance on imperfect ML algorithms. More generally, our findings challenge the common assumption that clinicians interacting with ML tools will perform better than either clinicians or ML algorithms individually.
+<br clear="right"/>
+</div>
+
+
+
+<h3>Additional information</h3>
+<div class="content">
+<ul>
+<li><a href="https://maia-jacobs.medium.com/how-machine-learning-recommendations-influence-clinician-treatment-selections-the-example-of-the-33ecf348aedb">Blog post</a></li>
+</ul>
+</div>
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+
+
+<li><a class="external" href="https://doi.org/10.1038/s41398-021-01224-x">Publisher's version
+
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Maia Jacobs, Melanie&nbsp;F. Pradier, Thomas H.&nbsp;McCoy Jr, Roy&nbsp;H. Perlis, Finale Doshi-Velez, and Krzysztof&nbsp;Z. Gajos. How machine-learning recommendations influence clinician treatment selections: the example of the antidepressant selection. <EM>Translational Psychiatry</EM>, 11, 2021.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: jacobs2021how','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: jacobs2021how</TITLE></HEAD><BODY><PRE>@article{jacobs2021how,\n  author = {Maia Jacobs and Melanie F. Pradier and Thomas H. McCoy Jr and Roy H. Perlis and Finale Doshi-Velez and Krzysztof Z. Gajos},\n  title = {How machine-learning recommendations influence clinician treatment selections: the example of the antidepressant selection},\n  journal = {Translational Psychiatry},\n  year = {2021},\n  volume = {11},\n  abstract = {Decision support systems embodying machine learning models offer the promise of improved standard of care for major depressive disorder, but little is known about how clinicians\' treatment decisions will be influenced by machine learning recommendations and explanations. We used a within-subject factorial experiment to present 220 clinicians with patient vignettes, each with or without a machine learning (ML) recommendation and one of multiple forms of explanation. We found that interacting with machine learning recommendations did not significantly improve clinicians\' treatment selection accuracy, assessed as concordance with expert psychopharmacologist consensus, compared to baseline scenarios in which clinicians made treatment decisions independently. Interacting with incorrect recommendations paired with explanations that included limited but easily interpretable information did lead to a significant reduction in treatment selection accuracy compared to baseline questions. These results suggest that incorrect ML recommendations may adversely impact clinician treatment selections and that explanations are insufficient for addressing overreliance on imperfect ML algorithms. More generally, our findings challenge the common assumption that clinicians interacting with ML tools will perform better than either clinicians or ML algorithms individually.},\n        }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

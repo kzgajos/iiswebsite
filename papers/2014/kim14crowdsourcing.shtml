@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Crowdsourcing Step-by-step Information Extraction to Enhance Existing How-to Videos</title>
+<meta name="twitter:card" content="summary" />
+<meta property="og:image" content="papers/2014/kim14crowdsourcing.jpg">
+<meta property="og:title" content="Crowdsourcing Step-by-step Information Extraction to Enhance Existing How-to Videos">
+<meta property="og:description" content="<p>Millions of learners today use how-to videos to master new skills in a variety of domains. But browsing such videos is often tedious and inefficient because video player interfaces are not optimized for the unique step-by-step structure of such videos. This research aims to improve the learning experience of existing how-to videos with step-by-step annotations.</p><p>We first performed a formative study to verify that annotations are actually useful to learners. We created ToolScape, an interactive video player that displays step descriptions and intermediate result thumbnails in the video timeline. Learners in our study performed better and gained more self-efficacy using ToolScape versus a traditional video player.</p><p>To add the needed step annotations to existing how-to videos at scale, we introduce a novel crowdsourcing workflow. It extracts step-by-step structure from an existing video, including step times, descriptions, and before and after images. We introduce the Find-Verify-Expand design pattern for temporal and visual annotation, which applies clustering, text processing, and visual analysis algorithms to merge crowd output. The workflow does not rely on domain-specific customization, works on top of existing videos, and recruits untrained crowd workers. We evaluated the workflow with Mechanical Turk, using 75 cooking, makeup, and Photoshop videos on YouTube. Results show that our workflow can extract steps with a quality comparable to that of trained annotators across all three domains with 77\% precision and 81\% recall.</p>">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Crowdsourcing Step-by-step Information Extraction to Enhance Existing How-to Videos</h1>
+<h2 class="head">Juho Kim, Phu&nbsp;Tran Nguyen, Sarah Weir, Philip&nbsp;J. Guo, Robert&nbsp;C. Miller, and Krzysztof&nbsp;Z. Gajos</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+<img style="margin-left: 15px; margin-bottom: 10px; max-width: 300px" align="right" alt="" src="papers/2014/kim14crowdsourcing.jpg"/>
+<p>Millions of learners today use how-to videos to master new skills in a variety of domains. But browsing such videos is often tedious and inefficient because video player interfaces are not optimized for the unique step-by-step structure of such videos. This research aims to improve the learning experience of existing how-to videos with step-by-step annotations.</p><p>We first performed a formative study to verify that annotations are actually useful to learners. We created ToolScape, an interactive video player that displays step descriptions and intermediate result thumbnails in the video timeline. Learners in our study performed better and gained more self-efficacy using ToolScape versus a traditional video player.</p><p>To add the needed step annotations to existing how-to videos at scale, we introduce a novel crowdsourcing workflow. It extracts step-by-step structure from an existing video, including step times, descriptions, and before and after images. We introduce the Find-Verify-Expand design pattern for temporal and visual annotation, which applies clustering, text processing, and visual analysis algorithms to merge crowd output. The workflow does not rely on domain-specific customization, works on top of existing videos, and recruits untrained crowd workers. We evaluated the workflow with Mechanical Turk, using 75 cooking, makeup, and Photoshop videos on YouTube. Results show that our workflow can extract steps with a quality comparable to that of trained annotators across all three domains with 77\% precision and 81\% recall.</p>
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2014/kim14crowdsourcing.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="http://dx.doi.org/10.1145/2556288.2556986">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+<h3>Video</h3>
+<div class="content">
+<div class="video" style="float: right; margin-left: 15px; margin-bottom: 10px;">
+{<iframe width="420" height="315" src="//www.youtube.com/embed/-l5AKSa0ymo?rel=0" frameborder="0" allowfullscreen></iframe>}
+</div>
+<br clear="all"/>
+</div>
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Juho Kim, Phu&nbsp;Tran Nguyen, Sarah Weir, Philip&nbsp;J. Guo, Robert&nbsp;C. Miller, and Krzysztof&nbsp;Z. Gajos. Crowdsourcing step-by-step information extraction to enhance existing how-to videos. In <EM>Proceedings of the 32Nd Annual ACM Conference on Human Factors in Computing Systems</EM>, CHI '14, pages 4017&ndash;4026, New York, NY, USA, 2014. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: kim14:crowdsourcing','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: kim14:crowdsourcing</TITLE></HEAD><BODY><PRE>@inproceedings{kim14:crowdsourcing,\n  author = {Kim, Juho and Nguyen, Phu Tran and Weir, Sarah and Guo, Philip J. and Miller, Robert C. and Gajos, Krzysztof Z.},\n  title = {Crowdsourcing Step-by-step Information Extraction to Enhance Existing How-to Videos},\n  booktitle = {Proceedings of the 32Nd Annual ACM Conference on Human Factors in Computing Systems},\n  series = {CHI \'14},\n  year = {2014},\n  isbn = {978-1-4503-2473-1},\n  location = {Toronto, Ontario, Canada},\n  pages = {4017--4026},\n  numpages = {10},\n    doi = {10.1145/2556288.2556986},\n  acmid = {2556986},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  abstract = {<p>Millions of learners today use how-to videos to master new skills in a variety of domains. But browsing such videos is often tedious and inefficient because video player interfaces are not optimized for the unique step-by-step structure of such videos. This research aims to improve the learning experience of existing how-to videos with step-by-step annotations.</p><p>We first performed a formative study to verify that annotations are actually useful to learners. We created ToolScape, an interactive video player that displays step descriptions and intermediate result thumbnails in the video timeline. Learners in our study performed better and gained more self-efficacy using ToolScape versus a traditional video player.</p><p>To add the needed step annotations to existing how-to videos at scale, we introduce a novel crowdsourcing workflow. It extracts step-by-step structure from an existing video, including step times, descriptions, and before and after images. We introduce the Find-Verify-Expand design pattern for temporal and visual annotation, which applies clustering, text processing, and visual analysis algorithms to merge crowd output. The workflow does not rely on domain-specific customization, works on top of existing videos, and recruits untrained crowd workers. We evaluated the workflow with Mechanical Turk, using 75 cooking, makeup, and Photoshop videos on YouTube. Results show that our workflow can extract steps with a quality comparable to that of trained annotators across all three domains with 77\% precision and 81\% recall.</p>},\n  award = {Honorable Mention},\n          }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

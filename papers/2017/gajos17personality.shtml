@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>The Influence of Personality Traits and Cognitive Load on the Use of Adaptive User Interfaces</title>
+<meta name="twitter:card" content="summary" />
+<meta property="og:image" content="http://www.eecs.harvard.edu/~kgajos/papers/images/gajos17personality-600.png">
+<meta property="og:title" content="The Influence of Personality Traits and Cognitive Load on the Use of Adaptive User Interfaces">
+<meta property="og:description" content="One of the problems adaptive interfaces must solve is the issue of stability---users must be able to complete a familiar task reliably. Split Adaptive Interfaces, where a limited part of the screen contains copies of the interface elements predicted to be of immediate use, are one technique for resolving this difficulty. While prior work demonstrated that Split Adaptive Interfaces improve performance on average, the results of our study demonstrate systematic individual differences in the utilization of the adaptive features, which correlate with the stable user traits of Need for Cognition and Extraversion. Specifically, higher Need for Cognition (a willingness to undertake difficult mental activities) is correlated with increased utilization rates, while higher Extraversion (a general orientation towards seeking gratification from the external world) is negatively correlated with utilization rates. Our results also demonstrate a significant negative correlation between cognitive load induced by a secondary task and the utilization of the adaptive features. This effect, however, is very small (less than two percentage points). Together, these results provide additional evidence of the usefulness of the split adaptive interface approach and a negligible effect of additional cognitive load, but also demonstrate that the approach does not benefit all users equally.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">The Influence of Personality Traits and Cognitive Load on the Use of Adaptive User Interfaces</h1>
+<h2 class="head">Krzysztof&nbsp;Z. Gajos and Krysta Chauncey</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+<img style="margin-left: 15px; margin-bottom: 10px; max-width: 300px" align="right" alt="" src="http://www.eecs.harvard.edu/~kgajos/papers/images/gajos17personality-600.png"/>
+One of the problems adaptive interfaces must solve is the issue of stability---users must be able to complete a familiar task reliably. Split Adaptive Interfaces, where a limited part of the screen contains copies of the interface elements predicted to be of immediate use, are one technique for resolving this difficulty. While prior work demonstrated that Split Adaptive Interfaces improve performance on average, the results of our study demonstrate systematic individual differences in the utilization of the adaptive features, which correlate with the stable user traits of Need for Cognition and Extraversion. Specifically, higher Need for Cognition (a willingness to undertake difficult mental activities) is correlated with increased utilization rates, while higher Extraversion (a general orientation towards seeking gratification from the external world) is negatively correlated with utilization rates. Our results also demonstrate a significant negative correlation between cognitive load induced by a secondary task and the utilization of the adaptive features. This effect, however, is very small (less than two percentage points). Together, these results provide additional evidence of the usefulness of the split adaptive interface approach and a negligible effect of additional cognitive load, but also demonstrate that the approach does not benefit all users equally.
+<br clear="right"/>
+</div>
+
+
+
+<h3>Additional information</h3>
+<div class="content">
+<ul>
+<li><a href="https://labinthewild.tumblr.com/post/155444239065/thinking-vs-clicking-in-modern-user-interfaces">Blog post</a></li>
+</ul>
+</div>
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2017/gajos17personality.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="http://doi.acm.org/10.1145/3025171.3025192">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+<h3>Additional Resources</h3>
+<div class="content">
+<a href="http://iis.seas.harvard.edu/resources/#gajos17personality">Data</a>
+</div>
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Krzysztof&nbsp;Z. Gajos and Krysta Chauncey. The influence of personality traits and cognitive load on the use of adaptive user interfaces. In <EM>Proceedings of the 22Nd International Conference on Intelligent User Interfaces</EM>, IUI '17, pages 301&ndash;306, New York, NY, USA, 2017. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: gajos17:personality','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: gajos17:personality</TITLE></HEAD><BODY><PRE>@inproceedings{gajos17:personality,\n  author = {Gajos, Krzysztof Z. and Chauncey, Krysta},\n  title = {The Influence of Personality Traits and Cognitive Load on the Use of Adaptive User Interfaces},\n  booktitle = {Proceedings of the 22Nd International Conference on Intelligent User Interfaces},\n  series = {IUI \'17},\n  year = {2017},\n  isbn = {978-1-4503-4348-0},\n  location = {Limassol, Cyprus},\n  pages = {301--306},\n  numpages = {6},\n    doi = {10.1145/3025171.3025192},\n  acmid = {3025192},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  keywords = {adaptive user interfaces, cognitive load, extraversion, need for cognition},\n  abstract = {One of the problems adaptive interfaces must solve is the issue of stability---users must be able to complete a familiar task reliably. Split Adaptive Interfaces, where a limited part of the screen contains copies of the interface elements predicted to be of immediate use, are one technique for resolving this difficulty. While prior work demonstrated that Split Adaptive Interfaces improve performance on average, the results of our study demonstrate systematic individual differences in the utilization of the adaptive features, which correlate with the stable user traits of Need for Cognition and Extraversion. Specifically, higher Need for Cognition (a willingness to undertake difficult mental activities) is correlated with increased utilization rates, while higher Extraversion (a general orientation towards seeking gratification from the external world) is negatively correlated with utilization rates. Our results also demonstrate a significant negative correlation between cognitive load induced by a secondary task and the utilization of the adaptive features. This effect, however, is very small (less than two percentage points). Together, these results provide additional evidence of the usefulness of the split adaptive interface approach and a negligible effect of additional cognitive load, but also demonstrate that the approach does not benefit all users equally.},\n              }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

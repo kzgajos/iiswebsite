@@ -1,0 +1,16 @@
+<a name="learnersourcing"></a>
+<h4 class="ptitle"><a href="http://tellab.org/" class="external">TELLab</a>: Experimentation @ Scale to Support Experiential Learning in Social Sciences and Design</h4>
+<p>
+<img class="thumbleft" src="http://iis.seas.harvard.edu/projects/images/tellab-400.png" alt="" width="200" align="left"/>
+Well-conducted lecture demonstrations of natural phenomena improve students' engagement, learning and retention of knowledge. Similarly, laboratory modules that allow for genuine exploration and discovery of relevant concepts can improve learning outcomes. These pedagogical techniques are used frequently in natural sciences and engineering to teach students about phenomena in the physical world. But how might we conduct a lecture demonstration to demonstrate impact of extraneous cognitive load on performance? How might we design a lab, in which students explore how adding decorations to visualizations impacts the comprehension and memorability of visualizations?
+We are developing tools, content and procedures to bring experiential learning techniques to social science and design-related courses that teach concepts related to human perception, cognition and behavior. Specifically, we are working to develop software technologies to enable rapid, large-scale and ethical online human-subjects experimentation in undergraduate design-related courses. 
+See the <a href="http://tellab.org/" class="external">project web site</a> for more.
+</p>
+
+<div class="ppapers">
+<P class="paper" id='xli15:tellabx'>Na&nbsp;Li, Krzysztof&nbsp;Z. Gajos, Ken Nakayama, and Ryan Enos. <a href="papers/2015/li15tellab-wip.pdf">TELLab: An Experiential Learning Tool for Psychology</a>. In <EM>Proceedings of the Second (2015) ACM Conference on Learning @ Scale</EM>, L@S '15, pages 293&ndash;297, New York, NY, USA, 2015. ACM.
+<br/><span class="paperdetails">[<a href="papers/2015/li15tellab.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+</div>
+
+<br clear="all" />
+

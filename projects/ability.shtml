@@ -1,0 +1,14 @@
+<a name="ability"></a>
+<h4 class="ptitle"><a href="projects/abui">Ability-Based User Interfaces</a></h4>
+<!--<div class="pauthors">Krzysztof Z. Gajos, Jacob O. Wobbrock (UW), Jing Jing Long (UW), and Daniel S. Weld (UW)</div>-->
+<p>
+<a href="projects/abui"><img class="thumbleft" src="http://www.eecs.harvard.edu/~kgajos/papers/images/kgajos-uist07-thumb.png" alt="" width="200" height="126" align="left"/></a>
+
+Most of today's GUIs are designed for the typical, able-bodied user.
+People with unusual abilities (due to a disability, a temporary injury, or who are just trying to operate a small device with cold fingers) have to adapt <em>themselves</em> to the user interfaces, perhaps using assistive technologies.  
+We are working to reverse this situation: we believe that <em>user interfaces</em> should be adapted to the invidual abilities, devices, and preferences of the people who use them.</p>  
+
+<p><a href="projects/abui/#projects">Several invidual projects</a> in our group contribute to this vision.  Our work on the <a href="projects/supple/">SUPPLE system</a>, for example, demonstrated that we can automatically generate user interfaces adapted to a person's individual motor and vision abilities.  The results of our studies showed that people with motor impairments were significantly faster and strongly preferred such automatically generated ability-based interfaces to the defaults provided by the software manufacturers.</p>
+<p>Papers, video, and other resources are available on the <a href="projects/abui/">project web site.</a>
+</p>
+<br clear="all" />

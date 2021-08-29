@@ -1,0 +1,15 @@
+<a name="curio"></a>
+<h4 class="ptitle">Curio: a platform for crowdsourcing research tasks in sciences and humanities</h4>
+<p>
+<img class="thumbleft" src="http://iis.seas.harvard.edu/projects/images/curio.png" alt="" width="200"
+height="137" align="left"/>
+
+Curio is intended to be a platform for crowdsourcing research tasks in sciences and humanities.    The platform is designed to allow researchers to create and launch a new crowdsourcing project within minutes, monitor and control aspects of the crowdsourcing process with minimal effort.   With Curio, we are exploring a brand new model of citizen science that significantly lowers the barrier of entry for scientists, developing new interfaces and algorithms for supporting mixed-expertise crowdsourcing, and investigating a variety of human computation questions related to task decomposition, incentive design and quality control.  
+</p>
+
+<div class="ppapers">
+<P class="paper" id='xlaw13:curiox'>Edith Law, Conner Dalton, Nick Merrill, Albert Young, and Krzysztof&nbsp;Z. Gajos. <a href="papers/2013/law13curio.pdf">Curio: A Platform for Supporting Mixed-Expertise Crowdsourcing</a>. In <EM>Proceedings of HCOMP 2013</EM>. AAAI Press, 2013. To appear.
+
+<br/><span class="paperdetails">[<a href="papers/2013/law13curio.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+</div>
+<br clear="all" />

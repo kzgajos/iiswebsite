@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>AI Support of Teamwork for Coordinated Care of Children with Complex Conditions</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="AI Support of Teamwork for Coordinated Care of Children with Complex Conditions">
+<meta property="og:description" content="Children with complex health conditions require care from a large, diverse set of caregivers that includes parents and community support organizations as well as multiple types of medical professionals. Coordination of their care is essential for good outcomes, and extensive research has shown that the use of integrated, team-based care plans improves care coordination. Care plans, however, are rarely deployed in practice. This paper describes barriers to effective implementation of care plans in complex care revealed by a study of care providers treating such children. It draws on teamwork theories, identifying ways AI capabilities could enhance care plan use; describes the design of GoalKeeper, a system to support providers use of care plans; and describes initial work toward information sharing algorithms for such systems.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">AI Support of Teamwork for Coordinated Care of Children with Complex Conditions</h1>
+<h2 class="head">Ofra Amir, Barbara&nbsp;J. Grosz, Krzysztof&nbsp;Z. Gajos, Sonja&nbsp;M. Swenson, and Lee&nbsp;M. Sanders</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Children with complex health conditions require care from a large, diverse set of caregivers that includes parents and community support organizations as well as multiple types of medical professionals. Coordination of their care is essential for good outcomes, and extensive research has shown that the use of integrated, team-based care plans improves care coordination. Care plans, however, are rarely deployed in practice. This paper describes barriers to effective implementation of care plans in complex care revealed by a study of care providers treating such children. It draws on teamwork theories, identifying ways AI capabilities could enhance care plan use; describes the design of GoalKeeper, a system to support providers use of care plans; and describes initial work toward information sharing algorithms for such systems.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2014/amir14AIsupport.pdf">Authors' version (pdf)</a></li>
+
+
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Ofra Amir, Barbara&nbsp;J. Grosz, Krzysztof&nbsp;Z. Gajos, Sonja&nbsp;M. Swenson, and Lee&nbsp;M. Sanders. AI Support of Teamwork for Coordinated Care of Children with Complex Conditions. In <EM>AAAI Fall Symposium: Expanding the Boundaries of Health Informatics Using AI: Making Personalized and Participatory Medicine A Reality</EM>, 2014.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: amir14:ai','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: amir14:ai</TITLE></HEAD><BODY><PRE>@inproceedings{amir14:ai,\n  author = {Ofra Amir and Barbara J. Grosz and Krzysztof Z. Gajos and Sonja M. Swenson and Lee M. Sanders},\n  title = {{AI Support of Teamwork for Coordinated Care of Children with Complex Conditions}},\n  booktitle = {{AAAI Fall Symposium: Expanding the Boundaries of Health Informatics Using AI: Making Personalized and Participatory Medicine A Reality}},\n  year = {2014},\n  abstract = {Children with complex health conditions require care from a large, diverse set of caregivers that includes parents and community support organizations as well as multiple types of medical professionals. Coordination of their care is essential for good outcomes, and extensive research has shown that the use of integrated, team-based care plans improves care coordination. Care plans, however, are rarely deployed in practice. This paper describes barriers to effective implementation of care plans in complex care revealed by a study of care providers treating such children. It draws on teamwork theories, identifying ways AI capabilities could enhance care plan use; describes the design of GoalKeeper, a system to support providers use of care plans; and describes initial work toward information sharing algorithms for such systems.},\n    }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Understanding How to Design Complex Brain-Controlled Applications</title>
+<meta name="twitter:card" content="summary" />
+<meta property="og:image" content="papers/images/BCI-thumb.jpg">
+<meta property="og:title" content="Understanding How to Design Complex Brain-Controlled Applications">
+<meta property="og:description" content="<p>Most of the effort in brain-computer interface (BCI) research so far has been directed at developing better sensors and better ways of extracting useful information from the brain signal, while little effort has been directed at systematically understanding the unique strengths and limitations of this input modality and their implications for interaction design. Past proof of concept brain-controlled applications either involved very simple interaction or they augmented existing complex applications with external widgets to enable limited control. </p><p> This relative lack of research directed at developing applications and interaction methods specifically for brain-computer interfaces is a concern for several reasons. First, some BCI technologies are mature enough to be used soon by large numbers of paralyzed users. Lack of compelling brain-controlled applications or the tools and techniques for building such applications will significantly limit the impact of these technologies. Second, recent work on ability-based user interfaces has demonstrated that large gains in efficiency of interaction and user satisfaction can be achieved if user interfaces are designed with a user's specific abilities and devices in mind. The results of our studies showed that adapting user interfaces to the unique abilities of people with a range of motor impairments helped close the performance gap between those users and able-bodied people by over 60%. For BCI users, who need up to several tens of seconds to perform a single UI operation, efficiency of interaction will have an even larger impact and will likely determine whether an application is usable in practice. Lastly, a lot of the current research effort in BCI is directed at improving various aspects of the sensing and signal extraction technology. Good understanding of the user interaction requirements of brain-controlled applications will help inform and direct those efforts to maximize their impact on the user experience. </p><p> Motivated by these observations, we are starting a project to explore the properties and limitations of one particularly promising BCI paradigm as an input modality and to develop methods and tools for designing user interfaces for complex brain-controlled applications.</p>">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Understanding How to Design Complex Brain-Controlled Applications</h1>
+<h2 class="head">Krzysztof&nbsp;Z. Gajos</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+<img style="margin-left: 15px; margin-bottom: 10px; max-width: 300px" align="right" alt="" src="papers/images/BCI-thumb.jpg"/>
+<p>Most of the effort in brain-computer interface (BCI) research so far has been directed at developing better sensors and better ways of extracting useful information from the brain signal, while little effort has been directed at systematically understanding the unique strengths and limitations of this input modality and their implications for interaction design. Past proof of concept brain-controlled applications either involved very simple interaction or they augmented existing complex applications with external widgets to enable limited control. </p><p> This relative lack of research directed at developing applications and interaction methods specifically for brain-computer interfaces is a concern for several reasons. First, some BCI technologies are mature enough to be used soon by large numbers of paralyzed users. Lack of compelling brain-controlled applications or the tools and techniques for building such applications will significantly limit the impact of these technologies. Second, recent work on ability-based user interfaces has demonstrated that large gains in efficiency of interaction and user satisfaction can be achieved if user interfaces are designed with a user's specific abilities and devices in mind. The results of our studies showed that adapting user interfaces to the unique abilities of people with a range of motor impairments helped close the performance gap between those users and able-bodied people by over 60%. For BCI users, who need up to several tens of seconds to perform a single UI operation, efficiency of interaction will have an even larger impact and will likely determine whether an application is usable in practice. Lastly, a lot of the current research effort in BCI is directed at improving various aspects of the sensing and signal extraction technology. Good understanding of the user interaction requirements of brain-controlled applications will help inform and direct those efforts to maximize their impact on the user experience. </p><p> Motivated by these observations, we are starting a project to explore the properties and limitations of one particularly promising BCI paradigm as an input modality and to develop methods and tools for designing user interfaces for complex brain-controlled applications.</p>
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2010/gajos-BrainBodyBytes-2010.pdf">Authors' version (pdf)</a></li>
+
+
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Krzysztof&nbsp;Z. Gajos. Understanding how to design complex brain-controlled applications. In <EM>Proceedings of the Workshop on Brain, Body and Bytes: Psychophysiological User Interaction at CHI'10</EM>, 2010.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: gajos10:understanding','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: gajos10:understanding</TITLE></HEAD><BODY><PRE>@inproceedings{gajos10:understanding,\n  author = {Krzysztof Z. Gajos},\n  title = {Understanding How to Design Complex Brain-Controlled Applications},\n  booktitle = {Proceedings of the Workshop on Brain, Body and Bytes: Psychophysiological User Interaction at CHI\'10},\n  year = {2010},\n  abstract = {<p>Most of the effort in brain-computer interface (BCI) research so far has been directed at developing better sensors and better ways of extracting useful information from the brain signal, while little effort has been directed at systematically understanding the unique strengths and limitations of this input modality and their implications for interaction design. Past proof of concept brain-controlled applications either involved very simple interaction or they augmented existing complex applications with external widgets to enable limited control. </p><p> This relative lack of research directed at developing applications and interaction methods specifically for brain-computer interfaces is a concern for several reasons. First, some BCI technologies are mature enough to be used soon by large numbers of paralyzed users. Lack of compelling brain-controlled applications or the tools and techniques for building such applications will significantly limit the impact of these technologies. Second, recent work on ability-based user interfaces has demonstrated that large gains in efficiency of interaction and user satisfaction can be achieved if user interfaces are designed with a user\'s specific abilities and devices in mind. The results of our studies showed that adapting user interfaces to the unique abilities of people with a range of motor impairments helped close the performance gap between those users and able-bodied people by over 60%. For BCI users, who need up to several tens of seconds to perform a single UI operation, efficiency of interaction will have an even larger impact and will likely determine whether an application is usable in practice. Lastly, a lot of the current research effort in BCI is directed at improving various aspects of the sensing and signal extraction technology. Good understanding of the user interaction requirements of brain-controlled applications will help inform and direct those efforts to maximize their impact on the user experience. </p><p> Motivated by these observations, we are starting a project to explore the properties and limitations of one particularly promising BCI paradigm as an input modality and to develop methods and tools for designing user interfaces for complex brain-controlled applications.</p>},\n        }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

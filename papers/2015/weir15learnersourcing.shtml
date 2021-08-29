@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Learnersourcing Subgoal Labels for How-to Videos</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Learnersourcing Subgoal Labels for How-to Videos">
+<meta property="og:description" content="Websites like YouTube host millions of how-to videos, but their interfaces are not optimized for learning. Previous research suggests that people learn more from how-to videos when the videos are accompanied by outlines showing individual steps and labels for groups of steps (subgoals). We envision an alternative video player where the steps and subgoals are displayed alongside the video. To generate this information for existing videos, we introduce learnersourcing, an approach in which intrinsically motivated learners contribute to a human computation workflow as they naturally go about learning from the videos. To demonstrate this method, we deployed a live website with a workflow for constructing subgoal labels implemented on a set of introductory web programming videos. For the four videos with the highest participation, we found that a majority of learner-generated subgoals were comparable in quality to expert-generated ones. Learners commented that the system helped them grasp the material, suggesting that our workflow did not detract from the learning experience.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Learnersourcing Subgoal Labels for How-to Videos</h1>
+<h2 class="head">Sarah Weir, Juho Kim, Krzysztof&nbsp;Z. Gajos, and Robert&nbsp;C. Miller</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Websites like YouTube host millions of how-to videos, but their interfaces are not optimized for learning. Previous research suggests that people learn more from how-to videos when the videos are accompanied by outlines showing individual steps and labels for groups of steps (subgoals). We envision an alternative video player where the steps and subgoals are displayed alongside the video. To generate this information for existing videos, we introduce learnersourcing, an approach in which intrinsically motivated learners contribute to a human computation workflow as they naturally go about learning from the videos. To demonstrate this method, we deployed a live website with a workflow for constructing subgoal labels implemented on a set of introductory web programming videos. For the four videos with the highest participation, we found that a majority of learner-generated subgoals were comparable in quality to expert-generated ones. Learners commented that the system helped them grasp the material, suggesting that our workflow did not detract from the learning experience.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2015/weir15learnersourcing.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="http://dx.doi.org/10.1145/2675133.2675219">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Sarah Weir, Juho Kim, Krzysztof&nbsp;Z. Gajos, and Robert&nbsp;C. Miller. Learnersourcing subgoal labels for how-to videos. In <EM>Proceedings of the 18th ACM Conference on Computer Supported Cooperative Work &amp; Social Computing</EM>, CSCW '15, pages 405&ndash;416, New York, NY, USA, 2015. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: weir15:learnersourcing','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: weir15:learnersourcing</TITLE></HEAD><BODY><PRE>@inproceedings{weir15:learnersourcing,\n  author = {Weir, Sarah and Kim, Juho and Gajos, Krzysztof Z. and Miller, Robert C.},\n  title = {Learnersourcing Subgoal Labels for How-to Videos},\n  booktitle = {Proceedings of CSCW\'15},\n  series = {CSCW \'15},\n  year = {2015},\n  isbn = {978-1-4503-2922-4},\n  location = {Vancouver, BC, Canada},\n  pages = {405--416},\n  numpages = {12},\n    doi = {10.1145/2675133.2675219},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  keywords = {learnersourcing, subgoal labels, video learning},\n  booktitle = {Proceedings of CSCW\'15},\n  abstract = {Websites like YouTube host millions of how-to videos, but their interfaces are not optimized for learning. Previous research suggests that people learn more from how-to videos when the videos are accompanied by outlines showing individual steps and labels for groups of steps (subgoals). We envision an alternative video player where the steps and subgoals are displayed alongside the video. To generate this information for existing videos, we introduce learnersourcing, an approach in which intrinsically motivated learners contribute to a human computation workflow as they naturally go about learning from the videos. To demonstrate this method, we deployed a live website with a workflow for constructing subgoal labels implemented on a set of introductory web programming videos. For the four videos with the highest participation, we found that a majority of learner-generated subgoals were comparable in quality to expert-generated ones. Learners commented that the system helped them grasp the material, suggesting that our workflow did not detract from the learning experience.},\n      }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

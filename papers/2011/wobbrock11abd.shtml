@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Ability-Based Design: Concept, Principles and Examples</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Ability-Based Design: Concept, Principles and Examples">
+<meta property="og:description" content="Current approaches to accessible computing share a common goal of making technology accessible to users with disabilities. Perhaps because of this goal, they may also share a tendency to centralize disability rather than ability. We present a refinement to these approaches called ability-based design that consists of focusing on ability throughout the design process in an effort to create systems that leverage the full range of human potential. Just as user-centered design shifted the focus of interactive system design from systems to users, ability-based design attempts to shift the focus of accessible design from disability to ability. Although prior approaches to accessible computing may consider users' abilities to some extent, ability-based design makes ability its central focus. We offer seven ability-based design principles and describe the projects that inspired their formulation. We also present a research agenda for ability-based design.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Ability-Based Design: Concept, Principles and Examples</h1>
+<h2 class="head">Jacob&nbsp;O. Wobbrock, Shaun&nbsp;K. Kane, Krzysztof&nbsp;Z. Gajos, Susumu Harada, and Jon Froehlich</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Current approaches to accessible computing share a common goal of making technology accessible to users with disabilities. Perhaps because of this goal, they may also share a tendency to centralize disability rather than ability. We present a refinement to these approaches called ability-based design that consists of focusing on ability throughout the design process in an effort to create systems that leverage the full range of human potential. Just as user-centered design shifted the focus of interactive system design from systems to users, ability-based design attempts to shift the focus of accessible design from disability to ability. Although prior approaches to accessible computing may consider users' abilities to some extent, ability-based design makes ability its central focus. We offer seven ability-based design principles and describe the projects that inspired their formulation. We also present a research agenda for ability-based design.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2011/wobbrock11abd.pdf">Authors' version (pdf)</a></li>
+<li><a class="external" href="http://www.eecs.harvard.edu/~kgajos/papers/authorizer.html?url=http://dl.acm.org/authorize?078663">Free access via ACM Authorizer</a></li>
+<li><a class="external" href="http://doi.acm.org/10.1145/1952383.1952384">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Jacob&nbsp;O. Wobbrock, Shaun&nbsp;K. Kane, Krzysztof&nbsp;Z. Gajos, Susumu Harada, and Jon Froehlich. Ability-based design: Concept, principles and examples. <EM>ACM Trans. Access. Comput.</EM>, 3:9:1&ndash;9:27, April 2011.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: wobbrock11:abd','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: wobbrock11:abd</TITLE></HEAD><BODY><PRE>@article{wobbrock11:abd,\n  author = {Wobbrock, Jacob O. and Kane, Shaun K. and Gajos, Krzysztof Z. and Harada, Susumu and Froehlich, Jon},\n  title = {Ability-Based Design: Concept, Principles and Examples},\n  journal = {ACM Trans. Access. Comput.},\n  issue_date = {April 2011},\n  volume = {3},\n  issue = {3},\n  month = {April},\n  year = {2011},\n  issn = {1936-7228},\n  pages = {9:1--9:27},\n  articleno = {9},\n  numpages = {27},\n    doi = {http://doi.acm.org/10.1145/1952383.1952384},\n  acmid = {1952384},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  keywords = {Ability-based design, adaptive user interfaces, assistive technology, computer access, design for all, inclusive design, universal design, universal usability, user interfaces for all},\n  abstract = {Current approaches to accessible computing share a common goal of making technology accessible to users with disabilities. Perhaps because of this goal, they may also share a tendency to centralize disability rather than ability. We present a refinement to these approaches called ability-based design that consists of focusing on ability throughout the design process in an effort to create systems that leverage the full range of human potential. Just as user-centered design shifted the focus of interactive system design from systems to users, ability-based design attempts to shift the focus of accessible design from disability to ability. Although prior approaches to accessible computing may consider users\' abilities to some extent, ability-based design makes ability its central focus. We offer seven ability-based design principles and describe the projects that inspired their formulation. We also present a research agenda for ability-based design.},\n          }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

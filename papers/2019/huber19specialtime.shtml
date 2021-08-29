@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>SpecialTime: Automatically Detecting Dialogue Acts from Speech to Support Parent-Child Interaction Therapy</title>
+<meta name="twitter:card" content="summary" />
+<meta property="og:image" content="http://www.eecs.harvard.edu/~kgajos/papers/images/specialtime-1000.png">
+<meta property="og:title" content="SpecialTime: Automatically Detecting Dialogue Acts from Speech to Support Parent-Child Interaction Therapy">
+<meta property="og:description" content="Parent-child interaction therapy (PCIT) helps parents improve the quality of interaction with children who have behavior problems. The therapy trains parents to use effective dialogue acts when interacting with their children. Besides weekly coaching by therapists, the therapy relies on deliberate practice of skills by parents in their homes. We developed SpecialTime, a system that provides parents engaged in PCIT with automatic, real-time feedback on their dialogue act use. To do this, we first created a dataset of 6,022 parent dialogue acts, annotated by experts with dialogue act labels that therapists use to code parent speech. We then developed an algorithm that classifies the dialogue acts into 8 classes with an overall accuracy of 78%. To test the system in an actual clinical setting, we conducted a one month pilot study with four parents currently in therapy. The results suggest that automatic feedback on spoken dialogue acts is possible in PCIT, and that parents find the automatic feedback useful.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">SpecialTime: Automatically Detecting Dialogue Acts from Speech to Support Parent-Child Interaction Therapy</h1>
+<h2 class="head">Bernd Huber, Richard&nbsp;F. Davis, III, Allison Cotter, Emily Junkin, Mindy Yard, Stuart Shieber, Elizabeth Brestan-Knight, and Krzysztof&nbsp;Z. Gajos</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+<img style="margin-left: 15px; margin-bottom: 10px; max-width: 300px" align="right" alt="" src="http://www.eecs.harvard.edu/~kgajos/papers/images/specialtime-1000.png"/>
+Parent-child interaction therapy (PCIT) helps parents improve the quality of interaction with children who have behavior problems. The therapy trains parents to use effective dialogue acts when interacting with their children. Besides weekly coaching by therapists, the therapy relies on deliberate practice of skills by parents in their homes. We developed SpecialTime, a system that provides parents engaged in PCIT with automatic, real-time feedback on their dialogue act use. To do this, we first created a dataset of 6,022 parent dialogue acts, annotated by experts with dialogue act labels that therapists use to code parent speech. We then developed an algorithm that classifies the dialogue acts into 8 classes with an overall accuracy of 78%. To test the system in an actual clinical setting, we conducted a one month pilot study with four parents currently in therapy. The results suggest that automatic feedback on spoken dialogue acts is possible in PCIT, and that parents find the automatic feedback useful.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2019/huber19specialtime.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="https://doi.org/10.1145/3329189.3329203">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+<h3>Additional Resources</h3>
+<div class="content">
+<a href="https://doi.org/10.7910/DVN/C5Z3SC">Data</a>
+</div>
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Bernd Huber, Richard&nbsp;F. Davis, III, Allison Cotter, Emily Junkin, Mindy Yard, Stuart Shieber, Elizabeth Brestan-Knight, and Krzysztof&nbsp;Z. Gajos. Specialtime: Automatically detecting dialogue acts from speech to support parent-child interaction therapy. In <EM>Proceedings of the 13th EAI International Conference on Pervasive Computing Technologies for Healthcare</EM>, PervasiveHealth'19, pages 139&ndash;148, New York, NY, USA, 2019. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: huber19:specialtime','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: huber19:specialtime</TITLE></HEAD><BODY><PRE>@inproceedings{huber19:specialtime,\n  author = {Huber, Bernd and Davis,III, Richard F. and Cotter, Allison and Junkin, Emily and Yard, Mindy and Shieber, Stuart and Brestan-Knight, Elizabeth and Gajos, Krzysztof Z.},\n  title = {SpecialTime: Automatically Detecting Dialogue Acts from Speech to Support Parent-Child Interaction Therapy},\n  booktitle = {Proceedings of the 13th EAI International Conference on Pervasive Computing Technologies for Healthcare},\n  series = {PervasiveHealth\'19},\n  year = {2019},\n  isbn = {978-1-4503-6126-2},\n  location = {Trento, Italy},\n  pages = {139--148},\n  numpages = {10},\n    doi = {10.1145/3329189.3329203},\n  acmid = {3329203},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  keywords = {Feedback, Healthcare, Machine Learning, Parent-Child Interaction, Therapy},\n  abstract = {Parent-child interaction therapy (PCIT) helps parents improve the quality of interaction with children who have behavior problems. The therapy trains parents to use effective dialogue acts when interacting with their children. Besides weekly coaching by therapists, the therapy relies on deliberate practice of skills by parents in their homes. We developed SpecialTime, a system that provides parents engaged in PCIT with automatic, real-time feedback on their dialogue act use. To do this, we first created a dataset of 6,022 parent dialogue acts, annotated by experts with dialogue act labels that therapists use to code parent speech. We then developed an algorithm that classifies the dialogue acts into 8 classes with an overall accuracy of 78%. To test the system in an actual clinical setting, we conducted a one month pilot study with four parents currently in therapy. The results suggest that automatic feedback on spoken dialogue acts is possible in PCIT, and that parents find the automatic feedback useful.},\n            }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

@@ -1,0 +1,32 @@
+<a name="learnersourcing"></a>
+<h4 class="ptitle">Learnersourcing: Leveraging Crowds of Learners to Improve the Experience of Learning from Videos</h4>
+<p>
+<img class="thumbleft" src="http://iis.seas.harvard.edu/projects/images/toolscape.png" alt=""
+width="200" align="left"/>
+Rich knowledge about the content of educational videos can be used to enable more effective and more enjoyable learning experiences.  We are developing tools that leverage crowds of learners to collect rich meta data about educational videos as a byproduct of the learners' natural interactions with the videos.  We are also developing tools and techniques that use these meta data to improve the learning experience for others.
+</p>
+
+<div class="ppapers">
+<P class="paper" id='xweir15:learnersourcingx'>Sarah Weir, Juho Kim, Krzysztof&nbsp;Z. Gajos, and Robert&nbsp;C. Miller. <a href="papers/2015/weir15learnersourcing.pdf">Learnersourcing Subgoal Labels for How-to Videos</a>. In <EM>Proceedings of CSCW'15</EM>, 2015.
+<br/><span class="paperdetails">[<a href="papers/2015/weir15learnersourcing.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+<P class="paper" id='xkim14:datadrivenx'>Juho Kim, Philip&nbsp;J. Guo, Carrie&nbsp;J. Cai, Shang-Wen&nbsp;(Daniel) Li, Krzysztof&nbsp;Z. Gajos, and Robert&nbsp;C. Miller. <a href="papers/2014/kim-uist14-lecturescape.pdf">Data-Driven Interaction Techniques for Improving Navigation of Educational Videos</a>. In <EM>Proceedings of UIST'14</EM>, 2014. To appear.
+<br/><span class="paperdetails">[<a href="papers/2014/kim14datadriven.shtml">Abstract, BibTeX, Video,  etc.</a>]</span></P>
+
+<P class="paper" id='xkim14:crowdsourcingx'>Juho Kim, Phu Nguyen, Sarah Weir, Philip&nbsp;J Guo, Robert&nbsp;C Miller, and Krzysztof&nbsp;Z. Gajos. <a href="papers/2014/kim14crowdsourcing.pdf">Crowdsourcing Step-by-Step Information Extraction to Enhance Existing How-to Videos</a>. In <EM>Proceedings of CHI 2014</EM>, 2014. To appear.
+<span class="award">&nbsp; Honorable Mention &nbsp;</span>
+<br/><span class="paperdetails">[<a href="papers/2014/kim14crowdsourcing.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+<P class="paper" id='xkim14:leveragingx'>Juho Kim, Shang-Wen&nbsp;(Daniel) Li, Carrie&nbsp;J. Cai, Krzysztof&nbsp;Z. Gajos, and Robert&nbsp;C. Miller. <a href="papers/2014/kim14leveraging.pdf">Leveraging Video Interaction Data and Content Analysis to Improve Video Learning</a>. In <EM>Proceedings of the CHI 2014 Learning Innovation at Scale workshop</EM>, 2014.
+<br/><span class="paperdetails">[<a href="papers/2014/kim14leveraging.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+<P class="paper" id='xkim14:understandingx'>Juho Kim, Philip&nbsp;J. Guo, Daniel&nbsp;T. Seaton, Piotr Mitros, Krzysztof&nbsp;Z. Gajos, and Robert&nbsp;C. Miller. <a href="papers/2014/kim14video.pdf">Understanding In-Video Dropouts and Interaction Peaks in Online Lecture Videos</a>. In <EM>Proceeding of Learning at Scale 2014</EM>, 2014. To appear.
+<br/><span class="paperdetails">[<a href="papers/2014/kim14understanding.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+<P class="paper" id='xkim13:learnersourcingx'>Juho Kim, Robert&nbsp;C. Miller, and Krzysztof&nbsp;Z. Gajos. <a href="papers/2013/kim13learnersourcing.pdf">Learnersourcing subgoal labeling to support learning from how-to videos</a>. In <EM>CHI '13 Extended Abstracts on Human Factors in Computing Systems</EM>, CHI EA '13, pages 685-690, New York, NY, USA, 2013. ACM.
+<br/><span class="paperdetails">[<a href="papers/2013/kim13learnersourcing.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+
+</div>
+<br clear="all" />
+

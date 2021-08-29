@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>LabintheWild: How to Design Uncompensated, Feedback-driven Online Experiments</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="LabintheWild: How to Design Uncompensated, Feedback-driven Online Experiments">
+<meta property="og:description" content="We present LabintheWild, an online experiment platform that provides participants with the opportunity to learn about themselves and compare themselves to others. In the past four years, LabintheWild has attracted approximately 3.5 million participants of diverse ages and education levels who came from more than 200 countries and regions. Leveraging our experience with LabintheWild, we show how researchers can design engaging and robust online experiments that provide personalized feedback. In particular, our interactive tutorial highlights challenges and best-practice guidelines for designing volunteer-based online experiments for diverse participant samples.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">LabintheWild: How to Design Uncompensated, Feedback-driven Online Experiments</h1>
+<h2 class="head">Nigini Oliveira, Eunice Jun, Trevor Croxson, Krzysztof&nbsp;Z. Gajos, and Katharina Reinecke</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+We present LabintheWild, an online experiment platform that provides participants with the opportunity to learn about themselves and compare themselves to others. In the past four years, LabintheWild has attracted approximately 3.5 million participants of diverse ages and education levels who came from more than 200 countries and regions. Leveraging our experience with LabintheWild, we show how researchers can design engaging and robust online experiments that provide personalized feedback. In particular, our interactive tutorial highlights challenges and best-practice guidelines for designing volunteer-based online experiments for diverse participant samples.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2017/oliveira17labinthewild.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="http://doi.acm.org/10.1145/3022198.3023267">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Nigini Oliveira, Eunice Jun, Trevor Croxson, Krzysztof&nbsp;Z. Gajos, and Katharina Reinecke. Labinthewild: How to design uncompensated, feedback-driven online experiments. In <EM>Companion of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing</EM>, CSCW '17 Companion, pages 25&ndash;28, New York, NY, USA, 2017. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: oliveira17:labinthewild','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: oliveira17:labinthewild</TITLE></HEAD><BODY><PRE>@inproceedings{oliveira17:labinthewild,\n  author = {Oliveira, Nigini and Jun, Eunice and Croxson, Trevor and Gajos, Krzysztof Z. and Reinecke, Katharina},\n  title = {LabintheWild: How to Design Uncompensated, Feedback-driven Online Experiments},\n  booktitle = {Companion of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing},\n  series = {CSCW \'17 Companion},\n  year = {2017},\n  isbn = {978-1-4503-4688-7},\n  location = {Portland, Oregon, USA},\n  pages = {25--28},\n  numpages = {4},\n    doi = {10.1145/3022198.3023267},\n  acmid = {3023267},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  abstract = {We present LabintheWild, an online experiment platform that provides participants with the opportunity to learn about themselves and compare themselves to others. In the past four years, LabintheWild has attracted approximately 3.5 million participants of diverse ages and education levels who came from more than 200 countries and regions. Leveraging our experience with LabintheWild, we show how researchers can design engaging and robust online experiments that provide personalized feedback. In particular, our interactive tutorial highlights challenges and best-practice guidelines for designing volunteer-based online experiments for diverse participant samples.},\n      }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

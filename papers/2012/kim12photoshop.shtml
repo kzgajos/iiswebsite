@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Photoshop with friends: a synchronous learning community for graphic design</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Photoshop with friends: a synchronous learning community for graphic design">
+<meta property="og:description" content="Photoshop with Friends is an online community of learners exchanging just-in-time help on graphic design tasks. The system attempts to provide an interactive, visual, context-aware, and personalized mode of learning. Developed as a Facebook application, Photoshop with Friends allows users to help each other in live sessions, with built-in screen sharing, recording, and voice chat support. Major design decisions are guided by two laboratory studies that identified challenges in learning graphic design skills on the web.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Photoshop with friends: a synchronous learning community for graphic design</h1>
+<h2 class="head">Juho Kim, Benjamin Malley, Joel Brandt, Mira Dontcheva, Diana Joseph, Krzysztof&nbsp;Z. Gajos, and Robert&nbsp;C. Miller</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Photoshop with Friends is an online community of learners exchanging just-in-time help on graphic design tasks. The system attempts to provide an interactive, visual, context-aware, and personalized mode of learning. Developed as a Facebook application, Photoshop with Friends allows users to help each other in live sessions, with built-in screen sharing, recording, and voice chat support. Major design decisions are guided by two laboratory studies that identified challenges in learning graphic design skills on the web.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2012/kim12-photoshop.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="http://dx.doi.org/10.1145/2141512.2141598">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Juho Kim, Benjamin Malley, Joel Brandt, Mira Dontcheva, Diana Joseph, Krzysztof&nbsp;Z. Gajos, and Robert&nbsp;C. Miller. Photoshop with friends: a synchronous learning community for graphic design. In <EM>Proceedings of the ACM 2012 conference on Computer Supported Cooperative Work Companion</EM>, CSCW '12, pages 271&ndash;272, New York, NY, USA, 2012. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: kim12:photoshop','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: kim12:photoshop</TITLE></HEAD><BODY><PRE>@inproceedings{kim12:photoshop,\n  author = {Kim, Juho and Malley, Benjamin and Brandt, Joel and Dontcheva, Mira and Joseph, Diana and Gajos, Krzysztof Z. and Miller, Robert C.},\n  title = {Photoshop with friends: a synchronous learning community for graphic design},\n  booktitle = {Proceedings of the ACM 2012 conference on Computer Supported Cooperative Work Companion},\n  series = {CSCW \'12},\n  year = {2012},\n  isbn = {978-1-4503-1051-2},\n  location = {Seattle, Washington, USA},\n  pages = {271--272},\n  numpages = {2},\n    doi = {10.1145/2141512.2141598},\n  acmid = {2141598},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  keywords = {graphic design, online learning, synchronous help},\n  abstract = {Photoshop with Friends is an online community of learners exchanging just-in-time help on graphic design tasks. The system attempts to provide an interactive, visual, context-aware, and personalized mode of learning. Developed as a Facebook application, Photoshop with Friends allows users to help each other in live sessions, with built-in screen sharing, recording, and voice chat support. Major design decisions are guided by two laboratory studies that identified challenges in learning graphic design skills on the web.},\n      }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

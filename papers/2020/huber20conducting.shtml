@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Conducting online virtual environment experiments with uncompensated, unsupervised samples</title>
+<meta name="twitter:card" content="summary" />
+<meta property="og:image" content="http://www.eecs.harvard.edu/~kgajos/papers/images/huber20conducting-800.png">
+<meta property="og:title" content="Conducting online virtual environment experiments with uncompensated, unsupervised samples">
+<meta property="og:description" content="Web-based experimentation with uncompensated and unsupervised samples allows for a larger and more diverse sample population, more generalizable results, and faster theory to experiment cycle. Given that participants are unsupervised, it is still unknown whether the data collected in such settings would be of sufficiently high quality to support robust conclusions. Therefore, we investigated the feasibility of conducting such experiments online using virtual environment technologies. We conducted a conceptual replication of two prior experiments that have been conducted in virtual environments. Our results replicate findings previously obtained in conventional laboratory settings. These results hold across different device types of participants (ranging from desktop, through mobile devices to immersive virtual reality headsets), suggesting that experiments can be conducted online with uncompensated samples in virtual environments.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Conducting online virtual environment experiments with uncompensated, unsupervised samples</h1>
+<h2 class="head">Bernd Huber and Krzysztof&nbsp;Z. Gajos</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+<img style="margin-left: 15px; margin-bottom: 10px; max-width: 300px" align="right" alt="" src="http://www.eecs.harvard.edu/~kgajos/papers/images/huber20conducting-800.png"/>
+Web-based experimentation with uncompensated and unsupervised samples allows for a larger and more diverse sample population, more generalizable results, and faster theory to experiment cycle. Given that participants are unsupervised, it is still unknown whether the data collected in such settings would be of sufficiently high quality to support robust conclusions. Therefore, we investigated the feasibility of conducting such experiments online using virtual environment technologies. We conducted a conceptual replication of two prior experiments that have been conducted in virtual environments. Our results replicate findings previously obtained in conventional laboratory settings. These results hold across different device types of participants (ranging from desktop, through mobile devices to immersive virtual reality headsets), suggesting that experiments can be conducted online with uncompensated samples in virtual environments.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+
+
+<li><a class="external" href="https://doi.org/10.1371/journal.pone.0227629">Publisher's version
+ (Public Library of Science)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+<h3>Additional Resources</h3>
+<div class="content">
+<a href="https://doi.org/10.7910/DVN/TYKHYD">Data</a>
+</div>
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Bernd Huber and Krzysztof&nbsp;Z. Gajos. Conducting online virtual environment experiments with uncompensated, unsupervised samples. <EM>PLOS ONE</EM>, 15(1):1&ndash;17, 01 2020.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: huber20:conducting','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: huber20:conducting</TITLE></HEAD><BODY><PRE>@article{huber20:conducting,\n  author = {Huber, Bernd AND Gajos, Krzysztof Z.},\n  journal = {PLOS ONE},\n  publisher = {Public Library of Science},\n  title = {Conducting online virtual environment experiments with uncompensated, unsupervised samples},\n  year = {2020},\n  month = {01},\n  volume = {15},\n    pages = {1--17},\n  abstract = {Web-based experimentation with uncompensated and unsupervised samples allows for a larger and more diverse sample population, more generalizable results, and faster theory to experiment cycle. Given that participants are unsupervised, it is still unknown whether the data collected in such settings would be of sufficiently high quality to support robust conclusions. Therefore, we investigated the feasibility of conducting such experiments online using virtual environment technologies. We conducted a conceptual replication of two prior experiments that have been conducted in virtual environments. Our results replicate findings previously obtained in conventional laboratory settings. These results hold across different device types of participants (ranging from desktop, through mobile devices to immersive virtual reality headsets), suggesting that experiments can be conducted online with uncompensated samples in virtual environments.},\n  number = {1},\n  doi = {10.1371/journal.pone.0227629},\n          }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

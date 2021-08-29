@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<style type="text/css">
+a#n-resources { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Intelligent Interactive Systems Group -- Model Parameters and Code for "Predicting Users' First Impressions of Website Aesthetics With a Quantification of Perceived Visual Complexity and Colorfulness"</title>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Intelligent Interactive Systems Group at Harvard</h1>
+<h2 class="head">Data for the "Predicting Users' First Impressions of Website Aesthetics With a Quantification of Perceived Visual Complexity and Colorfulness"</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<div class="content">
+
+<H3>Overview</h3>
+<p>We provide two resources for this paper:
+<ul>
+<li><a href="resources/aesthetics-chi13/aesthetics_model.pdf">Parameters of the final model linking colorfulness, complexity, and first impressions of web site aesthetics</a></li>
+<li><a href="https://bitbucket.org/rmardiko/sikuli-design" class="external">The code for computing visual features</a></li>
+</ul>
+These resources refer to the following paper:
+</p>
+
+<P class="paper" id='xreinecke13:predictingx'>Katharina Reinecke, Tom Yeh, Luke Miratrix, Yuechen Zhao, Mardiko Rahmatri, Jenny Liu, and Krzysztof&nbsp;Z. Gajos. <a href="papers/2013/reinecke13aesthetics.pdf">Predicting Users' First Impressions of Website Aesthetics With a Quantification of Perceived Visual Complexity and Colorfulness</a>. In <EM>Proceedings of CHI '13</EM>, 2013. To appear.
+
+<br/><span class="paperdetails">[<a href="papers/2013/reinecke13predicting.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+</div>
+  
+
+<div class="content">
+<h3>Contact</h3>
+<p>The primary contact person for this project is <a
+  href="http://people.seas.harvard.edu/~reinecke/">Katharina Reinecke</a>.</p>
+
+
+</div>
+
+
+<div class="content">This page was last modified on <!--#config timefmt="%B %d, %Y" --> <!--#echo var="LAST_MODIFIED" -->.</div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

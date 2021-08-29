@@ -1,0 +1,30 @@
+<a name="crossing"></a>
+<h4 class="ptitle">Goal crossing vs area pointing for people with motor impairments</h4>
+<div class="pauthors">Jacob O. Wobbrock (UW) and Krzysztof Z. Gajos</div>
+<p>
+<img class="thumbleft" src="http://www.eecs.harvard.edu/~kgajos/papers/images/assets-07-thumb.png" alt="" width="200" height="80" align="left"/>
+Prior work has highlighted the challenges faced by people with
+motor impairments when trying to acquire on-screen targets using
+a mouse or trackball. Two reasons for this are the difficulty of
+positioning the mouse cursor within a confined area, and the
+challenge of accurately executing a click. We hypothesize that
+both of these difficulties with area pointing may be alleviated in a
+different target acquisition paradigm called "goal crossing." In
+goal crossing, users do not acquire a confined area, but instead
+pass over a target line. Although goal crossing has been studied
+for able-bodied users, its suitability for people with motor
+impairments is unknown. 
+In our study, participants with motor impairments were faster with and preferred goal-crossing to area pointing.
+This work provides the empirical
+foundation from which to pursue the design of crossing-based
+interfaces as accessible alternatives to pointing-based interfaces.
+<br/>
+<div class="ppapers">
+<P class="paper" id='xwobbrock08:goalx'>Jacob&nbsp;O. Wobbrock and Krzysztof&nbsp;Z. Gajos. <a href="http://www.eecs.harvard.edu/~kgajos/papers/2008/taccess08.pdf">Goal Crossing with Mice and Trackballs for People with Motor Impairments: Performance, Submovements, and Design Directions</a>. <EM>ACM Trans. Access. Comput.</EM>, 1(1):1-37, May 2008.
+<br/><span class="paperdetails">[<a href="http://www.eecs.harvard.edu/~kgajos/papers/2008/wobbrock08goal.shtml">Abstract, BibTeX, Authorizer,  etc.</a>]</span></P>
+
+<P class="paper" id='xWobbrock2007Comparisonx'>Jacob&nbsp;O. Wobbrock and Krzysztof&nbsp;Z. Gajos. <a href="http://www.eecs.harvard.edu/~kgajos/papers/2007/assets-07.pdf">A comparison of area pointing and goal crossing for people with and without motor impairments</a>. In <EM>Assets '07: Proceedings of the 9th international ACM SIGACCESS conference on Computers and accessibility</EM>, pages 3-10, New York, NY, USA, 2007. ACM.
+<br/><span class="paperdetails">[<a href="http://www.eecs.harvard.edu/~kgajos/papers/2007/Wobbrock2007Comparison.shtml">Abstract, BibTeX, Authorizer,  etc.</a>]</span></P>
+</div>
+</p>
+<br clear="all" />

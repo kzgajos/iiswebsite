@@ -1,0 +1,123 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>##title##</title>
+<meta name="twitter:card" content="summary" />
+<!--??image??<meta property="og:image" content="##image##">??/image??-->
+<meta property="og:title" content="##title##">
+<meta property="og:description" content="##abstract##">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">##title##</h1>
+<h2 class="head">##authors##</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+<!--??abstract??
+<h3>Abstract</h3>
+<div class="content">
+<!--??image??<img style="margin-left: 15px; margin-bottom: 10px; max-width: 300px" align="right" alt="" src="##image##"/>??/image??-->
+##abstract##
+<br clear="right"/>
+</div>
+??/abstract??-->
+
+<!--??blogpost??
+<h3>Additional information</h3>
+<div class="content">
+<ul>
+<li><a href="##blogpost##">Blog post</a></li>
+</ul>
+</div>
+??/blogpost??-->
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<!--??pdf??<li><a href="##pdf##">Authors' version (pdf)</a></li>??/pdf??-->
+<!--??authorizer??<li><a class="external" href="http://www.eecs.harvard.edu/~kgajos/papers/authorizer.html?url=##authorizer##">Free access via ACM Authorizer</a></li>??/authorizer??-->
+<!--??publisherVersion??<li><a class="external" href="##publisherVersion##">Publisher's version
+<!--??publisher?? (##publisher##)??/publisher??-->
+</a></li>??/publisherVersion??-->
+<!--??mendeley??<li><a class="external" href="##mendeley##">Mendeley</a></li>??/mendeley??-->
+<!--??citeulike??<li><a class="external" href="##citeulike##">CiteULike</a></li>??/citeulike??-->
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+<!--??slides-original??
+<h3>Slides</h3>
+<div class="content">
+Original format:
+<ul>
+##slides-original##
+</ul>
+<!--??slides-converted??
+Other formats (automatically converted, may look different from the original presentation):
+<ul>
+##slides-converted##
+</ul>
+??/slides-converted??-->
+</div>
+??/slides-original??-->
+
+<!--??resources??
+<h3>Additional Resources</h3>
+<div class="content">
+<a href="##resources-url##">##resources##</a>
+</div>
+??/resources??-->
+
+<!--??video-embedded??
+<h3>Video</h3>
+<div class="content">
+<div class="video" style="float: right; margin-left: 15px; margin-bottom: 10px;">
+##video-embedded##
+</div>
+<br clear="all"/>
+</div>
+??/video-embedded??-->
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>##citation##</p>
+
+##bibtexButton##
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

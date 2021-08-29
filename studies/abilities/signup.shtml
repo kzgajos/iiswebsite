@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<style type="text/css">
+a#n-signup { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Motor Ability Measure Study</title>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Motor Ability Measure Study</h1>
+
+<h2 class="head">Consent Form</h2>
+
+<!--#include virtual="nav.html" --> 
+
+<div class="content">
+<h3>Informed Consent Form</h3>
+<p>This form contains detailed information designed to help you decide if you want to participate in this study.
+Please consider this information carefully.</p>
+
+<h4>By signing up to participate in this online study, you are certifying that you are at least 18 years of age.</h4>
+
+<h4>Purpose of the research</h4> 
+<p>We are building tools to adapt user interfaces to people's individual abilities.  In this study we are investigating whether we can understand a person's ability to control a pointing device (such as mouse, trackball, eye tracker, etc) by unobtrusively observing their everyday interactions with the computer.</p>
+
+<h4>What you will do in this research</h4>
+<p>Participation in this study does not require leaving your home.</p>
+
+<p>You will first be asked to provide your contact information (name, phone number, and email address) and one of our researchers will contact you by phone to ask basic information about you and how you use your computer.  The researcher will also answer any detailed questions you might have about the study.</p>
+
+<p>Next, we will send you an email with instructions on how to install an extension to your Firefox browser.  For one month, this extension will collect information about the movement of the mouse cursor while you are using the browser.  The extension will also collect information about your typing speed.  It will NOT collect information about what pages you are visiting, what you type, or what you do.  It will only collect information relevant to the speed and accuracy of the cursor movement and typing.  The collected information will be automatically sent to our server.</p>
+
+<p>
+We will also ask you to complete a set of simple tasks (involving clicking and typing).  Depending on what device you use to control the mouse pointer, this task may take between 15 minutes and an hour.  You can perform this task at any time before the completion of this study.  You can perform those tasks all in one sitting or in several shorter sessions.
+</p>
+
+<p>The running of our software will not impact your ability to use your computer or the Internet.  At the end of the study, you will be free to uninstall the software.</p>
+
+<h4>Time required</h4> 
+<p>Participation will take approximately 15 minutes to complete the survey over the phone and 15-50 minutes to perform the clicking and typing tasks.</p>
+
+<h4>Risks</h4> 
+<p>There are no anticipated risks associated with participating in this study.  The effects of performing the clicking and dragging tasks should be comparable to those you would experience from viewing a computer monitor and using your usual pointing device.</p>
+
+<h4>Benefits</h4> 
+<p>Other than the monetary compensation, you will not directly benefit from participating in this study.  If you wish, you can send an email message to prof. Krzysztof Gajos at kgajos@eecs.harvard.edu and he will send you a copy of any manuscripts based on the research (or summaries of our results). </p>
+
+<h4>Compensation</h4> 
+<p>You will receive a $25 Amazon.com gift certificate for participating in this study.  A valid email address is necessary to receive the compensation.</p>
+
+<h4>Confidentiality</h4> 
+<p>Your participation in this study will remain confidential, and your identity will not be stored with your data.  Your responses will be assigned a code, and the list connecting your name with this number will be kept secure and will be destroyed within six months after all the data have been collected and your payment has been sent. </p>
+
+<h4>Participation and withdrawal</h4>
+<p>Your participation in this study is completely voluntary, and you may withdraw at any time without penalty by uninstalling the browser extension. </p>
+
+<h4>To contact the researcher</h4> 
+<p>If you have questions about this research, please contact dr. Katharina Reinecke (<a href="mailto:reinecke@seas.harvard.edu">reinecke@seas.harvard.edu</a> or prof. Krzysztof Gajos (<a href="mailto:kgajos@eecs.harvard.edu">kgajos@eecs.harvard.edu</a>).</p>
+
+<p><b>Whom to contact about your rights in this research, for questions, concerns, suggestions, or complaints that are not being addressed by the researcher, or research-related harm</b>: 
+Jane Calhoun, Harvard University Committee on the Use of Human Subjects in Research, 1414 Massachusetts Avenue, Room 234, Cambridge, MA  02138.  Phone:  617-495-5459.  E-mail: jcalhoun@fas.harvard.edu</p>
+
+<h4>Agreement</h4>
+
+<p>The nature and purpose of this research have been sufficiently explained and I agree to participate in this study.  I understand that I am free to withdraw at any time without incurring any penalty.</p>
+<form action="/studies/abilities/signup2.shtml" method="get">
+<ul>
+<li><a href="/studies/abilities/home.shtml">I do not agree to the terms of the study.</a></li>
+<li>
+<input type="submit" value="I agree to the terms of the study"></input>
+</li>
+</ul>
+</form>
+
+</div>
+<div class="content">This page was last modified on <!--#config timefmt="%B %d, %Y" --> <!--#echo var="LAST_MODIFIED" -->.</div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

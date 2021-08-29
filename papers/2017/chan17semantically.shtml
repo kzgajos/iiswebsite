@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Semantically Far Inspirations Considered Harmful?: Accounting for Cognitive States in Collaborative Ideation</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Semantically Far Inspirations Considered Harmful?: Accounting for Cognitive States in Collaborative Ideation">
+<meta property="og:description" content="Collaborative ideation systems can help people generate more creative ideas by exposing them to ideas different from their own. However, there are competing theoretical views on whether and when such exposure is helpful. Associationist theory suggests that exposing ideators to ideas that are semantically far from their own maximizes novel combinations of ideas. In contrast, SIAM theory cautions that systems should offer far ideas only when ideators reach an impasse (a cognitive state in which they have exhausted ideas within a particular category), and offer near ideas during productive ideation (a cognitive state in which they are actively exploring ideas within a category), which maximizes exploration within categories. Our research compares these theoretical recommendations. In an online experiment, 245 participants generated ideas for a themed wedding; we detected and validated participants' cognitive states using a combination of behavioral and neuroimaging data. Receiving far ideas during productive ideation resulted in slower ideation and less within-category exploration, without significant benefits for novelty, compared to receiving no inspirations. Participants were also more likely to hit an impasse when receiving far ideas during productive ideation. These findings suggest that far inspirational ideas can harm creativity if received during productive ideation.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Semantically Far Inspirations Considered Harmful?: Accounting for Cognitive States in Collaborative Ideation</h1>
+<h2 class="head">Joel Chan, Pao Siangliulue, Denisa Qori&nbsp;McDonald, Ruixue Liu, Reza Moradinezhad, Safa Aman, Erin&nbsp;T. Solovey, Krzysztof&nbsp;Z. Gajos, and Steven&nbsp;P. Dow</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Collaborative ideation systems can help people generate more creative ideas by exposing them to ideas different from their own. However, there are competing theoretical views on whether and when such exposure is helpful. Associationist theory suggests that exposing ideators to ideas that are semantically far from their own maximizes novel combinations of ideas. In contrast, SIAM theory cautions that systems should offer far ideas only when ideators reach an impasse (a cognitive state in which they have exhausted ideas within a particular category), and offer near ideas during productive ideation (a cognitive state in which they are actively exploring ideas within a category), which maximizes exploration within categories. Our research compares these theoretical recommendations. In an online experiment, 245 participants generated ideas for a themed wedding; we detected and validated participants' cognitive states using a combination of behavioral and neuroimaging data. Receiving far ideas during productive ideation resulted in slower ideation and less within-category exploration, without significant benefits for novelty, compared to receiving no inspirations. Participants were also more likely to hit an impasse when receiving far ideas during productive ideation. These findings suggest that far inspirational ideas can harm creativity if received during productive ideation.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2017/chan17semantically.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="http://doi.acm.org/10.1145/3059454.3059455">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+<h3>Slides</h3>
+<div class="content">
+Original format:
+<ul>
+<li><a href="papers/2017/chan17semantically-slides.key">Apple Keynote</a></li>
+
+</ul>
+
+Other formats (automatically converted, may look different from the original presentation):
+<ul>
+<li><a href="papers/2017/chan17semantically-slides.pdf">PDF</a></li>
+
+</ul>
+
+</div>
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Joel Chan, Pao Siangliulue, Denisa Qori&nbsp;McDonald, Ruixue Liu, Reza Moradinezhad, Safa Aman, Erin&nbsp;T. Solovey, Krzysztof&nbsp;Z. Gajos, and Steven&nbsp;P. Dow. Semantically far inspirations considered harmful?: Accounting for cognitive states in collaborative ideation. In <EM>Proceedings of the 2017 ACM SIGCHI Conference on Creativity and Cognition</EM>, C&amp;C '17, pages 93&ndash;105, New York, NY, USA, 2017. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: chan17:semantically','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: chan17:semantically</TITLE></HEAD><BODY><PRE>@inproceedings{chan17:semantically,\n  author = {Chan, Joel and Siangliulue, Pao and Qori McDonald, Denisa and Liu, Ruixue and Moradinezhad, Reza and Aman, Safa and Solovey, Erin T. and Gajos, Krzysztof Z. and Dow, Steven P.},\n  title = {Semantically Far Inspirations Considered Harmful?: Accounting for Cognitive States in Collaborative Ideation},\n  booktitle = {Proceedings of the 2017 ACM SIGCHI Conference on Creativity and Cognition},\n  series = {C\&C \'17},\n  year = {2017},\n  isbn = {978-1-4503-4403-6},\n  location = {Singapore, Singapore},\n  pages = {93--105},\n  numpages = {13},\n    doi = {10.1145/3059454.3059455},\n  acmid = {3059455},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  keywords = {brainstorming, collaborative ideation, creativity, creativity support tools, examples},\n  abstract = {Collaborative ideation systems can help people generate more creative ideas by exposing them to ideas different from their own. However, there are competing theoretical views on whether and when such exposure is helpful. Associationist theory suggests that exposing ideators to ideas that are semantically far from their own maximizes novel combinations of ideas. In contrast, SIAM theory cautions that systems should offer far ideas only when ideators reach an impasse (a cognitive state in which they have exhausted ideas within a particular category), and offer near ideas during productive ideation (a cognitive state in which they are actively exploring ideas within a category), which maximizes exploration within categories. Our research compares these theoretical recommendations. In an online experiment, 245 participants generated ideas for a themed wedding; we detected and validated participants\' cognitive states using a combination of behavioral and neuroimaging data. Receiving far ideas during productive ideation resulted in slower ideation and less within-category exploration, without significant benefits for novelty, compared to receiving no inspirations. Participants were also more likely to hit an impasse when receiving far ideas during productive ideation. These findings suggest that far inspirational ideas can harm creativity if received during productive ideation.},\n          }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

@@ -1,0 +1,89 @@
+<!Doctype html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="common-head.html" --> 
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.0.min.js"></script>
+<!-- bxSlider Javascript file -->
+<script src="media/bxslider/jquery.bxslider.min.js"></script>
+<!-- bxSlider CSS file -->
+<link href="media/bxslider/jquery.bxslider.css" rel="stylesheet" />
+
+<style type="text/css">
+a#n-home { 
+<!--#include virtual="common-active-style.html" --> 
+}
+</style>
+
+<title>Intelligent Interactive Systems Group at Harvard</title>
+</head>
+
+
+<body>
+
+<!--#include virtual="common-top.html" --> 
+
+<h1 class="head">Intelligent Interactive Systems Group at Harvard</h1>
+<h2 class="head">Home</h2>
+
+<!--#include virtual="common-nav.html" --> 
+
+<div class="content">
+
+
+
+<aside>
+	<div class="contentFloat" style="max-width: 400px; height: 40em; overflow: scroll; font-style: italic">
+		<h3>News</h3>
+		<!--#include virtual="news.html" -->
+
+		<!--
+		<h3>The Group</h3>
+		<A href="people/"><img src="people/iis-2010.11.16-thumb.jpg" alt="members and friends of the Intelligent Interactive Systems Group"></a>
+		-->
+	</div>
+</aside>
+
+
+<h3>About The Group</h3>
+<p>
+The Intelligent Interactive Systems Group at Harvard was founded in
+September of 2009.  We are interested in how intelligent technologies
+can enable novel ways of interacting with computation, and in the new
+challenges that human abilities, limitations and preferences create
+for machine learning algorithms embedded in interactive systems.
+</p>
+
+<h3>About Intelligent Interactive Systems</h3>
+<p>Intelligent Interactive Systems are fundamentally hard to design
+because they require intelligent technology that is well suited for
+people's abilities, limitations, and preferences; they also require
+entirely novel interactions that can give the user a predictable and
+reliable experience despite the fact that the underlying technology is
+inherently proactive, unpredictable, and occasionally wrong.  Thus,
+design of successful intelligent interactive systems requires intimate
+knowledge of and ability to innovate in two very disparate areas:
+<span class="bigemph">human-computer interaction</span> and <span class="bigemph">artificial intelligence</span> or <span class="bigemph">machine
+learning</span>.</p>
+
+<h3>What We Do</h3>
+<p>
+Our <a href="projects/">projects</a> span the full range from formal user studies to
+statistical machine learning.  
+We have worked on developing new intelligent <span class="bigemph">technologies</span> to enable novel interactions (e.g., <a class="external" href="http://www.eecs.harvard.edu/~kgajos/research/supple/">SUPPLE system</a>) and on understanding the <span class="bigemph">principles</span> underlying how people interact with intelligent systems (e.g., the <a href="projects/#aui">project on exploring the design space of adaptive user interfaces</a>).  Our <a href="projects/#bci">Brain-Computer Interface project</a> aims at developing a new set of <span class="bigemph">interactions</span> for efficiently controlling complex applications, and we are also interested in building and studying complete <span class="bigemph">applications</span>.  One particular area of inteterest is the <a href="projects/#ability">ability-based user interfaces</a> -- an approach for adapting interactions to the individual abilities of people with impairments or of able-bodied people in unusual situations.
+</p>
+
+
+
+<br clear="all"/>
+<!--#include virtual="projects/projectHighlights.shtml"-->
+
+</div>
+
+<div class="content">This page was last modified on <!--#config timefmt="%B %d, %Y" --> <!--#echo var="LAST_MODIFIED" -->.</div>
+</div> <!-- main -->
+
+
+<!--#include virtual="common-footer.html" --> 
+
+</body>
+</html>

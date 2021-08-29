@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>The Development and Evaluation of DEFT, a Web-Based Tool for Engineering Design Education</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="The Development and Evaluation of DEFT, a Web-Based Tool for Engineering Design Education">
+<meta property="og:description" content="This article describes the development of the Design Evaluation and Feedback Tool (DEFT), a custom-built web-based system that collects and reports data to support teaching, learning, and research in project-based engineering design education. The DEFT system collects data through short weekly questionnaires for students and instructors in engineering design classes, and uses these data to produce weekly reports for both types of user. The system is intended to engage students in reflective reporting on their experiential learning, to support educators in coaching student designers, and to serve as a data collection tool for education researchers. DEFT was developed through an iterative design and evaluation process, involving 185 students and 18 instructors at two universities. The system was evaluated using a combination of participation observation, user interviews, and anonymous questionnaires, and the results guided subsequent improvements to the system. This article describes the development and evaluation process, provides an overview of the resulting system, and ends by discussing the potential for DEFT to be used in evaluating and improving project-based design classes.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">The Development and Evaluation of DEFT, a Web-Based Tool for Engineering Design Education</h1>
+<h2 class="head">M.&nbsp;M. Moyne, M.&nbsp;Herman, K.&nbsp;Z. Gajos, C.&nbsp;J. Walsh, and D.&nbsp;P. Holland</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+This article describes the development of the Design Evaluation and Feedback Tool (DEFT), a custom-built web-based system that collects and reports data to support teaching, learning, and research in project-based engineering design education. The DEFT system collects data through short weekly questionnaires for students and instructors in engineering design classes, and uses these data to produce weekly reports for both types of user. The system is intended to engage students in reflective reporting on their experiential learning, to support educators in coaching student designers, and to serve as a data collection tool for education researchers. DEFT was developed through an iterative design and evaluation process, involving 185 students and 18 instructors at two universities. The system was evaluated using a combination of participation observation, user interviews, and anonymous questionnaires, and the results guided subsequent improvements to the system. This article describes the development and evaluation process, provides an overview of the resulting system, and ends by discussing the potential for DEFT to be used in evaluating and improving project-based design classes.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2018/moyne18development.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="https://doi.org/10.1109/TLT.2018.2810197">Publisher's version
+
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>M.&nbsp;M. Moyne, M.&nbsp;Herman, K.&nbsp;Z. Gajos, C.&nbsp;J. Walsh, and D.&nbsp;P. Holland. The development and evaluation of deft, a web-based tool for engineering design education. <EM>IEEE Transactions on Learning Technologies</EM>, 11(4):545&ndash;550, Oct 2018.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: moyne18:development','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: moyne18:development</TITLE></HEAD><BODY><PRE>@article{moyne18:development,\n  author = {M. M. Moyne and M. Herman and K. Z. Gajos and C. J. Walsh and D. P. Holland},\n  journal = {IEEE Transactions on Learning Technologies},\n  title = {The Development and Evaluation of DEFT, a Web-Based Tool for Engineering Design Education},\n  year = {2018},\n  volume = {11},\n  number = {4},\n  pages = {545-550},\n  abstract = {This article describes the development of the Design Evaluation and Feedback Tool (DEFT), a custom-built web-based system that collects and reports data to support teaching, learning, and research in project-based engineering design education. The DEFT system collects data through short weekly questionnaires for students and instructors in engineering design classes, and uses these data to produce weekly reports for both types of user. The system is intended to engage students in reflective reporting on their experiential learning, to support educators in coaching student designers, and to serve as a data collection tool for education researchers. DEFT was developed through an iterative design and evaluation process, involving 185 students and 18 instructors at two universities. The system was evaluated using a combination of participation observation, user interviews, and anonymous questionnaires, and the results guided subsequent improvements to the system. This article describes the development and evaluation process, provides an overview of the resulting system, and ends by discussing the potential for DEFT to be used in evaluating and improving project-based design classes.},\n  keywords = {Education;Data collection;Design methodology;Problem-solving;Feedback;Engineering design education;data collection tools;project-based learning},\n  doi = {10.1109/TLT.2018.2810197},\n  issn = {1939-1382},\n  month = {Oct},\n      }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+<a name="learnersourcing"></a>
+<h4 class="ptitle">Ingenium: Improving Engagement and Accuracy with the Visualization of Latin for Language Learning</h4>
+<p>
+<img class="thumbleft" src="http://iis.seas.harvard.edu/projects/images/ingenium.png" alt="" width="200" align="left"/>
+Learners commonly make errors in reading Latin, because they do not fully understand the impact of Latin's grammatical structure--its morphology and syntax--on a sentence's meaning. Synthesizing instructional methods used for Latin and artificial programming languages, Ingenium visualizes the logical structure of grammar by making each word into a puzzle block, whose shape and color reflect the word's morphological forms and roles.  See <a href="https://www.youtube.com/watch?v=th3fobLzKUE" class="external" target="_new">the video</a> to see how it works.
+</p>
+
+<div class="ppapers">
+<P class="paper" id='xzhou16:ingeniumx'>Sharon Zhou, Ivy&nbsp;J. Livingston, Mark Schiefsky, Stuart&nbsp;M. Shieber, and Krzysztof&nbsp;Z. Gajos. <a href="papers/2016/zhou16ingenium.pdf">Ingenium: Engaging Novice Students with Latin Grammar</a>. In <EM>Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems</EM>, CHI '16, pages 944-956, New York, NY, USA, 2016. ACM.
+<br/><span class="paperdetails">[<a href="papers/2016/zhou16ingenium.shtml">Abstract, BibTeX, Video,  etc.</a>]</span></P>
+</div>
+
+<br clear="all" />
+

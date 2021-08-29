@@ -1,0 +1,27 @@
+<a name="acnx"></a>
+<h4 class="ptitle">Adaptive Click and Cross: Adapting to Both Abilities and Task to Improve Performance of Users With Impaired Dexterity</h4>
+
+<p>
+<img class="thumbleft" src="http://iis.seas.harvard.edu/projects/images/acnx.png" alt=""
+width="200" align="left"/> Adaptive Click-and-Cross, an interaction technique for computer users
+with impaired dexterity. This technique combines three "adaptive"
+approaches that have appeared separately in previous literature:
+adapting the user's abilities to the interface (i.e., by modifying the
+way that the cursor works), adapting the user interface to the user's
+abilities (i.e., by modifying the user interface through enlarging
+items), and adapting the user interface to the user's task (i.e., by
+moving frequently or recently used items to a convenient location).
+Adaptive Click-and-Cross combines these three adaptations to minimize
+each approach's shortcomings, selectively enlarging items predicted to
+be useful to the user while employing a modified cursor to enable
+access to smaller items.
+</p>
+<div class="ppapers">
+<P class="paper" id='xli14:adaptivex'>Louis Li and Krzysztof&nbsp;Z. Gajos. <a href="papers/2014/li14acnx.pdf">Adaptive Click-and-cross: Adapting to Both Abilities and Task Improves Performance of Users with Impaired Dexterity</a>. In <EM>Proceedings of the 19th International Conference on Intelligent User Interfaces</EM>, IUI '14, pages 299&ndash;304, New York, NY, USA, 2014. ACM.
+<br/><span class="paperdetails">[<a href="papers/2014/li14adaptive.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
+<P class="paper" id='xli13:adaptivex'>Louis Li. <a href="papers/2013/li13adaptive.pdf">Adaptive Click-and-cross: An Interaction Technique for Users with Impaired Dexterity</a>. In <EM>Proceedings of the 15th International ACM SIGACCESS Conference on Computers and Accessibility</EM>, ASSETS '13, pages 79:1-79:2, New York, NY, USA, 2013. ACM.
+<br/><span class="paperdetails">[<a href="papers/2013/li13adaptive.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+</div>
+<br clear="all" />
+

@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Many people, many eyes: aggregating influences of visual perception on user interface design</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Many people, many eyes: aggregating influences of visual perception on user interface design">
+<meta property="og:description" content="Many factors influence a user's visual perception of an interface (e.g., culture, gender, visual impairment). In general, interface researchers and designers have considered these factors in isolation, without considering the combined effect of every factor influencing the visual perception of the user. As a result, interfaces have been optimized for single factors (e.g., improving accessibility for individuals with low vision), at the expense of optimizing for the individual's visual perception experience (e.g., considering cultural preferences and lighting conditions while assisting users with low vision). In this workshop, we will begin the process of combining the broad range of visual perception knowledge to create a holistic approach to understanding users' visual perception. The resulting knowledge pool will be used for generating interfaces better suited to the full range of users' visual perception abilities.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Many people, many eyes: aggregating influences of visual perception on user interface design</h1>
+<h2 class="head">Katharina Reinecke, David&nbsp;R. Flatla, Erin Solovey, Carl Gutwin, Krzysztof&nbsp;Z. Gajos, and Jeffrey Heer</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Many factors influence a user's visual perception of an interface (e.g., culture, gender, visual impairment). In general, interface researchers and designers have considered these factors in isolation, without considering the combined effect of every factor influencing the visual perception of the user. As a result, interfaces have been optimized for single factors (e.g., improving accessibility for individuals with low vision), at the expense of optimizing for the individual's visual perception experience (e.g., considering cultural preferences and lighting conditions while assisting users with low vision). In this workshop, we will begin the process of combining the broad range of visual perception knowledge to create a holistic approach to understanding users' visual perception. The resulting knowledge pool will be used for generating interfaces better suited to the full range of users' visual perception abilities.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2013/reinecke13manyPeople.pdf">Authors' version (pdf)</a></li>
+
+
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Katharina Reinecke, David&nbsp;R. Flatla, Erin Solovey, Carl Gutwin, Krzysztof&nbsp;Z. Gajos, and Jeffrey Heer. Many people, many eyes: aggregating influences of visual perception on user interface design. In <EM>CHI '13 Extended Abstracts on Human Factors in Computing Systems</EM>, CHI EA '13, pages 3299&ndash;3302, New York, NY, USA, 2013. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: reinecke13:many','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: reinecke13:many</TITLE></HEAD><BODY><PRE>@inproceedings{reinecke13:many,\n  author = {Reinecke, Katharina and Flatla, David R. and Solovey, Erin and Gutwin, Carl and Gajos, Krzysztof Z. and Heer, Jeffrey},\n  title = {Many people, many eyes: aggregating influences of visual perception on user interface design},\n  booktitle = {CHI \'13 Extended Abstracts on Human Factors in Computing Systems},\n  series = {CHI EA \'13},\n  year = {2013},\n  isbn = {978-1-4503-1952-2},\n  location = {Paris, France},\n  pages = {3299--3302},\n  numpages = {4},\n    doi = {10.1145/2468356.2479671},\n  acmid = {2479671},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  abstract = {Many factors influence a user\'s visual perception of an interface (e.g., culture, gender, visual impairment). In general, interface researchers and designers have considered these factors in isolation, without considering the combined effect of every factor influencing the visual perception of the user. As a result, interfaces have been optimized for single factors (e.g., improving accessibility for individuals with low vision), at the expense of optimizing for the individual\'s visual perception experience (e.g., considering cultural preferences and lighting conditions while assisting users with low vision). In this workshop, we will begin the process of combining the broad range of visual perception knowledge to create a holistic approach to understanding users\' visual perception. The resulting knowledge pool will be used for generating interfaces better suited to the full range of users\' visual perception abilities.},\n    }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

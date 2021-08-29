@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>SPRWeb: preserving subjective responses to website colour schemes through automatic recolouring</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="SPRWeb: preserving subjective responses to website colour schemes through automatic recolouring">
+<meta property="og:description" content="Colours are an important part of user experiences on the Web. Colour schemes influence the aesthetics, first impressions and long-term engagement with websites. However, five percent of people perceive a subset of all colours because they have colour vision deficiency (CVD), resulting in an unequal and less-rich user experience on the Web. Traditionally, people with CVD have been supported by recolouring tools that improve colour differentiability, but do not consider the subjective properties of colour schemes while recolouring. To address this, we developed SPRWeb, a tool that recolours websites to preserve subjective responses and improve colour differentiability thus enabling users with CVD to have similar online experiences. To develop SPRWeb, we extended existing models of non-CVD subjective responses to CVD, then used this extended model to steer the recolouring process. In a lab study, we found that SPRWeb did significantly better than a standard recolouring tool at preserving the temperature and naturalness of websites, while achieving similar weight and differentiability preservation. We also found that recolouring did not preserve activity, and hypothesize that visual complexity influences activity more than colour. SPRWeb is the first tool to automatically preserve the subjective and perceptual properties of website colour schemes thereby equalizing the colour-based web experience for people with CVD.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">SPRWeb: preserving subjective responses to website colour schemes through automatic recolouring</h1>
+<h2 class="head">David&nbsp;R. Flatla, Katharina Reinecke, Carl Gutwin, and Krzysztof&nbsp;Z. Gajos</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Colours are an important part of user experiences on the Web. Colour schemes influence the aesthetics, first impressions and long-term engagement with websites. However, five percent of people perceive a subset of all colours because they have colour vision deficiency (CVD), resulting in an unequal and less-rich user experience on the Web. Traditionally, people with CVD have been supported by recolouring tools that improve colour differentiability, but do not consider the subjective properties of colour schemes while recolouring. To address this, we developed SPRWeb, a tool that recolours websites to preserve subjective responses and improve colour differentiability thus enabling users with CVD to have similar online experiences. To develop SPRWeb, we extended existing models of non-CVD subjective responses to CVD, then used this extended model to steer the recolouring process. In a lab study, we found that SPRWeb did significantly better than a standard recolouring tool at preserving the temperature and naturalness of websites, while achieving similar weight and differentiability preservation. We also found that recolouring did not preserve activity, and hypothesize that visual complexity influences activity more than colour. SPRWeb is the first tool to automatically preserve the subjective and perceptual properties of website colour schemes thereby equalizing the colour-based web experience for people with CVD.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2013/flatla13sprweb.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="http://dl.acm.org/citation.cfm?doid=2468356.2479521">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+<h3>Video</h3>
+<div class="content">
+<div class="video" style="float: right; margin-left: 15px; margin-bottom: 10px;">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/vGKKUH-Yhnc" frameborder="0" allowfullscreen></iframe>
+</div>
+<br clear="all"/>
+</div>
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>David&nbsp;R. Flatla, Katharina Reinecke, Carl Gutwin, and Krzysztof&nbsp;Z. Gajos. Sprweb: preserving subjective responses to website colour schemes through automatic recolouring. In <EM>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems</EM>, CHI '13, pages 2069&ndash;2078, New York, NY, USA, 2013. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: flatla13:sprweb','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: flatla13:sprweb</TITLE></HEAD><BODY><PRE>@inproceedings{flatla13:sprweb,\n  author = {Flatla, David R. and Reinecke, Katharina and Gutwin, Carl and Gajos, Krzysztof Z.},\n  title = {SPRWeb: preserving subjective responses to website colour schemes through automatic recolouring},\n  booktitle = {Proceedings of the SIGCHI Conference on Human Factors in Computing Systems},\n  series = {CHI \'13},\n  year = {2013},\n  isbn = {978-1-4503-1899-0},\n  location = {Paris, France},\n  pages = {2069--2078},\n  numpages = {10},\n    doi = {10.1145/2470654.2481283},\n  acmid = {2481283},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  abstract = {Colours are an important part of user experiences on the Web. Colour schemes influence the aesthetics, first impressions and long-term engagement with websites. However, five percent of people perceive a subset of all colours because they have colour vision deficiency (CVD), resulting in an unequal and less-rich user experience on the Web. Traditionally, people with CVD have been supported by recolouring tools that improve colour differentiability, but do not consider the subjective properties of colour schemes while recolouring. To address this, we developed SPRWeb, a tool that recolours websites to preserve subjective responses and improve colour differentiability thus enabling users with CVD to have similar online experiences. To develop SPRWeb, we extended existing models of non-CVD subjective responses to CVD, then used this extended model to steer the recolouring process. In a lab study, we found that SPRWeb did significantly better than a standard recolouring tool at preserving the temperature and naturalness of websites, while achieving similar weight and differentiability preservation. We also found that recolouring did not preserve activity, and hypothesize that visual complexity influences activity more than colour. SPRWeb is the first tool to automatically preserve the subjective and perceptual properties of website colour schemes thereby equalizing the colour-based web experience for people with CVD.},\n          award = {Best Paper Award},\n  }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

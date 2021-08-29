@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<style type="text/css">
+a#n-info { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Motor Ability Measure Study</title>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Motor Ability Measure Study</h1>
+
+<h2 class="head">Frequently Asked Questions</h2>
+
+<!--#include virtual="nav.html" --> 
+
+<div class="content">
+<h3>The Ability Measure Study Works in Two Parts:</h3>
+
+<h3>1. Firefox Extension</h3>
+<p>
+Users install a firefox extension onto their computers. The extension records 
+mouse movements and click events and logs key presses. We do not record which keys are pressed, or which websites you visit. 
+Click <a href="studies/abilities/data.shtml">here</a> to see a sample of the data recorded.
+
+</p>
+
+<h3>2. Diagnostic Tasks</h3>
+
+<p>
+Users take an explicit test that gauges their pointing, clicking, and typing abilities. 
+If you want to see exactly what the explicit test is like, you can go <a href="https://iis-secure.seas.harvard.edu/explicit_test/test.html?&id=none">here</a> to check it out.
+</p>
+
+<hr />
+
+
+<h3>Common Questions</h3>
+1. <font color="red">What is the purpose of your research?</font> <br/><br/>
+Our goal is to enable users to work more efficiently with computers. To achieve this, we are building tools to adapt user interfaces to people's individual abilities.
+<br/><br/>
+
+2. <font color="red">What are you trying to achieve in this study?</font> <br/><br/>
+In this study we are investigating whether we can understand a person`s ability to control a pointing device (such as mouse, trackball, eye tracker, etc) by unobtrusively observing their everyday interactions with the computer. 
+<br/><br/>
+
+3. <font color="red">What exactly are you recording?</font><br/><br/>
+The firefox extension will collect information about the movement of the mouse cursor while you are using the browser. The extension will also collect information about your typing speed. It will NOT collect information about what pages you are visiting, what you type, or which links you click on. We will not know which web sites you have been on, or what they look like, but only receive information relevant to the speed and accuracy of the cursor movement and typing.  The collected information will be automatically sent to our server.   
+<br/><br/>
+
+4. <font color="red">Is my data safe?</font><br/><br/>
+The data on your movement of the mouse and your typing speed will be stored on a secure server, and kept separate from any information that may reveal your identity. The data will be assigned a random user ID. The list connecting your name with this number will be kept in a locked room and will be destroyed once all the data has been collected and your payment has been sent. If you feel uneasy about the safety of your data, please do not hesitate to contact us! 
+<br/><br/>
+5. <font color="red">What is the initial set of tasks for?</font><br/><br/>
+The pointing and keyboard entry tasks provide us with an understanding of your individual way to interact with the computer. For example, the accuracy and speed in which you move the mouse pointer during these tasks give us a basis for comparing it to your daily interaction with the computer.  
+<br/>
+6. <font color="red">How long does the initial set of pointing tasks take?</font><br/><br/>
+The pointing tasks can take up to one hour depending on the participant. Note that the tasks are not a competition! We would like to get a good understanding of your normal pointing and keyboard entry abilities, so take your time as you would normally.  
+<br/><br/>
+
+7. <font color="red">Does the Firefox extension impact the speed of my Internet?</font><br/><br/>
+No, you will not notice any impact of the extension on your normal browsing behavior.
+<br/><br/>
+
+8. <font color="red">Where can I find my user ID?</font><br/><br/>
+After you have installed the plugin, you should be able to see a menu item title Abilities, under which there is a button "Get ID" that will show you your ID. 
+<br/><br/>
+
+9. <font color="red">When do I get the compensation?</font><br/><br/>
+We will send you the compensation at the completion of the study.
+<br/><br/>
+
+10. <font color="red">I don't want to further participate in this study, how can I opt out?</font><br/><br/>
+If you would like to withdraw from participating in this study, you can simply uninstall the Firefox extension. To do so, please navigate to the Tools -> Add-ons in Firefox. Then click on the Plugin "Abilitymeasure" and on "uninstall".   
+<br/><br/>
+
+<hr />
+<h3>Technical Issues</h3><br/>
+1.  <font color="red">I don't seem to be able to retrieve my study ID, what can I do?</font><br/><br/> 
+Please try again after restarting Firefox. If the problem persists, please contact us. 
+<br/><br/>
+
+2. <font color="red">How can I uninstall the plugin?</font><br/><br/>
+Please navigate to the Tools -> Add-ons in Firefox. Then click on the Plugin "Abilitymeasure" and on "uninstall".   
+<br/><br/>
+
+<hr/>
+<h3>Contact Information</h3><br/>
+If you experience any difficulties or problems while performing the initial pointing task, or using the plugin, or if you have further questions, feel free to contact Katharina Reinecke at reinecke at seas.harvard.edu. We will try to get back to you as soon as possible.
+<br/><br/>
+
+<hr />
+<h3>Steps from here:</h3>
+<ul>
+  <li><a href="studies/abilities/home.shtml">Return to the study home page</a>
+  <li><a href="studies/abilities/signup.shtml">Sign up for the study</a>
+</ul>
+
+</div>
+
+<div class="content">This page was last modified on <!--#config timefmt="%B %d, %Y" --> <!--#echo var="LAST_MODIFIED" -->.</div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

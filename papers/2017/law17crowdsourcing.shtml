@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Crowdsourcing As a Tool for Research: Implications of Uncertainty</title>
+<meta name="twitter:card" content="summary" />
+<meta property="og:image" content="http://iis.seas.harvard.edu/projects/images/crowdsourcing4research-600.png">
+<meta property="og:title" content="Crowdsourcing As a Tool for Research: Implications of Uncertainty">
+<meta property="og:description" content="Numerous crowdsourcing platforms are now available to support research as well as commercial goals. However, crowdsourcing is not yet widely adopted by researchers for generating, processing or analyzing research data. This study develops a deeper understanding of the circumstances under which crowdsourcing is a useful, feasible or desirable tool for research, as well as the factors that may influence researchers' decisions around adopting crowdsourcing technology. We conducted semi-structured interviews with 18 researchers in diverse disciplines, spanning the humanities and sciences, to illuminate how research norms and practitioners' dispositions were related to uncertainties around research processes, data, knowledge, delegation and quality. The paper concludes with a discussion of the design implications for future crowdsourcing systems to support research.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Crowdsourcing As a Tool for Research: Implications of Uncertainty</h1>
+<h2 class="head">Edith Law, Krzysztof&nbsp;Z. Gajos, Andrea Wiggins, Mary&nbsp;L. Gray, and Alex Williams</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+<img style="margin-left: 15px; margin-bottom: 10px; max-width: 300px" align="right" alt="" src="http://iis.seas.harvard.edu/projects/images/crowdsourcing4research-600.png"/>
+Numerous crowdsourcing platforms are now available to support research as well as commercial goals. However, crowdsourcing is not yet widely adopted by researchers for generating, processing or analyzing research data. This study develops a deeper understanding of the circumstances under which crowdsourcing is a useful, feasible or desirable tool for research, as well as the factors that may influence researchers' decisions around adopting crowdsourcing technology. We conducted semi-structured interviews with 18 researchers in diverse disciplines, spanning the humanities and sciences, to illuminate how research norms and practitioners' dispositions were related to uncertainties around research processes, data, knowledge, delegation and quality. The paper concludes with a discussion of the design implications for future crowdsourcing systems to support research.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2017/law17-crowdsourcing.pdf">Authors' version (pdf)</a></li>
+<li><a class="external" href="http://www.eecs.harvard.edu/~kgajos/papers/authorizer.html?url=http://dl.acm.org/authorize?N21369">Free access via ACM Authorizer</a></li>
+<li><a class="external" href="http://doi.acm.org/10.1145/2998181.2998197">Publisher's version
+ (ACM)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Edith Law, Krzysztof&nbsp;Z. Gajos, Andrea Wiggins, Mary&nbsp;L. Gray, and Alex Williams. Crowdsourcing as a tool for research: Implications of uncertainty. In <EM>Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing</EM>, CSCW '17, pages 1544&ndash;1561, New York, NY, USA, 2017. ACM.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: law17:crowdsourcing','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: law17:crowdsourcing</TITLE></HEAD><BODY><PRE>@inproceedings{law17:crowdsourcing,\n  author = {Law, Edith and Gajos, Krzysztof Z. and Wiggins, Andrea and Gray, Mary L. and Williams, Alex},\n  title = {Crowdsourcing As a Tool for Research: Implications of Uncertainty},\n  booktitle = {Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing},\n  series = {CSCW \'17},\n  year = {2017},\n  isbn = {978-1-4503-4335-0},\n  location = {Portland, Oregon, USA},\n  pages = {1544--1561},\n  numpages = {18},\n    doi = {10.1145/2998181.2998197},\n  acmid = {2998197},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  abstract = {Numerous crowdsourcing platforms are now available to support research as well as commercial goals. However, crowdsourcing is not yet widely adopted by researchers for generating, processing or analyzing research data. This study develops a deeper understanding of the circumstances under which crowdsourcing is a useful, feasible or desirable tool for research, as well as the factors that may influence researchers\' decisions around adopting crowdsourcing technology. We conducted semi-structured interviews with 18 researchers in diverse disciplines, spanning the humanities and sciences, to illuminate how research norms and practitioners\' dispositions were related to uncertainties around research processes, data, knowledge, delegation and quality. The paper concludes with a discussion of the design implications for future crowdsourcing systems to support research.},\n          }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>
