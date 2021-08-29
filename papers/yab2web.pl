@@ -1,4 +1,4 @@
-#!/Usr/bin/perl -w
+#!/usr/bin/perl -w
 
 #################################################################
 
@@ -40,9 +40,11 @@ my $latexfilebase = "$yab";
 my $latexfile = "$tmp/$latexfilebase.tex";
 my $latexlog = "$tmp/$yab-latex.log";
 
-my $latex = "/Library/TeX/texbin/latex";
+# my $latex = "/Library/TeX/texbin/latex";
+my $latex = "/usr/bin/latex";
 my $latex2html = "latex2html";
-my $bibtex = "/Library/TeX/texbin/bibtex";
+# my $bibtex = "/Library/TeX/texbin/bibtex";
+my $bibtex = "/usr/bin/bibtex";
 
 my $yaburl = "http://www.kushmerick.org/nick/yab2web";
 
@@ -243,8 +245,15 @@ sub makeOneEntry {
     # <BR>Multi-level boundary classification for information extraction.
     # <BR>In <EM>Proc. European Conf. Machine Learning</EM>, 2004.
     if ($debug) {print("*** Rendered:\n==========\n" . $rendered . "\n==============\n");}
-    $rendered =~ s|.*ID="(.*)".*</A>||;  # grab key
-    my $key = $1;
+    my $key;
+    # grab key; different versions of the latex2html use either NAME or ID; somehow I could not use | in the regexp hence the ugliness below
+    if($rendered =~ s|.*ID="(.*)".*</A>||) {
+	$key = $1;
+    } else {
+	$rendered =~ s|.*NAME="(.*)".*</A>||;  # grab key
+	$key = $1;
+    }
+    if ($debug) {print("   Key: $key\n  Re-rendered:\n$rendered\n");}
 
     my @projects = getBibListEntry("project", $key, $bibfile);
     my @types = getBibListEntry("pubtype", $key, $bibfile);
@@ -272,11 +281,11 @@ sub makeOneEntry {
     }
     if ($primary ne "") {
     	$primary = makeURL($key, $bibfile, $primary);
-        $title =~ s/\?/\#/i;        # hack in case title contains a question mark (which would mess up the subsequent title replacement)
-        $rendered =~ s/\?/\#/i;
+        $title =~ s/\?/\##/i;        # hack in case title contains a question mark (which would mess up the subsequent title replacement)
+        $rendered =~ s/\?/\##/i;
     	$rendered =~ s/$title/<a href=\"$primary\">$title<\/a>/i;
-        $title =~ s/\#/\?/i;
-        $rendered =~ s/\#/\?/i;
+        $title =~ s/\##/\?/i;
+        $rendered =~ s/\##/\?/i;
     	$rendered .= "\n";
     }
     my $apup = makeAbstractPopup($key,$bibfile);
@@ -620,6 +629,9 @@ sub findEntry {
     	    $theentry = $entry;
     	    # sigh -- we can't terminate this loop: due to some wierdness in Text::BibTeX, we need to scan the entire file
     	}
+    }
+    if (not defined $theentry) {
+	print STDERR "Did not find an entry for $key\n";
     }
     return $theentry;
 }

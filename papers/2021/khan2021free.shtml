@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Free-Living Motor Activity Monitoring in Ataxia-Telangiectasia</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Free-Living Motor Activity Monitoring in Ataxia-Telangiectasia">
+<meta property="og:description" content="With disease-modifying approaches under evaluation in ataxia-telangiectasia and other ataxias, there is a need for objective and reliable biomarkers of free-living motor function. In this study, we test the hypothesis that metrics derived from a single wrist sensor worn at home provide accurate, reliable, and interpretable information about neurological disease severity in children with A-T.<br/>A total of 15 children with A-T and 15 age- and sex-matched controls wore a sensor with a triaxial accelerometer on their dominant wrist for 1 week at home. Activity intensity measures, derived from the sensor data, were compared with in-person neurological evaluation on the Brief Ataxia Rating Scale (BARS) and performance on a validated computer mouse task.<br/>Children with A-T were inactive the same proportion of each day as controls but produced more low intensity movements (p < 0.01; Cohen's d = 1.48) and fewer high intensity movements (p < 0.001; Cohen's d = 1.71). The range of activity intensities was markedly reduced in A-T compared to controls (p < 0.0001; Cohen's d = 2.72). The activity metrics correlated strongly with arm, gait, and total clinical severity (r: 0.71–0.87; p < 0.0001), correlated with specific computer task motor features (r: 0.67–0.92; p < 0.01), demonstrated high reliability (r: 0.86–0.93; p < 0.00001), and were not significantly influenced by age in the healthy control group.<br/>Motor activity metrics from a single, inexpensive wrist sensor during free-living behavior provide accurate and reliable information about diagnosis, neurological disease severity, and motor performance. These low-burden measurements are applicable independent of ambulatory status and are potential digital behavioral biomarkers in A-T.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Free-Living Motor Activity Monitoring in Ataxia-Telangiectasia</h1>
+<h2 class="head">Nergis&nbsp;C Khan, Vineet Pandey, Krzysztof&nbsp;Z Gajos, and Anoopum&nbsp;S Gupta</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+With disease-modifying approaches under evaluation in ataxia-telangiectasia and other ataxias, there is a need for objective and reliable biomarkers of free-living motor function. In this study, we test the hypothesis that metrics derived from a single wrist sensor worn at home provide accurate, reliable, and interpretable information about neurological disease severity in children with A-T.<br/>A total of 15 children with A-T and 15 age- and sex-matched controls wore a sensor with a triaxial accelerometer on their dominant wrist for 1 week at home. Activity intensity measures, derived from the sensor data, were compared with in-person neurological evaluation on the Brief Ataxia Rating Scale (BARS) and performance on a validated computer mouse task.<br/>Children with A-T were inactive the same proportion of each day as controls but produced more low intensity movements (p < 0.01; Cohen's d = 1.48) and fewer high intensity movements (p < 0.001; Cohen's d = 1.71). The range of activity intensities was markedly reduced in A-T compared to controls (p < 0.0001; Cohen's d = 2.72). The activity metrics correlated strongly with arm, gait, and total clinical severity (r: 0.71–0.87; p < 0.0001), correlated with specific computer task motor features (r: 0.67–0.92; p < 0.01), demonstrated high reliability (r: 0.86–0.93; p < 0.00001), and were not significantly influenced by age in the healthy control group.<br/>Motor activity metrics from a single, inexpensive wrist sensor during free-living behavior provide accurate and reliable information about diagnosis, neurological disease severity, and motor performance. These low-burden measurements are applicable independent of ambulatory status and are potential digital behavioral biomarkers in A-T.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+
+
+<li><a class="external" href="https://doi.org/10.1007/s12311-021-01306-y">Publisher's version
+ (Springer)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Nergis&nbsp;C Khan, Vineet Pandey, Krzysztof&nbsp;Z Gajos, and Anoopum&nbsp;S Gupta. Free-living motor activity monitoring in ataxia-telangiectasia. <EM>The Cerebellum</EM>, pages 1-12, 2021.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: khan2021free','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: khan2021free</TITLE></HEAD><BODY><PRE>@article{khan2021free,\n  title = {Free-Living Motor Activity Monitoring in Ataxia-Telangiectasia},\n  author = {Khan, Nergis C and Pandey, Vineet and Gajos, Krzysztof Z and Gupta, Anoopum S},\n  journal = {The Cerebellum},\n  pages = {1--12},\n  year = {2021},\n  publisher = {Springer},\n    abstract = {With disease-modifying approaches under evaluation in ataxia-telangiectasia and other ataxias, there is a need for objective and reliable biomarkers of free-living motor function. In this study, we test the hypothesis that metrics derived from a single wrist sensor worn at home provide accurate, reliable, and interpretable information about neurological disease severity in children with A-T.<br/>A total of 15 children with A-T and 15 age- and sex-matched controls wore a sensor with a triaxial accelerometer on their dominant wrist for 1 week at home. Activity intensity measures, derived from the sensor data, were compared with in-person neurological evaluation on the Brief Ataxia Rating Scale (BARS) and performance on a validated computer mouse task.<br/>Children with A-T were inactive the same proportion of each day as controls but produced more low intensity movements (p < 0.01; Cohen\'s d = 1.48) and fewer high intensity movements (p < 0.001; Cohen\'s d = 1.71). The range of activity intensities was markedly reduced in A-T compared to controls (p < 0.0001; Cohen\'s d = 2.72). The activity metrics correlated strongly with arm, gait, and total clinical severity (r: 0.71–0.87; p < 0.0001), correlated with specific computer task motor features (r: 0.67–0.92; p < 0.01), demonstrated high reliability (r: 0.86–0.93; p < 0.00001), and were not significantly influenced by age in the healthy control group.<br/>Motor activity metrics from a single, inexpensive wrist sensor during free-living behavior provide accurate and reliable information about diagnosis, neurological disease severity, and motor performance. These low-burden measurements are applicable independent of ambulatory status and are potential digital behavioral biomarkers in A-T.},\n    }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

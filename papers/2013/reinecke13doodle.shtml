@@ -29,7 +29,7 @@ a#n-pubs {
 <!--#include virtual="../../common-top.html" --> 
 
 <h1 class="head">Doodle around the world: online scheduling behavior reflects cultural differences in time perception and group decision-making</h1>
-<h2 class="head">Katharina Reinecke, Minh&nbsp;Khoa Nguyen, Abraham Bernstein, Michael Näf, and Krzysztof&nbsp;Z. Gajos</h2>
+<h2 class="head">Katharina Reinecke, Minh&nbsp;Khoa Nguyen, Abraham Bernstein, Michael N&#228;f, and Krzysztof&nbsp;Z. Gajos</h2>
 
 <!--#include virtual="../../common-nav.html" --> 
 
@@ -75,7 +75,7 @@ Event scheduling is a group decision-making process in which social dynamics inf
 
 <h3>Citation Information</h3>
 <div class="content">
-<p>Katharina Reinecke, Minh&nbsp;Khoa Nguyen, Abraham Bernstein, Michael Näf, and Krzysztof&nbsp;Z. Gajos. Doodle around the world: online scheduling behavior reflects cultural differences in time perception and group decision-making. In <EM>Proceedings of the 2013 conference on Computer supported cooperative work</EM>, CSCW '13, pages 45&ndash;54, New York, NY, USA, 2013. ACM.</p>
+<p>Katharina Reinecke, Minh&nbsp;Khoa Nguyen, Abraham Bernstein, Michael N&#228;f, and Krzysztof&nbsp;Z. Gajos. Doodle around the world: online scheduling behavior reflects cultural differences in time perception and group decision-making. In <EM>Proceedings of the 2013 conference on Computer supported cooperative work</EM>, CSCW '13, pages 45-54, New York, NY, USA, 2013. ACM.</p>
 
 <A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: reinecke13:doodle','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: reinecke13:doodle</TITLE></HEAD><BODY><PRE>@inproceedings{reinecke13:doodle,\n  author = {Reinecke, Katharina and Nguyen, Minh Khoa and Bernstein, Abraham and N\\042{a}f, Michael and Gajos, Krzysztof Z.},\n  title = {Doodle around the world: online scheduling behavior reflects cultural differences in time perception and group decision-making},\n  booktitle = {Proceedings of the 2013 conference on Computer supported cooperative work},\n  series = {CSCW \'13},\n  year = {2013},\n  isbn = {978-1-4503-1331-5},\n  location = {San Antonio, Texas, USA},\n  pages = {45--54},\n  numpages = {10},\n    doi = {10.1145/2441776.2441784},\n  acmid = {2441784},\n  publisher = {ACM},\n  address = {New York, NY, USA},\n  abstract = {Event scheduling is a group decision-making process in which social dynamics influence people\'s choices and the overall outcome. As a result, scheduling is not simply a matter of finding a mutually agreeable time, but a process that is shaped by social norms and values, which can highly vary between countries. To investigate the influence of national culture on people\'s scheduling behavior we analyzed more than 1.5 million Doodle date/time polls from 211 countries. We found strong correlations between characteristics of national culture and several behavioral phenomena, such as that poll participants from collectivist countries respond earlier, agree to fewer options but find more consensus than predominantly individualist societies. Our study provides empirical evidence of behavioral differences in group decision-making and time perception with implications for cross-cultural collaborative work.},\n        }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
 </div>
