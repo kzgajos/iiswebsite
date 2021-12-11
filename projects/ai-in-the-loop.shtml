@@ -1,19 +1,19 @@
 <a name="aiInTheLoop"></a>
-<h4 class="ptitle">Design Principles for AI-in-the-Loop Decision Support Systems</h4>
+<h4 class="ptitle">AI-Supported Decision Making</h4>
 
 <p>
 <img class="thumbleft" src="http://www.eecs.harvard.edu/~kgajos/papers/images/bucinca20proxy.png" alt="" width="200"
 align="left"/>
-AI-powered decision support tools form part of sociotechnical systems, that is human+AI teams tasked with making decisions. Because people and AI-powered systems have complementary strengths, many expected that human+AI teams would perform better on decision-making tasks than either people or AIs alone. However, there is mounting evidence that human+AI teams often perform <i>worse</i> than AIs alone. Building on insights from both machine learning and cognitive science, we are developing new general principles and specific solutions to help human+AI teams make higher-quality and more confident decisions than what existing systems enable.
+AI-powered decision support tools form part of sociotechnical systems, that is human+AI teams tasked with making decisions. Because people and AI-powered systems have complementary strengths, many expected that human+AI teams would perform better on decision-making tasks than either people or AIs alone. However, there is mounting evidence that <a href="papers/2021/jacobs2021how.shtml">human+AI teams often perform <i>worse</i> than AIs alone</a>. Building on insights from both machine learning and cognitive science, we are developing new general principles and specific solutions to <a href="papers/2021/bucinca2021trust.shtml">overcome human overreliance on the AI</a> and to help human+AI teams make higher-quality and more confident decisions than what existing systems enable.
 </p>
-<p>Our recent results suggest that the most commonly-used methods for evaluating AI-powered decision support systems are likely to produce misleading (overly optimistic) results. 
+<p>Our results also suggest that the limitations of contemporary explainable AI solutions are not appreciated because <a href="papers/2020/bucinca20proxy.shtml">the most commonly-used methods for evaluating AI-powered decision support systems are likely to produce misleading (overly optimistic) results</a>. 
 </p>
 
 <div class="ppapers">
 <P class="paper" id='xbucinca2021trustx'>Zana Buçinca, Maja&nbsp;Barbara Malaya, and Krzysztof&nbsp;Z. Gajos. <a href="papers/2021/bucinca21trust.pdf">To Trust or to Think: Cognitive Forcing Functions Can Reduce Overreliance on AI in AI-assisted Decision-making</a>. <EM>Proceedings of the ACM on Human-Computer Interaction</EM>, 5(CSCW1), 2021.
 <br/><span class="paperdetails">[<a href="papers/2021/bucinca2021trust.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
 
-<P class="paper" id='xjacobs2021designingx'>Maia Jacobs, Jeffrey He, Melanie&nbsp;F. Pradier, Barbara Lam, Andrew&nbsp;C. Ahn, Thomas&nbsp;H. McCoy, Roy&nbsp;H. Perlis, Finale Doshi-Velez, and Krzysztof&nbsp;Z. Gajos. <a href="papers/2021/jacobs21designing.pdf">Designing AI for Trust and Collaboration in Time-Constrained Medical Decisions: A Sociotechnical Lens</a>. In <EM>Proceedings of CHI'21</EM>, 2021. To appear.
+<P class="paper" id='xjacobs2021designingx'>Maia Jacobs, Jeffrey He, Melanie F.&nbsp;Pradier, Barbara Lam, Andrew&nbsp;C. Ahn, Thomas&nbsp;H. McCoy, Roy&nbsp;H. Perlis, Finale Doshi-Velez, and Krzysztof&nbsp;Z. Gajos. <a href="papers/2021/jacobs21designing.pdf">Designing AI for Trust and Collaboration in Time-Constrained Medical Decisions: A Sociotechnical Lens</a>. In <EM>Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems</EM>, New York, NY, USA, 2021. Association for Computing Machinery. 
 <br/><span class="paperdetails">[<a href="papers/2021/jacobs2021designing.shtml">Abstract, BibTeX, Blog post,  etc.</a>]</span></P>
 
 <P class="paper" id='xjacobs2021howx'>Maia Jacobs, Melanie&nbsp;F. Pradier, Thomas H.&nbsp;McCoy Jr, Roy&nbsp;H. Perlis, Finale Doshi-Velez, and Krzysztof&nbsp;Z. Gajos. <a href="https://doi.org/10.1038/s41398-021-01224-x">How machine-learning recommendations influence clinician treatment selections: the example of the antidepressant selection</a>. <EM>Translational Psychiatry</EM>, 11, 2021.
@@ -22,8 +22,6 @@ AI-powered decision support tools form part of sociotechnical systems, that is h
 <P class="paper" id='xbucinca20:proxyx'>Zana Buçinca, Phoebe Lin, Krzysztof&nbsp;Z. Gajos, and Elena&nbsp;L. Glassman. <a href="papers/2020/bucinca20proxy.pdf">Proxy Tasks and Subjective Measures Can Be Misleading in Evaluating Explainable AI Systems</a>. In <EM>Proceedings of the 25th International Conference on Intelligent User Interfaces</EM>. ACM, 2020. To appear.
 <br/><span class="paperdetails">[<a href="papers/2020/bucinca20proxy.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
 
-<P class="paper" id='xjacobs19:integratingx'>Maia Jacobs, Roy&nbsp;H. Perlis, Melanie&nbsp;F. Pradier, Finale Doshi-Velez, Elizabeth Mynatt, and Krzysztof&nbsp;Z. Gajos. <a href="papers/2019/jacobs19integrating.pdf">Integrating AI Recommendations into the Pharmacologic Management of Major Depressive Disorder</a>. In <EM>Proceedings of the workshop on Identifying Challenges and Opportunities in Human–AI Collaboration in Healthcare at CSCW 2019</EM>, 2019.
-<br/><span class="paperdetails">[<a href="papers/2019/jacobs19integrating.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
 </div>
 
 <br clear="all" />

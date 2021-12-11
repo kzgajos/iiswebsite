@@ -2,19 +2,10 @@
 
 <div>
 	<div class="bxslider" style="display: none;">
-		<div><!--#include virtual="auis-individualDifferences.shtml"--></div>
-		<div><!--#include virtual="curiosity.shtml"--></div>
-		<div><!--#include virtual="crowdsourcing4research.shtml"--></div>
-    	<div><!--#include virtual="experientialLearning.shtml"--></div>
     	<div><!--#include virtual="gk.shtml"--></div>
-    	<div><!--#include virtual="collectiveCreativity.shtml"--></div>
-		<div><!--#include virtual="learnersourcing.shtml"--></div>
-		<div><!--#include virtual="firstImpressions.shtml"--></div>
 		<div><!--#include virtual="litw.shtml"--></div>
-		<div><!--#include virtual="LABvsMT.shtml"--></div>
-		<div><!--#include virtual="spr.shtml"--></div>
-		<div><!--#include virtual="doodle.shtml"--></div>
-		<div><!--#include virtual="mobi.shtml"--></div>
+		<div><!--#include virtual="ai-in-the-loop.shtml"--></div>
+		<div><!--#include virtual="hevelius.shtml"--></div>
 	</div>
 </div>
 
