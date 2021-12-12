@@ -38,11 +38,11 @@ a#n-proj {
 
 <h2>Completed Projects</h2>
 <div class="content">
+<!--#include virtual="silentspring.shtml"-->
 <!--#include virtual="pcit.shtml"-->
 <!--#include virtual="predictiveText.shtml"-->
 <!--#include virtual="auis-individualDifferences.shtml"-->
 <!--#include virtual="collectiveCreativity.shtml"-->
-<!--#include virtual="silentspring.shtml"-->
 <!--#include virtual="experientialLearning.shtml"-->
 <!--#include virtual="technologyAdoption.shtml"-->
 <!--#include virtual="crowdsourcing4research.shtml"-->

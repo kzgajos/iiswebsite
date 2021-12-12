@@ -2,13 +2,16 @@
 <h4 class="ptitle">DERBI: Communicating Individual Biomonitoring and Personal Exposure Results to Study Participants</h4>
 
 <p>
-<!--<img class="thumbleft" src="" alt=""
-width="200" align="left"/>-->
+<img class="thumbleft" src="http://www.eecs.harvard.edu/~kgajos/papers/images/brody2021outcomes.png" alt=""
+width="200" align="left"/>
 
 Epidemiologic studies and public health biomonitoring rely on chemical exposure measurements in blood, urine, and other tissues, and in personal environments, such as homes.  For many chemicals, the health implications of individual results are uncertain, and the sources and strategies to reduce exposure may not be known.  Yet, a growing number of researchers consider it their ethical obligation to report the results back to their participants.  In a project led by the <a href="http://www.silentspring.org" class="external">Silent Spring Institute</a>, we are building scalable online tools to help researchers communicate personalized results to study participants in a manner that appropriately conveys what is and what is not known about the sources and effects of different environmental chemicals.  
 </p>
 
 <div class="ppapers">
+<P class="paper" id='xbrody2021outcomesx'>Julia&nbsp;Green Brody, Piera&nbsp;M Cirillo, Katherine&nbsp;E Boronow, Laurie Havas, Marj Plumb, Herbert&nbsp;P Susmann, Krzysztof&nbsp;Z Gajos, and Barbara&nbsp;A Cohn. <a href="https://doi.org/10.1289/EHP9072">Outcomes from returning individual versus only study-wide biomonitoring results in an environmental exposure study using the digital exposure report-back interface (DERBI)</a>. <EM>Environmental health perspectives</EM>, 129(11):117005, 2021.
+<br/><span class="paperdetails">[<a href="papers/2021/brody2021outcomes.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
+
 <P class="paper" id='xboronow17:derbix'>Katherine&nbsp;E. Boronow, Herbert&nbsp;P. Susmann, Krzysztof&nbsp;Z. Gajos, Ruthann&nbsp;A. Rudel, Kenneth&nbsp;C. Arnold, Phil Brown, Rachel Morello-Frosch, Laurie Havas, and Julia&nbsp;Green Brody. <a href="https://ehp.niehs.nih.gov/EHP702/">DERBI: A Digital Method to Help Researchers Offer ``Right-to-Know'' Personal Exposure Results</a>. <EM>Environmental Health Perspectives</EM>, 125(2), February 2017.
 <br/><span class="paperdetails">[<a href="papers/2017/boronow17derbi.shtml">Abstract, BibTeX,  etc.</a>]</span></P>
 </div>
