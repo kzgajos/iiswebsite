@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Not Just a Preference: Reducing Biased Decision-making on Dating Websites</title>
+<meta name="twitter:card" content="summary" />
+<meta property="og:image" content="http://www.eecs.harvard.edu/~kgajos/papers/images/ma2022preference-thumb.png">
+<meta property="og:title" content="Not Just a Preference: Reducing Biased Decision-making on Dating Websites">
+<meta property="og:description" content="As dating websites are becoming an essential part of how people meet intimate and romantic partners, it is vital to design these systems to be resistant to, or at least do not amplify, bias and discrimination. Instead, the results of our online experiment with a simulated dating website, demonstrate that popular dating website design choices, such as the user of the swipe interface (swiping in one direction to indicate a like and in the other direction to express a dislike) and match scores, resulted in people racially biases choices even when they explicitly claimed not to have considered race in their decision-making. This bias was significantly reduced when the order of information presentation was reversed such that people first saw substantive profile information related to their explicitly-stated preferences before seeing the profile name and photo. These results indicate that currently-popular design choices amplify people's implicit biases in their choices of potential romantic partners, but the effects of the implicit biases can be reduced by carefully redesign the dating website interfaces.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Not Just a Preference: Reducing Biased Decision-making on Dating Websites</h1>
+<h2 class="head">Zilin Ma and Krzysztof&nbsp;Z. Gajos</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+<img style="margin-left: 15px; margin-bottom: 10px; max-width: 300px" align="right" alt="" src="http://www.eecs.harvard.edu/~kgajos/papers/images/ma2022preference-thumb.png"/>
+As dating websites are becoming an essential part of how people meet intimate and romantic partners, it is vital to design these systems to be resistant to, or at least do not amplify, bias and discrimination. Instead, the results of our online experiment with a simulated dating website, demonstrate that popular dating website design choices, such as the user of the swipe interface (swiping in one direction to indicate a like and in the other direction to express a dislike) and match scores, resulted in people racially biases choices even when they explicitly claimed not to have considered race in their decision-making. This bias was significantly reduced when the order of information presentation was reversed such that people first saw substantive profile information related to their explicitly-stated preferences before seeing the profile name and photo. These results indicate that currently-popular design choices amplify people's implicit biases in their choices of potential romantic partners, but the effects of the implicit biases can be reduced by carefully redesign the dating website interfaces.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2022/ma2022preference.pdf">Authors' version (pdf)</a></li>
+
+
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Zilin Ma and Krzysztof&nbsp;Z. Gajos. Not Just a Preference: Reducing Biased Decision-making on Dating Websites. In <EM>Proceedings of CHI 2022</EM>, CHI '22, 2022. To appear.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: ma2022preference','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: ma2022preference</TITLE></HEAD><BODY><PRE>@inproceedings{ma2022preference,\n  author = {Zilin Ma and Krzysztof Z. Gajos},\n  title = {{Not Just a Preference: Reducing Biased Decision-making on Dating Websites}},\n  year = {2022},\n  booktitle = {Proceedings of CHI 2022},\n  series = {CHI \'22},\n  abstract = {As dating websites are becoming an essential part of how people meet intimate and romantic partners, it is vital to design these systems to be resistant to, or at least do not amplify, bias and discrimination. Instead, the results of our online experiment with a simulated dating website, demonstrate that popular dating website design choices, such as the user of the swipe interface (swiping in one direction to indicate a like and in the other direction to express a dislike) and match scores, resulted in people racially biases choices even when they explicitly claimed not to have considered race in their decision-making. This bias was significantly reduced when the order of information presentation was reversed such that people first saw substantive profile information related to their explicitly-stated preferences before seeing the profile name and photo. These results indicate that currently-popular design choices amplify people\'s implicit biases in their choices of potential romantic partners, but the effects of the implicit biases can be reduced by carefully redesign the dating website interfaces.},\n        note = {To appear.},\n}\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>
