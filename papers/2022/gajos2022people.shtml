@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Do People Engage Cognitively with AI? Impact of AI Assistance on Incidental Learning</title>
+<meta name="twitter:card" content="summary" />
+<meta property="og:image" content="http://www.eecs.harvard.edu/~kgajos/papers/images/gajos2022people.png">
+<meta property="og:title" content="Do People Engage Cognitively with AI? Impact of AI Assistance on Incidental Learning">
+<meta property="og:description" content="When people receive advice while making difficult decisions, they often make better decisions in the moment and also increase their knowledge in the process. However, such incidental learning can only occur when people cognitively engage with the information they receive and process this information thoughtfully. How do people process the information and advice they receive from AI, and do they engage with it deeply enough to enable learning? To answer these questions, we conducted three experiments in which individuals were asked to make nutritional decisions and received simulated AI recommendations and explanations. In the first experiment, we found that when people were presented with both a recommendation and an explanation before making their choice, they made better decisions than they did when they received no such help, but they did not learn. In the second experiment, participants first made their own choice, and only then saw a recommendation and an explanation from AI; this condition also resulted in improved decisions, but no learning. However, in our third experiment, participants were presented with just an AI explanation but no recommendation and had to arrive at their own decision. This condition led to both more accurate decisions and learning gains. We hypothesize that learning gains in this condition were due to deeper engagement with explanations needed to arrive at the decisions. This work provides some of the most direct evidence to date that it may not be sufficient to provide people with AI-generated recommendations and explanations to ensure that people engage carefully with the AI-provided information. This work also presents one technique that enables incidental learning and, by implication, can help people process AI recommendations and explanations more carefully.">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Do People Engage Cognitively with AI? Impact of AI Assistance on Incidental Learning</h1>
+<h2 class="head">Krzysztof&nbsp;Z. Gajos and Lena Mamykina</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+<img style="margin-left: 15px; margin-bottom: 10px; max-width: 300px" align="right" alt="" src="http://www.eecs.harvard.edu/~kgajos/papers/images/gajos2022people.png"/>
+When people receive advice while making difficult decisions, they often make better decisions in the moment and also increase their knowledge in the process. However, such incidental learning can only occur when people cognitively engage with the information they receive and process this information thoughtfully. How do people process the information and advice they receive from AI, and do they engage with it deeply enough to enable learning? To answer these questions, we conducted three experiments in which individuals were asked to make nutritional decisions and received simulated AI recommendations and explanations. In the first experiment, we found that when people were presented with both a recommendation and an explanation before making their choice, they made better decisions than they did when they received no such help, but they did not learn. In the second experiment, participants first made their own choice, and only then saw a recommendation and an explanation from AI; this condition also resulted in improved decisions, but no learning. However, in our third experiment, participants were presented with just an AI explanation but no recommendation and had to arrive at their own decision. This condition led to both more accurate decisions and learning gains. We hypothesize that learning gains in this condition were due to deeper engagement with explanations needed to arrive at the decisions. This work provides some of the most direct evidence to date that it may not be sufficient to provide people with AI-generated recommendations and explanations to ensure that people engage carefully with the AI-provided information. This work also presents one technique that enables incidental learning and, by implication, can help people process AI recommendations and explanations more carefully.
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+<li><a href="papers/2022/gajos2022people.pdf">Authors' version (pdf)</a></li>
+
+<li><a class="external" href="https://doi.org/10.1145/3490099.3511138">Publisher's version
+ (Association for Computing Machinery)
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+<h3>Video</h3>
+<div class="content">
+<div class="video" style="float: right; margin-left: 15px; margin-bottom: 10px;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H-OWOUK1VOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br clear="all"/>
+</div>
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Krzysztof&nbsp;Z. Gajos and Lena Mamykina. Do people engage cognitively with ai? impact of ai assistance on incidental learning. IUI '22, page 794–806, New York, NY, USA, 2022. Association for Computing Machinery.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: gajos2022people','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: gajos2022people</TITLE></HEAD><BODY><PRE>@inproceedings{gajos2022people,\n  author = {Gajos, Krzysztof Z. and Mamykina, Lena},\n  title = {Do People Engage Cognitively with AI? Impact of AI Assistance on Incidental Learning},\n  year = {2022},\n  isbn = {9781450391443},\n  publisher = {Association for Computing Machinery},\n  address = {New York, NY, USA},\n    doi = {10.1145/3490099.3511138},\n  pages = {794–806},\n  numpages = {13},\n  keywords = {explainable AI, cognitive engagement, incidental learning, decision support systems, human-centered AI},\n  location = {Helsinki, Finland},\n  series = {IUI \'22},\n  abstract = {When people receive advice while making difficult decisions, they often make better decisions in the moment and also increase their knowledge in the process. However, such incidental learning can only occur when people cognitively engage with the information they receive and process this information thoughtfully. How do people process the information and advice they receive from AI, and do they engage with it deeply enough to enable learning? To answer these questions, we conducted three experiments in which individuals were asked to make nutritional decisions and received simulated AI recommendations and explanations. In the first experiment, we found that when people were presented with both a recommendation and an explanation before making their choice, they made better decisions than they did when they received no such help, but they did not learn. In the second experiment, participants first made their own choice, and only then saw a recommendation and an explanation from AI; this condition also resulted in improved decisions, but no learning. However, in our third experiment, participants were presented with just an AI explanation but no recommendation and had to arrive at their own decision. This condition led to both more accurate decisions and learning gains. We hypothesize that learning gains in this condition were due to deeper engagement with explanations needed to arrive at the decisions. This work provides some of the most direct evidence to date that it may not be sufficient to provide people with AI-generated recommendations and explanations to ensure that people engage carefully with the AI-provided information. This work also presents one technique that enables incidental learning and, by implication, can help people process AI recommendations and explanations more carefully.},\n          }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>
