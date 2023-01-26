@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<!--#include virtual="../../common-head.html" --> 
+<!--#include virtual="../../common-js.html" --> 
+<style type="text/css">
+a#n-pubs { 
+<!--#include virtual="../../common-active-style.html" --> 
+}
+</style>
+
+<title>Barriers and Facilitators to the Implementation of Family-Centered Technology in Complex Care: Feasibility Study</title>
+<meta name="twitter:card" content="summary" />
+
+<meta property="og:title" content="Barriers and Facilitators to the Implementation of Family-Centered Technology in Complex Care: Feasibility Study">
+<meta property="og:description" content="Background: Care coordination is challenging but crucial for children with medical complexity (CMC). Technology-based solutions are increasingly prevalent but little is known about how to successfully deploy them in the care of CMC. Objective: The aim of this study was to assess the feasibility and acceptability of GoalKeeper (GK), an internet-based system for eliciting and monitoring family-centered goals for CMC, and to identify barriers and facilitators to implementation. Methods: We used the Consolidated Framework for Implementation Research (CFIR) to explore the barriers and facilitators to the implementation of GK as part of a clinical trial of GK in ambulatory clinics at a children's hospital (NCT03620071). The study was conducted in 3 phases: preimplementation, implementation (trial), and postimplementation. For the trial, we recruited providers at participating clinics and English-speaking parents of CMC<12 years of age with home internet access. All participants used GK during an initial clinic visit and for 3 months after. We conducted preimplementation focus groups and postimplementation semistructured exit interviews using the CFIR interview guide. Participant exit surveys assessed GK feasibility and acceptability on a 5-point Likert scale. For each interview, 3 independent coders used content analysis and serial coding reviews based on the CFIR qualitative analytic plan and assigned quantitative ratings to each CFIR construct (--2 strong barrier to +2 strong facilitator). Results: Preimplementation focus groups included 2 parents (1 male participant and 1 female participant) and 3 providers (1 in complex care, 1 in clinical informatics, and 1 in neurology). From focus groups, we developed 3 implementation strategies: education (parents: 5-minute demo; providers: 30-minute tutorial and 5-minute video on use in a clinic visit; both: instructional manual), tech support (in-person, virtual), and automated email reminders for parents. For implementation (April 1, 2019, to December 21, 2020), we enrolled 11 providers (7 female participants, 5 in complex care) and 35 parents (mean age 38.3, SD 7.8 years; n=28, 80{\%} female; n=17, 49{\%} Caucasian; n=16, 46{\%} Hispanic; and n=30, 86{\%} at least some college). One parent-provider pair did not use GK in the clinic visit, and few used GK after the visit. In 18 parent and 9 provider exit interviews, the key facilitators were shared goal setting, GK's internet accessibility and email reminders (parents), and GK's ability to set long-term goals and use at the end of visits (providers). A key barrier was GK's lack of integration into the electronic health record or patient portal. Most parents (13/19) and providers (6/9) would recommend GK to their peers. Conclusions: Family-centered technologies like GK are feasible and acceptable for the care of CMC, but sustained use depends on integration into electronic health records. Trial Registration: ClinicalTrials.gov NCT03620071; https://clinicaltrials.gov/ct2/show/NCT03620071">
+
+ 	<script src="media/share.js"></script>
+    <script>
+        $(function() {
+            share.makeButtons("#share");
+        });
+    </script>
+</head>
+
+
+<body>
+
+<!--#include virtual="../../common-top.html" --> 
+
+<h1 class="head">Barriers and Facilitators to the Implementation of Family-Centered Technology in Complex Care: Feasibility Study</h1>
+<h2 class="head">Jody&nbsp;L Lin, Bernd Huber, Ofra Amir, Sebastian Gehrmann, Kimberly&nbsp;S Ramirez, Kimberly&nbsp;M Ochoa, Steven&nbsp;M Asch, Krzysztof&nbsp;Z Gajos, Barbara&nbsp;J Grosz, and Lee&nbsp;M Sanders</h2>
+
+<!--#include virtual="../../common-nav.html" --> 
+
+
+
+<br clear="all"/>
+
+<div style="text-align: right" id="share"></div>
+
+
+<h3>Abstract</h3>
+<div class="content">
+
+Background: Care coordination is challenging but crucial for children with medical complexity (CMC). Technology-based solutions are increasingly prevalent but little is known about how to successfully deploy them in the care of CMC. Objective: The aim of this study was to assess the feasibility and acceptability of GoalKeeper (GK), an internet-based system for eliciting and monitoring family-centered goals for CMC, and to identify barriers and facilitators to implementation. Methods: We used the Consolidated Framework for Implementation Research (CFIR) to explore the barriers and facilitators to the implementation of GK as part of a clinical trial of GK in ambulatory clinics at a children's hospital (NCT03620071). The study was conducted in 3 phases: preimplementation, implementation (trial), and postimplementation. For the trial, we recruited providers at participating clinics and English-speaking parents of CMC<12 years of age with home internet access. All participants used GK during an initial clinic visit and for 3 months after. We conducted preimplementation focus groups and postimplementation semistructured exit interviews using the CFIR interview guide. Participant exit surveys assessed GK feasibility and acceptability on a 5-point Likert scale. For each interview, 3 independent coders used content analysis and serial coding reviews based on the CFIR qualitative analytic plan and assigned quantitative ratings to each CFIR construct (--2 strong barrier to +2 strong facilitator). Results: Preimplementation focus groups included 2 parents (1 male participant and 1 female participant) and 3 providers (1 in complex care, 1 in clinical informatics, and 1 in neurology). From focus groups, we developed 3 implementation strategies: education (parents: 5-minute demo; providers: 30-minute tutorial and 5-minute video on use in a clinic visit; both: instructional manual), tech support (in-person, virtual), and automated email reminders for parents. For implementation (April 1, 2019, to December 21, 2020), we enrolled 11 providers (7 female participants, 5 in complex care) and 35 parents (mean age 38.3, SD 7.8 years; n=28, 80{\%} female; n=17, 49{\%} Caucasian; n=16, 46{\%} Hispanic; and n=30, 86{\%} at least some college). One parent-provider pair did not use GK in the clinic visit, and few used GK after the visit. In 18 parent and 9 provider exit interviews, the key facilitators were shared goal setting, GK's internet accessibility and email reminders (parents), and GK's ability to set long-term goals and use at the end of visits (providers). A key barrier was GK's lack of integration into the electronic health record or patient portal. Most parents (13/19) and providers (6/9) would recommend GK to their peers. Conclusions: Family-centered technologies like GK are feasible and acceptable for the care of CMC, but sustained use depends on integration into electronic health records. Trial Registration: ClinicalTrials.gov NCT03620071; https://clinicaltrials.gov/ct2/show/NCT03620071
+<br clear="right"/>
+</div>
+
+
+
+
+<h3>Available Versions</h3>
+<div class="content">
+<ul>
+
+
+<li><a class="external" href="https://doi.org/10.2196/30902">Publisher's version
+
+</a></li>
+
+
+<!--??url??<li><a href="##url##">Other</a></li>??/url??-->
+</ul>
+</div>
+
+
+
+
+
+
+
+<h3>Citation Information</h3>
+<div class="content">
+<p>Jody&nbsp;L Lin, Bernd Huber, Ofra Amir, Sebastian Gehrmann, Kimberly&nbsp;S Ramirez, Kimberly&nbsp;M Ochoa, Steven&nbsp;M Asch, Krzysztof&nbsp;Z Gajos, Barbara&nbsp;J Grosz, and Lee&nbsp;M Sanders. Barriers and facilitators to the implementation of family-centered technology in complex care: Feasibility study. <EM>J Med Internet Res</EM>, 24(8):e30902, Aug 2022.</p>
+
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: lin2022barriers','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: lin2022barriers</TITLE></HEAD><BODY><PRE>@article{lin2022barriers,\n  author = {Lin, Jody L and Huber, Bernd and Amir, Ofra and Gehrmann, Sebastian and Ramirez, Kimberly S and Ochoa, Kimberly M and Asch, Steven M and Gajos, Krzysztof Z and Grosz, Barbara J and Sanders, Lee M},\n  title = {Barriers and Facilitators to the Implementation of Family-Centered Technology in Complex Care: Feasibility Study},\n  journal = {J Med Internet Res},\n  year = {2022},\n  month = {Aug},\n  day = {23},\n  volume = {24},\n  number = {8},\n  pages = {e30902},\n  keywords = {care coordination; implementation science; chronic illness; pediatric; family medicine; barrier; complex care; children; families; parents; care providers; chronic disease; coordination; implementation; improvement; technology; feasibility; acceptability; monitoring},\n  abstract = {Background: Care coordination is challenging but crucial for children with medical complexity (CMC). Technology-based solutions are increasingly prevalent but little is known about how to successfully deploy them in the care of CMC. Objective: The aim of this study was to assess the feasibility and acceptability of GoalKeeper (GK), an internet-based system for eliciting and monitoring family-centered goals for CMC, and to identify barriers and facilitators to implementation. Methods: We used the Consolidated Framework for Implementation Research (CFIR) to explore the barriers and facilitators to the implementation of GK as part of a clinical trial of GK in ambulatory clinics at a children\'s hospital (NCT03620071). The study was conducted in 3 phases: preimplementation, implementation (trial), and postimplementation. For the trial, we recruited providers at participating clinics and English-speaking parents of CMC<12 years of age with home internet access. All participants used GK during an initial clinic visit and for 3 months after. We conducted preimplementation focus groups and postimplementation semistructured exit interviews using the CFIR interview guide. Participant exit surveys assessed GK feasibility and acceptability on a 5-point Likert scale. For each interview, 3 independent coders used content analysis and serial coding reviews based on the CFIR qualitative analytic plan and assigned quantitative ratings to each CFIR construct (--2 strong barrier to +2 strong facilitator). Results: Preimplementation focus groups included 2 parents (1 male participant and 1 female participant) and 3 providers (1 in complex care, 1 in clinical informatics, and 1 in neurology). From focus groups, we developed 3 implementation strategies: education (parents: 5-minute demo; providers: 30-minute tutorial and 5-minute video on use in a clinic visit; both: instructional manual), tech support (in-person, virtual), and automated email reminders for parents. For implementation (April 1, 2019, to December 21, 2020), we enrolled 11 providers (7 female participants, 5 in complex care) and 35 parents (mean age 38.3, SD 7.8 years; n=28, 80{\%} female; n=17, 49{\%} Caucasian; n=16, 46{\%} Hispanic; and n=30, 86{\%} at least some college). One parent-provider pair did not use GK in the clinic visit, and few used GK after the visit. In 18 parent and 9 provider exit interviews, the key facilitators were shared goal setting, GK\'s internet accessibility and email reminders (parents), and GK\'s ability to set long-term goals and use at the end of visits (providers). A key barrier was GK\'s lack of integration into the electronic health record or patient portal. Most parents (13/19) and providers (6/9) would recommend GK to their peers. Conclusions: Family-centered technologies like GK are feasible and acceptable for the care of CMC, but sustained use depends on integration into electronic health records. Trial Registration: ClinicalTrials.gov NCT03620071; https://clinicaltrials.gov/ct2/show/NCT03620071},\n  issn = {1438-8871},\n  doi = {10.2196/30902},\n      }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+</div>
+
+<br clear="all"/>
+<hr/>
+<div id="share"></div>
+</div> <!-- main -->
+
+
+<!--#include virtual="../../common-footer.html" --> 
+
+</body>
+</html>

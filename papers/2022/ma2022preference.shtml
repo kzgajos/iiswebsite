@@ -9,11 +9,11 @@ a#n-pubs {
 }
 </style>
 
-<title>Not Just a Preference: Reducing Biased Decision-making on Dating Websites</title>
+<title>Not Just a Preference: Reducing Biased Decision-Making on Dating Websites</title>
 <meta name="twitter:card" content="summary" />
 <meta property="og:image" content="http://www.eecs.harvard.edu/~kgajos/papers/images/ma2022preference-thumb.png">
-<meta property="og:title" content="Not Just a Preference: Reducing Biased Decision-making on Dating Websites">
-<meta property="og:description" content="As dating websites are becoming an essential part of how people meet intimate and romantic partners, it is vital to design these systems to be resistant to, or at least do not amplify, bias and discrimination. Instead, the results of our online experiment with a simulated dating website, demonstrate that popular dating website design choices, such as the user of the swipe interface (swiping in one direction to indicate a like and in the other direction to express a dislike) and match scores, resulted in people racially biases choices even when they explicitly claimed not to have considered race in their decision-making. This bias was significantly reduced when the order of information presentation was reversed such that people first saw substantive profile information related to their explicitly-stated preferences before seeing the profile name and photo. These results indicate that currently-popular design choices amplify people's implicit biases in their choices of potential romantic partners, but the effects of the implicit biases can be reduced by carefully redesign the dating website interfaces.">
+<meta property="og:title" content="Not Just a Preference: Reducing Biased Decision-Making on Dating Websites">
+<meta property="og:description" content="As dating websites are becoming an essential part of how people meet intimate and romantic partners, it is vital to design these systems to be resistant to, or at least do not amplify, bias and discrimination. Instead, the results of our online experiment with a simulated dating website, demonstrate that popular dating website design choices, such as the user of the swipe interface (swiping in one direction to indicate a like and in the other direction to express a dislike) and match scores, resulted in people racially biases choices even when they explicitly claimed not to have considered race in their decision-making. This bias was significantly reduced when the order of information presentation was reversed such that people first saw substantive profile information related to their explicitly-stated preferences before seeing the profile name and photo. These results indicate that currently-popular design choices amplify people’s implicit biases in their choices of potential romantic partners, but the effects of the implicit biases can be reduced by carefully redesigning the dating website interfaces.">
 
  	<script src="media/share.js"></script>
     <script>
@@ -28,7 +28,7 @@ a#n-pubs {
 
 <!--#include virtual="../../common-top.html" --> 
 
-<h1 class="head">Not Just a Preference: Reducing Biased Decision-making on Dating Websites</h1>
+<h1 class="head">Not Just a Preference: Reducing Biased Decision-Making on Dating Websites</h1>
 <h2 class="head">Zilin Ma and Krzysztof&nbsp;Z. Gajos</h2>
 
 <!--#include virtual="../../common-nav.html" --> 
@@ -43,7 +43,7 @@ a#n-pubs {
 <h3>Abstract</h3>
 <div class="content">
 <img style="margin-left: 15px; margin-bottom: 10px; max-width: 300px" align="right" alt="" src="http://www.eecs.harvard.edu/~kgajos/papers/images/ma2022preference-thumb.png"/>
-As dating websites are becoming an essential part of how people meet intimate and romantic partners, it is vital to design these systems to be resistant to, or at least do not amplify, bias and discrimination. Instead, the results of our online experiment with a simulated dating website, demonstrate that popular dating website design choices, such as the user of the swipe interface (swiping in one direction to indicate a like and in the other direction to express a dislike) and match scores, resulted in people racially biases choices even when they explicitly claimed not to have considered race in their decision-making. This bias was significantly reduced when the order of information presentation was reversed such that people first saw substantive profile information related to their explicitly-stated preferences before seeing the profile name and photo. These results indicate that currently-popular design choices amplify people's implicit biases in their choices of potential romantic partners, but the effects of the implicit biases can be reduced by carefully redesign the dating website interfaces.
+As dating websites are becoming an essential part of how people meet intimate and romantic partners, it is vital to design these systems to be resistant to, or at least do not amplify, bias and discrimination. Instead, the results of our online experiment with a simulated dating website, demonstrate that popular dating website design choices, such as the user of the swipe interface (swiping in one direction to indicate a like and in the other direction to express a dislike) and match scores, resulted in people racially biases choices even when they explicitly claimed not to have considered race in their decision-making. This bias was significantly reduced when the order of information presentation was reversed such that people first saw substantive profile information related to their explicitly-stated preferences before seeing the profile name and photo. These results indicate that currently-popular design choices amplify people’s implicit biases in their choices of potential romantic partners, but the effects of the implicit biases can be reduced by carefully redesigning the dating website interfaces.
 <br clear="right"/>
 </div>
 
@@ -55,7 +55,9 @@ As dating websites are becoming an essential part of how people meet intimate an
 <ul>
 <li><a href="papers/2022/ma2022preference.pdf">Authors' version (pdf)</a></li>
 
-
+<li><a class="external" href="https://doi.org/10.1145/3491102.3517587">Publisher's version
+ (Association for Computing Machinery)
+</a></li>
 
 
 <!--??url??<li><a href="##url##">Other</a></li>??/url??-->
@@ -70,9 +72,9 @@ As dating websites are becoming an essential part of how people meet intimate an
 
 <h3>Citation Information</h3>
 <div class="content">
-<p>Zilin Ma and Krzysztof&nbsp;Z. Gajos. Not Just a Preference: Reducing Biased Decision-making on Dating Websites. In <EM>Proceedings of CHI 2022</EM>, CHI '22, 2022.</p>
+<p>Zilin Ma and Krzysztof&nbsp;Z. Gajos. Not just a preference: Reducing biased decision-making on dating websites. In <EM>CHI Conference on Human Factors in Computing Systems</EM>, CHI '22, New York, NY, USA, 2022. Association for Computing Machinery.</p>
 
-<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: ma2022preference','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: ma2022preference</TITLE></HEAD><BODY><PRE>@inproceedings{ma2022preference,\n  author = {Zilin Ma and Krzysztof Z. Gajos},\n  title = {{Not Just a Preference: Reducing Biased Decision-making on Dating Websites}},\n  year = {2022},\n  booktitle = {Proceedings of CHI 2022},\n  series = {CHI \'22},\n  abstract = {As dating websites are becoming an essential part of how people meet intimate and romantic partners, it is vital to design these systems to be resistant to, or at least do not amplify, bias and discrimination. Instead, the results of our online experiment with a simulated dating website, demonstrate that popular dating website design choices, such as the user of the swipe interface (swiping in one direction to indicate a like and in the other direction to express a dislike) and match scores, resulted in people racially biases choices even when they explicitly claimed not to have considered race in their decision-making. This bias was significantly reduced when the order of information presentation was reversed such that people first saw substantive profile information related to their explicitly-stated preferences before seeing the profile name and photo. These results indicate that currently-popular design choices amplify people\'s implicit biases in their choices of potential romantic partners, but the effects of the implicit biases can be reduced by carefully redesign the dating website interfaces.},\n      }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
+<A href='#' class='actionbutton' onclick="var w=window.open('','BibTeX: ma2022preference','scrollbars=yes,menubar=no,height=200,width=600,resizable=yes,toolbar=no,status=no');w.document.writeln('<HTML><HEAD><TITLE>BibTeX: ma2022preference</TITLE></HEAD><BODY><PRE>@inproceedings{ma2022preference,\n  author = {Ma, Zilin and Gajos, Krzysztof Z.},\n  title = {Not Just a Preference: Reducing Biased Decision-Making on Dating Websites},\n  year = {2022},\n  isbn = {9781450391573},\n  publisher = {Association for Computing Machinery},\n  address = {New York, NY, USA},\n    doi = {10.1145/3491102.3517587},\n  abstract = {As dating websites are becoming an essential part of how people meet intimate and romantic partners, it is vital to design these systems to be resistant to, or at least do not amplify, bias and discrimination. Instead, the results of our online experiment with a simulated dating website, demonstrate that popular dating website design choices, such as the user of the swipe interface (swiping in one direction to indicate a like and in the other direction to express a dislike) and match scores, resulted in people racially biases choices even when they explicitly claimed not to have considered race in their decision-making. This bias was significantly reduced when the order of information presentation was reversed such that people first saw substantive profile information related to their explicitly-stated preferences before seeing the profile name and photo. These results indicate that currently-popular design choices amplify people’s implicit biases in their choices of potential romantic partners, but the effects of the implicit biases can be reduced by carefully redesigning the dating website interfaces.},\n  booktitle = {CHI Conference on Human Factors in Computing Systems},\n  articleno = {203},\n  numpages = {14},\n  keywords = {implicit bias, dating websites},\n  location = {New Orleans, LA, USA},\n  series = {CHI \'22},\n        }\n\n</PRE></BODY></HTML>');w.document.close();return false">BibTeX</A>
 </div>
 
 <br clear="all"/>
